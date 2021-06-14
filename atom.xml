@@ -62,10 +62,10 @@
   
   <entry>
     <title>关于知识学习和公众号的思考</title>
-    <link href="https://www.lbihua.cn/2021/06/05/Thinking/knowledge%20and%20public%20account%20/"/>
-    <id>https://www.lbihua.cn/2021/06/05/Thinking/knowledge%20and%20public%20account%20/</id>
+    <link href="https://www.lbihua.cn/2021/06/05/Thinking/knowledge-and-public-account%20/"/>
+    <id>https://www.lbihua.cn/2021/06/05/Thinking/knowledge-and-public-account%20/</id>
     <published>2021-06-05T03:47:06.057Z</published>
-    <updated>2021-06-14T02:43:09.877Z</updated>
+    <updated>2021-06-14T11:22:48.115Z</updated>
     
     
     <summary type="html">如何更有效率学习</summary>
@@ -304,18 +304,18 @@
     <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
     
     
-    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
-    
     <category term="Java注解" scheme="https://www.lbihua.cn/tags/Java%E6%B3%A8%E8%A7%A3/"/>
+    
+    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>Java入门</title>
-    <link href="https://www.lbihua.cn/2021/06/05/studynotes/java-%20introduction%20/"/>
-    <id>https://www.lbihua.cn/2021/06/05/studynotes/java-%20introduction%20/</id>
+    <link href="https://www.lbihua.cn/2021/06/05/studynotes/java-introduction%20/"/>
+    <id>https://www.lbihua.cn/2021/06/05/studynotes/java-introduction%20/</id>
     <published>2021-06-05T03:47:05.929Z</published>
-    <updated>2021-06-14T10:53:35.290Z</updated>
+    <updated>2021-06-14T11:23:11.685Z</updated>
     
     
     <summary type="html">Java进阶学习之入门篇~</summary>
