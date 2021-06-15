@@ -355,384 +355,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Android软件1</title>
-    <url>/2021/06/05/Share/Android1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>在我的认知观里，一款优秀的软件应该满足以下特性，另外我也整理了以下几个我觉得生活中很实用的软件。</p>
-<blockquote>
-<ul>
-<li>一个软件就应该做好一件事。</li>
-<li>不要太多臃肿的功能。</li>
-<li>简洁高效，不要太花里胡哨。</li>
-</ul>
-</blockquote>
-<span id="more"></span>
-<h1 id="1-Office"><a href="#1-Office" class="headerlink" title="1.Office"></a>1.Office</h1><p>微软WORD,EXCEL,PPT三合一版Office，简洁无广告，它目前主要提供以下功能，并且<strong>全部免费</strong>！自从下载Android版Office后，我就把WPS卸载了，其一是广告太多，看着就烦;其二是有很多功能需要开通会员。这个Office虽然功能不多，但是应付平时的需要应该还算够用了。</p>
-<blockquote>
-<ul>
-<li>在手机和计算机之间共享文件，只需扫码即可把文件传送到计算机。</li>
-<li>图像到文本，从图像提取文本。</li>
-<li>图片到表，将表从图片提取到Excel中。</li>
-<li>文档到PDF,将文档转换为PDF。</li>
-<li>图片到PDF，基于图片创建PDF。</li>
-</ul>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523170331.gif" alt="office"></p>
-<h1 id="2-Google-Translate"><a href="#2-Google-Translate" class="headerlink" title="2.Google Translate"></a>2.Google Translate</h1><p>谷歌公司开发，也是一款很强大很简洁的翻译工具，主要的是还支持离线翻译，没有任何广告，是真正的符合了我在上面总结的全部特型。</p>
-<blockquote>
-<ul>
-<li>拍照或相册翻译。</li>
-<li>手写翻译。</li>
-<li>对话和语音翻译。</li>
-</ul>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523172655.gif" alt="translate"></p>
-<h1 id="3-Snapseed"><a href="#3-Snapseed" class="headerlink" title="3.Snapseed"></a>3.Snapseed</h1><p>也是谷歌公司开发，自带滤镜功能，并且滤镜类型非常多，最重要的还是全部免费，个人使用的体验是，上手非常简单，纯小白操作，小白也能P出高质量图片，这就满足了简洁高效的特性。</p>
-<blockquote>
-<ul>
-<li>样式丰富。</li>
-<li>工具丰富，排列整齐。</li>
-</ul>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523174739.gif" alt="Snapseed"></p>
-<h1 id="4-酷安"><a href="#4-酷安" class="headerlink" title="4.酷安"></a>4.酷安</h1><p>这是一款专门安装应用程序app的软件，相当于手机系统自带的软件商店，有时候应用商店无法找到的软件可以在这里安装，基本都能找到。不只提供软件安装功能，它还有很多功能模块。个人使用体验是：软件总体来说比较臃肿，但还是能够接受，功能繁多，眼花缭乱的感觉，平时主要用途还是安装软件吧。</p>
-<blockquote>
-<ul>
-<li>话题丰富，基本可以找到自己感兴趣的话题。</li>
-<li>多类型图片，图片质量高。</li>
-<li>数码模块，以后买数码产品可以看上面评论参考一下。</li>
-<li>评论丰富，有一定的可信度。</li>
-<li>丰富的软件生态。</li>
-</ul>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523181809.gif" alt="酷安"></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>Android</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DeepL</title>
-    <url>/2021/06/05/Share/DeepL/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="DeepL"><a href="#DeepL" class="headerlink" title="DeepL"></a>DeepL</h1><blockquote>
-<p>科技巨头谷歌（Google）、微软（Microsoft）和脸书（Facebook）都将机器学习应用到翻译领域，但一家名为DeepL的小公司却超越了他们，并且提高了该领域的标准。<br>其翻译速度可与规模庞大的竞争者相媲美，但比我们使用过的任何一个翻译工具都要准确和细致。<br>——<a href="https://techcrunch.com/2017/08/29/deepl-schools-other-online-translators-with-clever-machine-learning/" title="动点科技（TechCrunch）">动点科技（TechCrunch）</a>美国</p>
-</blockquote>
-<span id="more"></span>
-<p>本期介绍一款翻译器<strong>DeepL</strong>,可能很多人没听说过这个翻译器。</p>
-<p>可能大家用惯了比较主流的翻译器吧，比如谷歌，搜狗，必应，百度等主流翻译器。</p>
-<p>然而你可能不知道，这款毫不起眼的翻译器，才是最强最好的AI翻译工具，口说无凭，现在上图。</p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628110258.png" alt="中英对比"></p>
-<p>以上是DeepL要求中文译员对来自不同在线翻译器提供的一组翻译文本进行评估。</p>
-<p>但译员们并不知道哪个翻译版本是由哪个网站（包括百度）翻译的。</p>
-<p>如下所示，DeepL的结果被选为最佳翻译，其质量完胜其他翻译器。</p>
-<p>如果你觉得这组数据对比具有偶然性，并不能推断DeepL是最佳翻译器，那么再继续看下图，是对不同语言的对比评测：</p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628110857.png" alt="日英对比"></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628111053.png" alt="多语言对比"></p>
-<p>目前DeepL支持11种语言的双向翻译，预计以后会增加更多语言的翻译支持，接下来说说我对DeepL的使用体验。</p>
-<ul>
-<li>翻译准确度高。这个其他主流翻译器应该也是同样具备的。</li>
-<li>翻译流畅度高。这个真的没得说，DeepL给出的翻译结果可读性好，自然流畅度比其他翻译器好太多了，表示很惊喜。</li>
-</ul>
-<p>不信咱再看下图对比：</p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112100.png" alt="DeepL"></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112304.png" alt="Google"></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112415.png" alt="Baidu"></p>
-<p>仔细看看以上三张图的翻译结果，是不是觉得DeepL翻译的更自然更亲切，更贴合我们平常的语言风格？</p>
-<p>所以这就是DeepL的强大之处，它翻译的质量差不多已经接近人工翻译的质量。</p>
-<p>而其他翻译器的虽然也足够强大，但有一个明显的缺点就是直译更明显，有点”机器味”，翻译结果不自然亲切，有时难以理解。</p>
-<p>目前DeepL仅支持网页在线和Window版本，但我相信这么优秀的翻译器，后续应该会陆续开发多种平台的翻译器吧。</p>
-<p>下面我给出了DeepL的在线翻译官网，在这个网站里也可以下载相应Window版软件。</p>
-<p>我觉得这个Window版软件做的特别方便简单。</p>
-<p>其中一个便是当我们任意复制了其中一段文本时，便会自动唤醒<a href="https://www.deepl.com/translator" title="DeepL">DeepL</a>在window桌面右下角显示以供我们翻译。</p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>搜索引擎</title>
-    <url>/2021/06/05/Share/SearchEngine/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="1-多吉搜索"><a href="#1-多吉搜索" class="headerlink" title="1.多吉搜索"></a><a href="https://www.dogedoge.com/">1.多吉搜索</a></h1><blockquote>
-<p>不追踪不误导你的搜索引擎，光是不误导三个字，我都觉得它是针对某度，而且也没有广告宣传。这款搜索引擎我体验下来，觉得特别惊喜，搜索速度飞快，结果返回准确度高。我觉得平常使用的话，还是可以用它来替代某度搜索。<br><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529160307.png" alt="Snipaste_2020-05-26_22-36-42"> </p>
-</blockquote>
-<h1 id="2-magi搜索"><a href="#2-magi搜索" class="headerlink" title="2.magi搜索"></a><a href="https://magi.com/">2.magi搜索</a></h1><blockquote>
-<p>这是一个值得体验的搜索引擎，很神奇。因为它不仅收录互联网上的海量文本，还会去尝试理解并学习这些文本中蕴含的知识和数据。</p>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529154641.png" alt="image-20200529154641298"></p>
-<span id="more"></span>
-
-<h1 id="3-秘迹搜索"><a href="#3-秘迹搜索" class="headerlink" title="3.秘迹搜索"></a><a href="https://mijisou.com/">3.秘迹搜索</a></h1><blockquote>
-<p>这是一个不会跟踪你的搜索引擎，不会根据关键词追踪用户，也不会根据用户搜索历史进行广告推荐，同时它也聚合了中文搜索服务比如百度，必应搜狗等中文搜索结果，可以说搜索返回的结果会更贴合我们的需要。</p>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529154814.png" alt="Snipaste_2020-05-26_22-19-10"></p>
-<h1 id="4-茶杯狐搜索"><a href="#4-茶杯狐搜索" class="headerlink" title="4.茶杯狐搜索"></a><a href="https://www.cupfox.com/">4.茶杯狐搜索</a></h1><blockquote>
-<p>号称是中国最大的影视资源聚合搜索平台。简洁无广告;专注于搜索影视资源，不会出现多余的内容；功能筛选里有下载，在线，字幕三种选择；而且也有专门的油猴脚本使用。</p>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529161620.png" alt="Snipaste_2020-05-26_22-31-27"></p>
-<h1 id="5-极客搜索"><a href="#5-极客搜索" class="headerlink" title="5.极客搜索"></a><a href="https://s.geekbang.org/">5.极客搜索</a></h1><blockquote>
-<p>极客搜索是一款科技内容资源搜索引擎，支持搜索前端、大数据、云计算、Python、运维、javaScript、PHP、CSS、Android、AI等内容。专注于IT从业人员快速、高效的找到想要的内容。</p>
-</blockquote>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529163136.png" alt="image-20200529163135924"></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>Search</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>搜索技巧</title>
-    <url>/2021/06/05/Share/SearchSkills/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>歌曲推荐《白兰鸽巡游记》</strong></p>
-<p>“<em>年少时总是向往南方，直到青丝暮成雪的那天，才发现南方和我都是相逢一笑过客，同白兰鸽在一个安静的早晨飞回北方吧，那里冬天的寒风再怎样刺骨，可那是我的故乡啊</em>“——网易云音乐热评.</p>
-<h1 id="1-关键词搜索"><a href="#1-关键词搜索" class="headerlink" title="1.关键词搜索"></a>1.关键词搜索</h1><blockquote>
-<p>加双引号” “ 搜索法，有时候当我们搜索查找某个关键词时，加上双引号浏览器会返回与关键词相匹配吻合的结果，这样会极大提高搜索结果的准确性,详见下图。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/9d4925ba-87de-4b33-8db7-7149b07465bd.png"></p>
-<blockquote>
-<p>2.排除搜索<br>加减号法，在搜索时，如果不想看到浏览器返回的某些结果，可使用减号来排除不想看到的关键词。比如搜索时，排除百度返回的结果，如下图。<br>​</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/fea8cea0-f05b-47c6-9ab9-45c7c908c6b4.png"></p>
-<blockquote>
-<p>3.同义词搜索<br>加波浪线符号搜索法，当未能准确确定要搜索的关键词时 可以用 ~ 进行同义词搜索。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/db0c4673-78f9-4a7b-b1b0-fba22aa9bb47.png"></p>
-<span id="more"></span>
-<blockquote>
-<p>4.星号搜索<br>加星号搜索法，当忘记了搜索关键词的某些部分时，可使用 * 替代，这个星号可以表示任何字符，非常强大，特别是搜歌名时就很有用。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/a5404cd8-0833-4cd2-88af-1cdbf261d8f7.png"></p>
-<blockquote>
-<p>5.站内搜索<br>在输入框内输入这样的格式 site:网址 关键词 会返回某个网站的搜索结果。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/5c7173ac-058f-4e8f-a7d3-69e7cbc0fa69.png"></p>
-<blockquote>
-<p>6.文件类型搜索<br>文件名 filetype:文件类型，当你想寻找pdf,ppt，excel类型的文件时，这样的搜索格式就非常有用了，搜索时会更有针对性地搜索，节约了大把时间寻找文件。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/2a6673eb-2edc-40ab-a37c-d856cfff571d.png"></p>
-]]></content>
-      <categories>
-        <category>扩展阅读</category>
-      </categories>
-      <tags>
-        <tag>sources</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Typora</title>
-    <url>/2021/06/05/Share/Typora%20editor/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Typora-1"><a href="#Typora-1" class="headerlink" title="Typora[1]"></a><strong>Typora</strong>[1]</h1><h2 id="1-Markdown-amp-富文本"><a href="#1-Markdown-amp-富文本" class="headerlink" title="1.Markdown&amp;富文本"></a><strong>1.Markdown&amp;富文本</strong></h2><p>大家平常用的最多的编辑器类型应该是富文本吧，<em>word</em>算是富文本编辑器的一种，下图是它的操作界面类型。 <img src="https://imgkr.cn-bj.ufileos.com/932811f9-bb28-406d-bb7c-5b90a4f1b99b.png" alt="img"></p>
-<p>那Markdown编辑器跟它有什么区别，也可见下图。 <img src="https://imgkr.cn-bj.ufileos.com/21b9a3f6-a608-49ff-ba9e-eb67a1112457.png" alt="img"></p>
-<p>可以看到两者操作界面非常不同，Markdown多了两种操作界面，左边是编辑区，是可以用<strong>markdown标记语法</strong>编写内容的区域，而右边是预览区域，是左边编辑区用Markdown标记语法编写后的内容展示区，也是最终展示给用户的文本样式。那什么是markdown标记语法？大家可以先观察一下上图左边编辑区的文本内容，是不是不明白 <em>#</em> 号的作用？其实它是一级标题的意思，是将它后面的文本内容设为一级标题，如果有两个##号呢？那就是二级标题的意思。具体我也不用多说，如果你们感兴趣的话我在这里推荐实用Markdown教程<strong>草鸟教程Markdown</strong>[3]，我起初就是在这里入门的，而且教程内容不多也简单易学，基本上<em>学习+实践</em>40分钟左右就基本全学完了。下面开始迎接我们的主角Typora。</p>
-<span id="more"></span>
-
-<h2 id="2-现代即时渲染Markdown编辑区"><a href="#2-现代即时渲染Markdown编辑区" class="headerlink" title="2.现代即时渲染Markdown编辑区"></a><strong>2.现代即时渲染Markdown编辑区</strong></h2><p>之所以说它现代，是因为它跟传统的Markdown编辑区有很大的不同，因为它的操作界面取消了预览区，现在预览区和编辑区已经二合一了，<strong>编辑区即预览区，预览区即编辑区。</strong> 详见下图。 <img src="https://imgkr.cn-bj.ufileos.com/2f68a0ad-3e86-44db-8898-116b6191bdd1.png" alt="img"></p>
-<p>上图为什么没有Markdown标记语法痕迹？因为它在你编写完一句话时就已经自动隐藏了，但单击某一行内容还是可以显示Markdown标记语法。可以得知你在用Typora编写内容时，你可以用markdown标记语法，也可以不用markdown标记语法，如果你已经使用了markdown标记语法编写，则它在操作界面是会自动隐藏标记语法的，这时候显示的正是即时渲染后的文本内容，即“预览区的内容”。这应该是目前其他Markdown编辑器没有的功能，这是它的一大先进特点。</p>
-<h2 id="3-主题风格"><a href="#3-主题风格" class="headerlink" title="3.主题风格"></a><strong>3.主题风格</strong></h2><p>Typora支持各种类型的主题风格替换，满足你的视觉体验，每种主题界面，除了背景颜色可能会有不同外，字体样式也会有所差异。最开心的是，它不只支持夜间主题风格，满足了夜间办公的需求，也支持绿色主题风格，满足了在光线不太昏暗的情况下写作要求，尽可能地保护眼睛让眼睛不受过度疲劳。下面是它的各种主题风格，滑动可查看更多。当然如果你想要更多主题，你可以在这个<strong>主题网站</strong>[4]下载更多。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/cf3d4aec-e255-48a5-bc6c-c21745016653.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/52b5fd10-bc9e-4cde-87ef-1880902cbea5.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/2a65cc94-aa41-4fcf-b231-6abeef4ac590.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/7c48475d-6d09-4137-b1d0-3cf60979a113.png" alt="img"></p>
-<p>&lt;&lt;&lt; 左右滑动见更多 &gt;&gt;&gt;</p>
-<h2 id="4-导入导出"><a href="#4-导入导出" class="headerlink" title="4.导入导出"></a><strong>4.导入导出</strong></h2><p>Typora支持多种格式导入与导出功能。导入可支持.docx,.tex, .ltx, .rst, .rest, .org, .wiki, .dokuwiki, .textile, .opml, .epub等格式文本，导出可支持.pdf,.word,.HTML,.OPML等文本格式，其中可导出为.doc文本格式说明以后编写doc文档，完全可不用<em>wps</em>或<em>word</em>等办公工具，一个轻量级又好用的Typora就完全够用了。但是导出word格式等需要安装事先pandoc软件，这个大家不用担心，我在这里给出了<strong>Pandoc安装包链接</strong>[5]，大家需要的可以在下面复制链接在网站打开即可立马下载，很快的哦！</p>
-<h2 id="5-图片插入和源代码模式"><a href="#5-图片插入和源代码模式" class="headerlink" title="5.图片插入和源代码模式"></a><strong>5.图片插入和源代码模式</strong></h2><p>Typora 的图片插入功能是非常人性化的。因为传统原生Markdown编辑器不太注重图片插入的功能，但在 Typora 中直接使用 <em>右键 - 复制</em>或<em>Ctrl + V</em>将网络图片、剪贴板图片复制到内容中，也可以拖动本地图片到文档中，Typora 还会自动帮你插入符合 Markdown 语法的图片语句，并给它加上标题。源代码模式可以在编辑界面查看文本的markdown文本语法格式。 <img src="https://imgkr.cn-bj.ufileos.com/a96ebaf0-9234-46d4-8715-e38bf982143e.png" alt="img"></p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>其实Typora还有其他非常实用的功能，因时间有限我就暂时介绍这么多了。Typora相对来说是一款非常轻量级的Markdown编辑器，它干净，颜值又高，没有太多华而不实的功能，体现了<strong>优秀的产品首先应该是简单</strong>的思想，最重要的是使用它真的写得很舒服！</p>
-<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><p>[1] Typora: <em><a href="https://typora.io/">https://typora.io/</a></em> [2] Typora安装包链接: <em><a href="https://bihua.lanzous.com/icg3xmb">https://bihua.lanzous.com/icg3xmb</a></em> [3] 草鸟教程Markdown: <em><a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></em> [4] 主题网站: <em><a href="http://theme.typora.io/">http://theme.typora.io/</a></em> [5] Pandoc安装包: <em><a href="https://bihua.lanzous.com/icd3ppi">https://bihua.lanzous.com/icd3ppi</a></em></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思维导图</title>
-    <url>/2021/06/05/Share/mindmapping/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>歌曲推荐：《不露声色》</p>
-<p>“中伤不是你的强项，黑夜看不见你的坚强，流放变成我的苍凉，鼓声牵引着谁的心脏。”——网页云音乐热评</p>
-</blockquote>
-<h1 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h1><p>思维导图应该是大家都熟知的东西，但我想真正能经常使用的，应该没几个吧，其实它的好处真的还挺多，大家可能嫌它做起来麻烦而放弃使用，但相信我只要熟练使用后你会发现它有多方便强大。</p>
-<h3 id="1-优点："><a href="#1-优点：" class="headerlink" title="1.优点："></a>1.优点：</h3><blockquote>
-<ul>
-<li><p>可视性：以图形的形式呈现，更直观形象，易于记忆。</p>
-</li>
-<li><p>系统性:以主题为中心，向周围扩展更多分支主题，每个分支主题也可继续扩展子主题，<strong>便于管理知识并能形成系统性知识框架</strong>。</p>
-</li>
-<li><p>自由性:形式自由，编辑时没有太多限制和要求。</p>
-</li>
-<li><p>简便性：便于复习，增加删除也相对灵活点。</p>
-</li>
-</ul>
-</blockquote>
-<p>它的原理是：用图表的形式表现大脑的发散性思维，主观上是大脑发散性思维的外部视觉体现。</p>
-<span id="more"></span>
-<h3 id="2-它有很多用途比如："><a href="#2-它有很多用途比如：" class="headerlink" title="2.它有很多用途比如："></a>2.它有很多用途比如：</h3><ul>
-<li>课程知识点总结。</li>
-<li>记录抄写</li>
-<li>决策策划</li>
-<li>…</li>
-</ul>
-<p>下面是一个思维导图例子：<br><img src="https://imgkr.cn-bj.ufileos.com/2a6a005c-60bd-446d-9eb2-1eae39b57255.png"></p>
-<h1 id="2-xmind"><a href="#2-xmind" class="headerlink" title="2.xmind"></a>2.xmind</h1><p>对于思维导图软件的选择，个人推荐<strong>xmind</strong>,很亲民强大，这里说的强大，在我看来就是导入导出功能，这方面是我的刚需。它支持的导入导出格式如下：<br><img src="https://imgkr.cn-bj.ufileos.com/83f21bf8-39f5-42c6-920c-80f83e13d7f8.png" alt="导出"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/a800f8fa-65b6-452b-909e-850a2336854a.png" alt="导入"><br>另外它也有很多种主题风格可换，下图只是它众多主题风格中的少数几个：</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/1440576d-803c-40d3-9a19-7190bd728d7f.png"><br>当然，它并不是免费的，有些功能是需要开通会员服务才可以免费使用，尽管开源的思维导图软件也不少，但是有些并不能满足我的刚需，而且功能也不是很完全，所以我更愿意使用xmind,但这并不意味着我就要花钱买它的会员服务。如果大家有需要，我在下面给出window版<a href="https://bihua.lanzous.com/b00tmlbed" title="全功能版xmind">全功能版xmind</a>，密码<strong>czj6</strong>，<a href="https://bihua.lanzous.com/iO9Dqdq3hla" title="Android版xmind">Android版xmind</a>破除会员功能限制，如有需要可下载并按照使用说明安装即可。</p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>sources</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三款网盘工具</title>
-    <url>/2021/06/05/Share/netdisk/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p><strong>歌曲推荐《岁月神偷》</strong></p>
-<p>“<em>唐朝的离婚书是这样写的：愿娘子相离之后， 重梳婵鬓美扫峨眉 ，巧呈窈窕之姿 ，选聘高官之主 ，解怨释结更莫相憎 ，一别两宽各生欢喜</em>“——网易云音乐热评.</p>
-</blockquote>
-<hr>
-<hr>
-<blockquote>
-<p>推荐几款网盘工具网站，大家平时有需要的话尽量用这些网盘工具网站，这些网盘网站相比百度网盘优点不要说太多了，没有众多限制，最重要的是可以直接在线上传下载，不用打开客户端软件。<em>链接已在文末给出</em>。</p>
-</blockquote>
-<span id="more"></span>
-<h1 id="1-奶牛快传"><a href="#1-奶牛快传" class="headerlink" title="1.奶牛快传"></a><a href="https://cowtransfer.com/" title="1.奶牛快传">1.奶牛快传</a></h1><blockquote>
-<p>非常有颜值的在线网盘网站，不用登录即可上传下载，但是有广告，but,它的广告却又不那么惹人厌，相反非常的文艺，精美，高端大气上档次！我已经在上面看了好几个广告！接下来不多说，评价时候到了。</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：2GB。</p>
-<p>3.文件存储空间大小：5GB。</p>
-<p>4.分享链接有效期：7天。</p>
-<p>5.支持平台：android,ios,小程序，网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/aeaa2708-9aaf-49d2-8ab6-e512e959d177.png"></p>
-<h1 id="2-蓝奏云"><a href="#2-蓝奏云" class="headerlink" title="2.蓝奏云"></a>2.<a href="https://www.lanzou.com/" title="蓝奏云">蓝奏云</a></h1><blockquote>
-<p>这是我常用的第三方网盘工具，只是需要登录才能上传下载，但它的优势还是很明显的，相比上面奶牛快传，它更满足我的刚需功能。</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：100MB。</p>
-<p>3.文件存储空间大小：<em><strong>不限制！</strong></em></p>
-<p>4。分享链接有限期：<em><strong>不限制！</strong></em></p>
-<p>5.支持平台：仅支持Android和网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/e77ea3f8-c3ad-46a7-acb3-871d570b50aa.png"></p>
-<h1 id="3-文叔叔"><a href="#3-文叔叔" class="headerlink" title="3.文叔叔"></a>3.<a href="https://www.wenshushu.cn/" title="文叔叔">文叔叔</a></h1><blockquote>
-<p>也是不用登录即可使用的在线网盘工具，但它有个最大的特色，就是生成分享链接的同时可以发送到对方<strong>电子邮件或手机号</strong>，这就很炫酷了。除此以外，上传文件的时候可以批量上传文件或文件夹，完全<strong>不用打包压缩</strong>，别提多方便了！</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：5GB。</p>
-<p>3.文件存储空间大小：<em><strong>20GB。</strong></em></p>
-<p>4.分享链接有效期：起初两天，到期后可自动续期，最长只能保留7天。会员更长。</p>
-<p>5.支持平台：android,ios,小程序。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/9f8d1cf6-5860-447d-8b58-88d6629d14b1.png"></p>
-<p><em>ps:</em> 以上对所有在线网盘的介绍适用于免费的情况，这些网盘工具都有付费会员等级，就不一一介绍了，对于网盘工具的选择，按个人需求选择就足够了，基本都没什么区别。</p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>网盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>实用网站2</title>
-    <url>/2021/06/05/Share/website2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这期向大家推荐几个压箱底的实用网站，这些网站工具可以更好地提升大家的数字生活效率和扩展知识面。</p>
-<h2 id="1-AI人工智能无损放大"><a href="#1-AI人工智能无损放大" class="headerlink" title="1.AI人工智能无损放大 "></a><a href="https://bigjpg.com/" title="1.AI人工智能无损放大 ">1.AI人工智能无损放大 </a></h2><p>这是一个特别的图片放大网站，与传统的图片放大软件比如<em>photozoom</em>或者<em>PS</em>不同，因为这些传统软件放大后的图片依然有明显的模糊感，边缘的重影以及噪点，这个网站放大后的图片就不会有明显的模糊感，而且本身很清晰的图片在这里放大后色彩会更明显更清晰，当然你也可以不用放大而仅降噪也可以提高清晰度。这个网站也提供了不限平台软件下载和小程序。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/147e34f0-f62b-481f-9179-a2819a6898a1.png"></p>
-<h2 id="2-船长解析-VIP在线解析"><a href="#2-船长解析-VIP在线解析" class="headerlink" title="2.船长解析-VIP在线解析"></a><a href="http://czjx8.com/" title="2.船长解析-VIP在线解析">2.船长解析-VIP在线解析</a></h2><p>这是一个免费的视频平台网站，悄悄告诉你，可观看各大平台<em>vip</em>和<em>付费视频</em>哦，而且视频画质也是很清晰呢，咱们要低调使用。具体用法是先在热门视频网站比如某讯打开要观看的影片，复制浏览器上方地址，最后粘贴在这个网站空白处并单击<strong>立即播放</strong>就可以，如果播放失败也没关系，一共有3个接口，更换接口就即可,也可支持手机观看。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/96d3f083-ce9c-4c8a-9ab7-163810b94894.png"></p>
-<h2 id="3-免费素材照片"><a href="#3-免费素材照片" class="headerlink" title="3.免费素材照片"></a><a href="https://www.pexels.com/zh-cn/" title="3.免费素材照片">3.免费素材照片</a></h2><p>这是免费的<strong>全球图片&amp;视频网站</strong>，在这里你可以找到各种类型的照片或视频，并且可免费商用，完全不用担心侵权的问题。网站图片质量很高，其中不缺乏有很多知名摄影师的拍摄作品，当然你也可以在上面上传你自己的作品。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/9da6c2cd-b7cc-46bb-b6b4-50afd5099898.png"></p>
-<span id="more"></span>
-
-<h2 id="4-医学微视"><a href="#4-医学微视" class="headerlink" title="4.医学微视"></a><a href="https://www.mvyxws.com/" title="4.医学微视">4.医学微视</a></h2><p>这是由中国医药卫生事业发展基金会和吴阶平医学基金会联合主办的医学微视频网站，里面包含各种科类疾病的微视频，视频时长不是很长，普遍5分钟左右，而且内容都是医学专家对某种疾病的讲解，内容也是很通俗易懂，可以说小白也可以在上面学习简单的医学知识，上面几乎涵盖了所有种类疾病的讲解，即使学不了医，在上面学学医学小知识也是挺不错呢。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/894cd4f4-169c-4f1d-88d4-e00200c05a64.png"></p>
-<h2 id="5-MyFreeMP3"><a href="#5-MyFreeMP3" class="headerlink" title="5.MyFreeMP3"></a><a href="http://tool.liumingye.cn/music/?page=homePage" title="5.MyFreeMP3">5.MyFreeMP3</a></h2><p>这是免费的音乐在线下载网站，可以下载VIP和付费音乐，同时也支持网页在线播放，而且还支持音乐专辑封面，歌词等下载。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/ab13936d-694f-4240-a0ee-0646fa1fadef.png"></p>
-<h2 id="6-鸠摩搜索"><a href="#6-鸠摩搜索" class="headerlink" title="6.鸠摩搜索"></a><a href="https://www.jiumodiary.com/" title="6.鸠摩搜索">6.鸠摩搜索</a></h2><p>电子书搜索网站，可支持<strong>PDF</strong>,<strong>TXT</strong>,<strong>MOBI</strong>,<strong>DOC</strong>等格式电子书下载。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/1c8eb327-9157-4be6-a7e6-db3db4e2dbf8.png"></p>
-<h2 id="7-二维码美化"><a href="#7-二维码美化" class="headerlink" title="7.二维码美化"></a><a href="https://www.meihuama.com/" title="7.二维码美化">7.二维码美化</a></h2><p>一个非主流二维码美化网站，可以美化自己微信，QQ，公众号等二维码。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/b370de18-bfc6-4a98-9a8a-79895044e616.png"></p>
-<h2 id="8-大数据查答案"><a href="#8-大数据查答案" class="headerlink" title="8.大数据查答案"></a><a href="https://www.shangxueba365.com/" title="8.大数据查答案">8.大数据查答案</a></h2><p>这是一个可以搜答案的网站，不限题型，对于做网课的大学生来说特别有用。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/3edd79a3-b5b2-414d-8619-721eaf418456.png"></p>
-<h2 id="9-oeasy"><a href="#9-oeasy" class="headerlink" title="9.oeasy"></a><a href="http://oeasy.org/" title="9.oeasy">9.oeasy</a></h2><p>这个网站就特别有用了，它是一个免费的视频教程网站，教程内容包括<strong>PS</strong>,<strong>手机摄影</strong>,<strong>excel</strong>等等，而且据作者说是为没钱学的老百姓免费做的教程，我在上面看过几个视频教程，感觉还可以，而且其在B站的视频也很火，粉丝们反响都不错。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/01f834dc-02dc-4085-b14b-c5406812b7ad.png"></p>
-<h2 id="10-在线PS"><a href="#10-在线PS" class="headerlink" title="10.在线PS"></a><a href="https://www.uupoop.com/" title="10.在线PS">10.在线PS</a></h2><p>一个网页版ps网站，可以说photo该有的功能这个网站多多少少也具备，比ps软件也方便得多，直接在线打开即可用。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/fc998f5b-2fea-46e5-be7b-a2d097b5f60e.png"></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>source</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>实用网站1</title>
-    <url>/2021/06/05/Share/website1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p><strong>歌曲推荐《借我》</strong><br>*”不是纵容的悲怆与哭喊，而是平静的呢喃与诉说。”*——网易云音乐热评</p>
-</blockquote>
-<hr>
-<blockquote>
-<h2 id="1-苦瓜书盘"><a href="#1-苦瓜书盘" class="headerlink" title="1.苦瓜书盘"></a><a href="https://kgbook.com/" title="1.苦瓜书盘">1.苦瓜书盘</a></h2><p>电子书搜索网站，支持各种类型的书籍搜索,书籍质量还算高清。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/7a1ed033-370d-4f10-8ca7-d6ab46a8b5c7.png"></p>
-<blockquote>
-<h2 id="2-资源帝"><a href="#2-资源帝" class="headerlink" title="2.资源帝"></a><a href="http://shu.ziyuandi.cn/" title="2.资源帝">2.资源帝</a></h2><p>同样也是电子书搜索网站，支持多站点电子书搜索，相比上面电子书搜索网站来说，资源应该更全些，也更容易找到需要的电子书籍。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/8b549d94-19e7-4235-8f3a-d3f7b684c882.png"></p>
-<blockquote>
-<h2 id="3-超级简历"><a href="#3-超级简历" class="headerlink" title="3.超级简历"></a><a href="https://www.wondercv.com/" title="3.超级简历">3.超级简历</a></h2><p>简历生成网站，里面的简历模板也可免费使用，好的简历会让HR眼前一亮，不容易被刷下去，建议大家先收藏好这个网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/088ead01-2602-4496-8529-7cdfe0487641.png"></p>
-<span id="more"></span>
-
-<blockquote>
-<h2 id="4-网易见外工作台"><a href="#4-网易见外工作台" class="headerlink" title="4.网易见外工作台"></a><a href="https://jianwai.youdao.com/index/0" title="4.网易见外工作台">4.网易见外工作台</a></h2><p>网易出品，可以进行视频转写(<strong>生成与视频对应的字幕</strong>)，视频翻译，文档翻译，语音翻译等。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/5e4a9507-0046-4711-a3e1-4ae1bf17c649.png"></p>
-<blockquote>
-<h2 id="5-超级PPT市场"><a href="#5-超级PPT市场" class="headerlink" title="5.超级PPT市场"></a><a href="http://ppt.sotary.com/web/wxapp/index.html" title="5.超级PPT市场">5.超级PPT市场</a></h2><p>完全免费的PPT模板下载网站，不需要注册登录，可以利用搜索功能搜索需要的模板。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/e19e5370-0fcc-4f61-b81c-d1034bbcf05e.png"></p>
-<blockquote>
-<h2 id="6-蜜蜂剪辑"><a href="#6-蜜蜂剪辑" class="headerlink" title="6.蜜蜂剪辑"></a><a href="https://beecut.cn/online-video-editor" title="6.蜜蜂剪辑">6.蜜蜂剪辑</a></h2><p>支持多种功能的在线视频编辑，比如视频转GIF，视频截取等。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/d258eb36-9fa8-4fc3-b61c-ac2e6dfa4f1f.png"></p>
-<blockquote>
-<h2 id="7-在线格式转换"><a href="#7-在线格式转换" class="headerlink" title="7.在线格式转换"></a><a href="https://www.alltoall.net/" title="7.在线格式转换">7.在线格式转换</a></h2><p>功能特别全特别强大的在线格式转换，支持PDF转换，也支持视频转换，音频转换，电子书转换等等，基本上可以说，不管什么形式的格式转换，这个网站都支持。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/0c556ecf-2d5e-4ee9-b312-6d7551d304da.png"></p>
-<blockquote>
-<h2 id="8-爱文库"><a href="#8-爱文库" class="headerlink" title="8.爱文库"></a><a href="http://www.258wk.com/" title="8.爱文库">8.爱文库</a></h2><p>直接下载百度文库<strong>VIP和收费文档</strong>，不需要任何下载券。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/679b6c91-e242-43f1-bd0e-6dc4463a1121.png"></p>
-<blockquote>
-<h2 id="9-Neets搜索站"><a href="#9-Neets搜索站" class="headerlink" title="9.Neets搜索站"></a><a href="http://neets.cc/" title="9.Neets搜索站">9.Neets搜索站</a></h2><p>在线看视频网站，支持美剧韩剧日剧等观看，当然也支持番剧，</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/3d9b1a3a-ebbb-4d69-bf71-e60a84143ab2.png"></p>
-<blockquote>
-<h2 id="10-易破解"><a href="#10-易破解" class="headerlink" title="10.易破解"></a><a href="https://www.ypojie.com/" title="10.易破解">10.易破解</a></h2><p>有时候使用一些需要注册才能使用的软件，也或者是需要开通会员或者付费才能使用的功能，可以在这里寻找破解版软件，放心，软件都是安全无害的。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/d026e01e-7159-4649-af42-d169c2433b71.png"></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>sources</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于大学生活的一点思考总结</title>
     <url>/2021/06/05/Thinking/About_college/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -996,6 +618,445 @@
       </tags>
   </entry>
   <entry>
+    <title>Android软件1</title>
+    <url>/2021/06/05/Share/Android1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>在我的认知观里，一款优秀的软件应该满足以下特性，另外我也整理了以下几个我觉得生活中很实用的软件。</p>
+<blockquote>
+<ul>
+<li>一个软件就应该做好一件事。</li>
+<li>不要太多臃肿的功能。</li>
+<li>简洁高效，不要太花里胡哨。</li>
+</ul>
+</blockquote>
+<span id="more"></span>
+<h1 id="1-Office"><a href="#1-Office" class="headerlink" title="1.Office"></a>1.Office</h1><p>微软WORD,EXCEL,PPT三合一版Office，简洁无广告，它目前主要提供以下功能，并且<strong>全部免费</strong>！自从下载Android版Office后，我就把WPS卸载了，其一是广告太多，看着就烦;其二是有很多功能需要开通会员。这个Office虽然功能不多，但是应付平时的需要应该还算够用了。</p>
+<blockquote>
+<ul>
+<li>在手机和计算机之间共享文件，只需扫码即可把文件传送到计算机。</li>
+<li>图像到文本，从图像提取文本。</li>
+<li>图片到表，将表从图片提取到Excel中。</li>
+<li>文档到PDF,将文档转换为PDF。</li>
+<li>图片到PDF，基于图片创建PDF。</li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523170331.gif" alt="office"></p>
+<h1 id="2-Google-Translate"><a href="#2-Google-Translate" class="headerlink" title="2.Google Translate"></a>2.Google Translate</h1><p>谷歌公司开发，也是一款很强大很简洁的翻译工具，主要的是还支持离线翻译，没有任何广告，是真正的符合了我在上面总结的全部特型。</p>
+<blockquote>
+<ul>
+<li>拍照或相册翻译。</li>
+<li>手写翻译。</li>
+<li>对话和语音翻译。</li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523172655.gif" alt="translate"></p>
+<h1 id="3-Snapseed"><a href="#3-Snapseed" class="headerlink" title="3.Snapseed"></a>3.Snapseed</h1><p>也是谷歌公司开发，自带滤镜功能，并且滤镜类型非常多，最重要的还是全部免费，个人使用的体验是，上手非常简单，纯小白操作，小白也能P出高质量图片，这就满足了简洁高效的特性。</p>
+<blockquote>
+<ul>
+<li>样式丰富。</li>
+<li>工具丰富，排列整齐。</li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523174739.gif" alt="Snapseed"></p>
+<h1 id="4-酷安"><a href="#4-酷安" class="headerlink" title="4.酷安"></a>4.酷安</h1><p>这是一款专门安装应用程序app的软件，相当于手机系统自带的软件商店，有时候应用商店无法找到的软件可以在这里安装，基本都能找到。不只提供软件安装功能，它还有很多功能模块。个人使用体验是：软件总体来说比较臃肿，但还是能够接受，功能繁多，眼花缭乱的感觉，平时主要用途还是安装软件吧。</p>
+<blockquote>
+<ul>
+<li>话题丰富，基本可以找到自己感兴趣的话题。</li>
+<li>多类型图片，图片质量高。</li>
+<li>数码模块，以后买数码产品可以看上面评论参考一下。</li>
+<li>评论丰富，有一定的可信度。</li>
+<li>丰富的软件生态。</li>
+</ul>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200523181809.gif" alt="酷安"></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>搜索引擎</title>
+    <url>/2021/06/05/Share/SearchEngine/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="1-多吉搜索"><a href="#1-多吉搜索" class="headerlink" title="1.多吉搜索"></a><a href="https://www.dogedoge.com/">1.多吉搜索</a></h1><blockquote>
+<p>不追踪不误导你的搜索引擎，光是不误导三个字，我都觉得它是针对某度，而且也没有广告宣传。这款搜索引擎我体验下来，觉得特别惊喜，搜索速度飞快，结果返回准确度高。我觉得平常使用的话，还是可以用它来替代某度搜索。<br><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529160307.png" alt="Snipaste_2020-05-26_22-36-42"> </p>
+</blockquote>
+<h1 id="2-magi搜索"><a href="#2-magi搜索" class="headerlink" title="2.magi搜索"></a><a href="https://magi.com/">2.magi搜索</a></h1><blockquote>
+<p>这是一个值得体验的搜索引擎，很神奇。因为它不仅收录互联网上的海量文本，还会去尝试理解并学习这些文本中蕴含的知识和数据。</p>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529154641.png" alt="image-20200529154641298"></p>
+<span id="more"></span>
+
+<h1 id="3-秘迹搜索"><a href="#3-秘迹搜索" class="headerlink" title="3.秘迹搜索"></a><a href="https://mijisou.com/">3.秘迹搜索</a></h1><blockquote>
+<p>这是一个不会跟踪你的搜索引擎，不会根据关键词追踪用户，也不会根据用户搜索历史进行广告推荐，同时它也聚合了中文搜索服务比如百度，必应搜狗等中文搜索结果，可以说搜索返回的结果会更贴合我们的需要。</p>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529154814.png" alt="Snipaste_2020-05-26_22-19-10"></p>
+<h1 id="4-茶杯狐搜索"><a href="#4-茶杯狐搜索" class="headerlink" title="4.茶杯狐搜索"></a><a href="https://www.cupfox.com/">4.茶杯狐搜索</a></h1><blockquote>
+<p>号称是中国最大的影视资源聚合搜索平台。简洁无广告;专注于搜索影视资源，不会出现多余的内容；功能筛选里有下载，在线，字幕三种选择；而且也有专门的油猴脚本使用。</p>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529161620.png" alt="Snipaste_2020-05-26_22-31-27"></p>
+<h1 id="5-极客搜索"><a href="#5-极客搜索" class="headerlink" title="5.极客搜索"></a><a href="https://s.geekbang.org/">5.极客搜索</a></h1><blockquote>
+<p>极客搜索是一款科技内容资源搜索引擎，支持搜索前端、大数据、云计算、Python、运维、javaScript、PHP、CSS、Android、AI等内容。专注于IT从业人员快速、高效的找到想要的内容。</p>
+</blockquote>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529163136.png" alt="image-20200529163135924"></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>Search</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DeepL</title>
+    <url>/2021/06/05/Share/DeepL/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="DeepL"><a href="#DeepL" class="headerlink" title="DeepL"></a>DeepL</h1><blockquote>
+<p>科技巨头谷歌（Google）、微软（Microsoft）和脸书（Facebook）都将机器学习应用到翻译领域，但一家名为DeepL的小公司却超越了他们，并且提高了该领域的标准。<br>其翻译速度可与规模庞大的竞争者相媲美，但比我们使用过的任何一个翻译工具都要准确和细致。<br>——<a href="https://techcrunch.com/2017/08/29/deepl-schools-other-online-translators-with-clever-machine-learning/" title="动点科技（TechCrunch）">动点科技（TechCrunch）</a>美国</p>
+</blockquote>
+<span id="more"></span>
+<p>本期介绍一款翻译器<strong>DeepL</strong>,可能很多人没听说过这个翻译器。</p>
+<p>可能大家用惯了比较主流的翻译器吧，比如谷歌，搜狗，必应，百度等主流翻译器。</p>
+<p>然而你可能不知道，这款毫不起眼的翻译器，才是最强最好的AI翻译工具，口说无凭，现在上图。</p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628110258.png" alt="中英对比"></p>
+<p>以上是DeepL要求中文译员对来自不同在线翻译器提供的一组翻译文本进行评估。</p>
+<p>但译员们并不知道哪个翻译版本是由哪个网站（包括百度）翻译的。</p>
+<p>如下所示，DeepL的结果被选为最佳翻译，其质量完胜其他翻译器。</p>
+<p>如果你觉得这组数据对比具有偶然性，并不能推断DeepL是最佳翻译器，那么再继续看下图，是对不同语言的对比评测：</p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628110857.png" alt="日英对比"></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628111053.png" alt="多语言对比"></p>
+<p>目前DeepL支持11种语言的双向翻译，预计以后会增加更多语言的翻译支持，接下来说说我对DeepL的使用体验。</p>
+<ul>
+<li>翻译准确度高。这个其他主流翻译器应该也是同样具备的。</li>
+<li>翻译流畅度高。这个真的没得说，DeepL给出的翻译结果可读性好，自然流畅度比其他翻译器好太多了，表示很惊喜。</li>
+</ul>
+<p>不信咱再看下图对比：</p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112100.png" alt="DeepL"></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112304.png" alt="Google"></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200628112415.png" alt="Baidu"></p>
+<p>仔细看看以上三张图的翻译结果，是不是觉得DeepL翻译的更自然更亲切，更贴合我们平常的语言风格？</p>
+<p>所以这就是DeepL的强大之处，它翻译的质量差不多已经接近人工翻译的质量。</p>
+<p>而其他翻译器的虽然也足够强大，但有一个明显的缺点就是直译更明显，有点”机器味”，翻译结果不自然亲切，有时难以理解。</p>
+<p>目前DeepL仅支持网页在线和Window版本，但我相信这么优秀的翻译器，后续应该会陆续开发多种平台的翻译器吧。</p>
+<p>下面我给出了DeepL的在线翻译官网，在这个网站里也可以下载相应Window版软件。</p>
+<p>我觉得这个Window版软件做的特别方便简单。</p>
+<p>其中一个便是当我们任意复制了其中一段文本时，便会自动唤醒<a href="https://www.deepl.com/translator" title="DeepL">DeepL</a>在window桌面右下角显示以供我们翻译。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>搜索技巧</title>
+    <url>/2021/06/05/Share/SearchSkills/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>歌曲推荐《白兰鸽巡游记》</strong></p>
+<p>“<em>年少时总是向往南方，直到青丝暮成雪的那天，才发现南方和我都是相逢一笑过客，同白兰鸽在一个安静的早晨飞回北方吧，那里冬天的寒风再怎样刺骨，可那是我的故乡啊</em>“——网易云音乐热评.</p>
+<h1 id="1-关键词搜索"><a href="#1-关键词搜索" class="headerlink" title="1.关键词搜索"></a>1.关键词搜索</h1><blockquote>
+<p>加双引号” “ 搜索法，有时候当我们搜索查找某个关键词时，加上双引号浏览器会返回与关键词相匹配吻合的结果，这样会极大提高搜索结果的准确性,详见下图。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/9d4925ba-87de-4b33-8db7-7149b07465bd.png"></p>
+<blockquote>
+<p>2.排除搜索<br>加减号法，在搜索时，如果不想看到浏览器返回的某些结果，可使用减号来排除不想看到的关键词。比如搜索时，排除百度返回的结果，如下图。<br>​</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/fea8cea0-f05b-47c6-9ab9-45c7c908c6b4.png"></p>
+<blockquote>
+<p>3.同义词搜索<br>加波浪线符号搜索法，当未能准确确定要搜索的关键词时 可以用 ~ 进行同义词搜索。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/db0c4673-78f9-4a7b-b1b0-fba22aa9bb47.png"></p>
+<span id="more"></span>
+<blockquote>
+<p>4.星号搜索<br>加星号搜索法，当忘记了搜索关键词的某些部分时，可使用 * 替代，这个星号可以表示任何字符，非常强大，特别是搜歌名时就很有用。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/a5404cd8-0833-4cd2-88af-1cdbf261d8f7.png"></p>
+<blockquote>
+<p>5.站内搜索<br>在输入框内输入这样的格式 site:网址 关键词 会返回某个网站的搜索结果。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/5c7173ac-058f-4e8f-a7d3-69e7cbc0fa69.png"></p>
+<blockquote>
+<p>6.文件类型搜索<br>文件名 filetype:文件类型，当你想寻找pdf,ppt，excel类型的文件时，这样的搜索格式就非常有用了，搜索时会更有针对性地搜索，节约了大把时间寻找文件。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/2a6673eb-2edc-40ab-a37c-d856cfff571d.png"></p>
+]]></content>
+      <categories>
+        <category>扩展阅读</category>
+      </categories>
+      <tags>
+        <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Typora</title>
+    <url>/2021/06/05/Share/Typora%20editor/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Typora-1"><a href="#Typora-1" class="headerlink" title="Typora[1]"></a><strong>Typora</strong>[1]</h1><h2 id="1-Markdown-amp-富文本"><a href="#1-Markdown-amp-富文本" class="headerlink" title="1.Markdown&amp;富文本"></a><strong>1.Markdown&amp;富文本</strong></h2><p>大家平常用的最多的编辑器类型应该是富文本吧，<em>word</em>算是富文本编辑器的一种，下图是它的操作界面类型。 <img src="https://imgkr.cn-bj.ufileos.com/932811f9-bb28-406d-bb7c-5b90a4f1b99b.png" alt="img"></p>
+<p>那Markdown编辑器跟它有什么区别，也可见下图。 <img src="https://imgkr.cn-bj.ufileos.com/21b9a3f6-a608-49ff-ba9e-eb67a1112457.png" alt="img"></p>
+<p>可以看到两者操作界面非常不同，Markdown多了两种操作界面，左边是编辑区，是可以用<strong>markdown标记语法</strong>编写内容的区域，而右边是预览区域，是左边编辑区用Markdown标记语法编写后的内容展示区，也是最终展示给用户的文本样式。那什么是markdown标记语法？大家可以先观察一下上图左边编辑区的文本内容，是不是不明白 <em>#</em> 号的作用？其实它是一级标题的意思，是将它后面的文本内容设为一级标题，如果有两个##号呢？那就是二级标题的意思。具体我也不用多说，如果你们感兴趣的话我在这里推荐实用Markdown教程<strong>草鸟教程Markdown</strong>[3]，我起初就是在这里入门的，而且教程内容不多也简单易学，基本上<em>学习+实践</em>40分钟左右就基本全学完了。下面开始迎接我们的主角Typora。</p>
+<span id="more"></span>
+
+<h2 id="2-现代即时渲染Markdown编辑区"><a href="#2-现代即时渲染Markdown编辑区" class="headerlink" title="2.现代即时渲染Markdown编辑区"></a><strong>2.现代即时渲染Markdown编辑区</strong></h2><p>之所以说它现代，是因为它跟传统的Markdown编辑区有很大的不同，因为它的操作界面取消了预览区，现在预览区和编辑区已经二合一了，<strong>编辑区即预览区，预览区即编辑区。</strong> 详见下图。 <img src="https://imgkr.cn-bj.ufileos.com/2f68a0ad-3e86-44db-8898-116b6191bdd1.png" alt="img"></p>
+<p>上图为什么没有Markdown标记语法痕迹？因为它在你编写完一句话时就已经自动隐藏了，但单击某一行内容还是可以显示Markdown标记语法。可以得知你在用Typora编写内容时，你可以用markdown标记语法，也可以不用markdown标记语法，如果你已经使用了markdown标记语法编写，则它在操作界面是会自动隐藏标记语法的，这时候显示的正是即时渲染后的文本内容，即“预览区的内容”。这应该是目前其他Markdown编辑器没有的功能，这是它的一大先进特点。</p>
+<h2 id="3-主题风格"><a href="#3-主题风格" class="headerlink" title="3.主题风格"></a><strong>3.主题风格</strong></h2><p>Typora支持各种类型的主题风格替换，满足你的视觉体验，每种主题界面，除了背景颜色可能会有不同外，字体样式也会有所差异。最开心的是，它不只支持夜间主题风格，满足了夜间办公的需求，也支持绿色主题风格，满足了在光线不太昏暗的情况下写作要求，尽可能地保护眼睛让眼睛不受过度疲劳。下面是它的各种主题风格，滑动可查看更多。当然如果你想要更多主题，你可以在这个<strong>主题网站</strong>[4]下载更多。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/cf3d4aec-e255-48a5-bc6c-c21745016653.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/52b5fd10-bc9e-4cde-87ef-1880902cbea5.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/2a65cc94-aa41-4fcf-b231-6abeef4ac590.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/7c48475d-6d09-4137-b1d0-3cf60979a113.png" alt="img"></p>
+<p>&lt;&lt;&lt; 左右滑动见更多 &gt;&gt;&gt;</p>
+<h2 id="4-导入导出"><a href="#4-导入导出" class="headerlink" title="4.导入导出"></a><strong>4.导入导出</strong></h2><p>Typora支持多种格式导入与导出功能。导入可支持.docx,.tex, .ltx, .rst, .rest, .org, .wiki, .dokuwiki, .textile, .opml, .epub等格式文本，导出可支持.pdf,.word,.HTML,.OPML等文本格式，其中可导出为.doc文本格式说明以后编写doc文档，完全可不用<em>wps</em>或<em>word</em>等办公工具，一个轻量级又好用的Typora就完全够用了。但是导出word格式等需要安装事先pandoc软件，这个大家不用担心，我在这里给出了<strong>Pandoc安装包链接</strong>[5]，大家需要的可以在下面复制链接在网站打开即可立马下载，很快的哦！</p>
+<h2 id="5-图片插入和源代码模式"><a href="#5-图片插入和源代码模式" class="headerlink" title="5.图片插入和源代码模式"></a><strong>5.图片插入和源代码模式</strong></h2><p>Typora 的图片插入功能是非常人性化的。因为传统原生Markdown编辑器不太注重图片插入的功能，但在 Typora 中直接使用 <em>右键 - 复制</em>或<em>Ctrl + V</em>将网络图片、剪贴板图片复制到内容中，也可以拖动本地图片到文档中，Typora 还会自动帮你插入符合 Markdown 语法的图片语句，并给它加上标题。源代码模式可以在编辑界面查看文本的markdown文本语法格式。 <img src="https://imgkr.cn-bj.ufileos.com/a96ebaf0-9234-46d4-8715-e38bf982143e.png" alt="img"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>其实Typora还有其他非常实用的功能，因时间有限我就暂时介绍这么多了。Typora相对来说是一款非常轻量级的Markdown编辑器，它干净，颜值又高，没有太多华而不实的功能，体现了<strong>优秀的产品首先应该是简单</strong>的思想，最重要的是使用它真的写得很舒服！</p>
+<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><p>[1] Typora: <em><a href="https://typora.io/">https://typora.io/</a></em> [2] Typora安装包链接: <em><a href="https://bihua.lanzous.com/icg3xmb">https://bihua.lanzous.com/icg3xmb</a></em> [3] 草鸟教程Markdown: <em><a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></em> [4] 主题网站: <em><a href="http://theme.typora.io/">http://theme.typora.io/</a></em> [5] Pandoc安装包: <em><a href="https://bihua.lanzous.com/icd3ppi">https://bihua.lanzous.com/icd3ppi</a></em></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思维导图</title>
+    <url>/2021/06/05/Share/mindmapping/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>歌曲推荐：《不露声色》</p>
+<p>“中伤不是你的强项，黑夜看不见你的坚强，流放变成我的苍凉，鼓声牵引着谁的心脏。”——网页云音乐热评</p>
+</blockquote>
+<h1 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h1><p>思维导图应该是大家都熟知的东西，但我想真正能经常使用的，应该没几个吧，其实它的好处真的还挺多，大家可能嫌它做起来麻烦而放弃使用，但相信我只要熟练使用后你会发现它有多方便强大。</p>
+<h3 id="1-优点："><a href="#1-优点：" class="headerlink" title="1.优点："></a>1.优点：</h3><blockquote>
+<ul>
+<li><p>可视性：以图形的形式呈现，更直观形象，易于记忆。</p>
+</li>
+<li><p>系统性:以主题为中心，向周围扩展更多分支主题，每个分支主题也可继续扩展子主题，<strong>便于管理知识并能形成系统性知识框架</strong>。</p>
+</li>
+<li><p>自由性:形式自由，编辑时没有太多限制和要求。</p>
+</li>
+<li><p>简便性：便于复习，增加删除也相对灵活点。</p>
+</li>
+</ul>
+</blockquote>
+<p>它的原理是：用图表的形式表现大脑的发散性思维，主观上是大脑发散性思维的外部视觉体现。</p>
+<span id="more"></span>
+<h3 id="2-它有很多用途比如："><a href="#2-它有很多用途比如：" class="headerlink" title="2.它有很多用途比如："></a>2.它有很多用途比如：</h3><ul>
+<li>课程知识点总结。</li>
+<li>记录抄写</li>
+<li>决策策划</li>
+<li>…</li>
+</ul>
+<p>下面是一个思维导图例子：<br><img src="https://imgkr.cn-bj.ufileos.com/2a6a005c-60bd-446d-9eb2-1eae39b57255.png"></p>
+<h1 id="2-xmind"><a href="#2-xmind" class="headerlink" title="2.xmind"></a>2.xmind</h1><p>对于思维导图软件的选择，个人推荐<strong>xmind</strong>,很亲民强大，这里说的强大，在我看来就是导入导出功能，这方面是我的刚需。它支持的导入导出格式如下：<br><img src="https://imgkr.cn-bj.ufileos.com/83f21bf8-39f5-42c6-920c-80f83e13d7f8.png" alt="导出"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/a800f8fa-65b6-452b-909e-850a2336854a.png" alt="导入"><br>另外它也有很多种主题风格可换，下图只是它众多主题风格中的少数几个：</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/1440576d-803c-40d3-9a19-7190bd728d7f.png"><br>当然，它并不是免费的，有些功能是需要开通会员服务才可以免费使用，尽管开源的思维导图软件也不少，但是有些并不能满足我的刚需，而且功能也不是很完全，所以我更愿意使用xmind,但这并不意味着我就要花钱买它的会员服务。如果大家有需要，我在下面给出window版<a href="https://bihua.lanzous.com/b00tmlbed" title="全功能版xmind">全功能版xmind</a>，密码<strong>czj6</strong>，<a href="https://bihua.lanzous.com/iO9Dqdq3hla" title="Android版xmind">Android版xmind</a>破除会员功能限制，如有需要可下载并按照使用说明安装即可。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三款网盘工具</title>
+    <url>/2021/06/05/Share/netdisk/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p><strong>歌曲推荐《岁月神偷》</strong></p>
+<p>“<em>唐朝的离婚书是这样写的：愿娘子相离之后， 重梳婵鬓美扫峨眉 ，巧呈窈窕之姿 ，选聘高官之主 ，解怨释结更莫相憎 ，一别两宽各生欢喜</em>“——网易云音乐热评.</p>
+</blockquote>
+<hr>
+<hr>
+<blockquote>
+<p>推荐几款网盘工具网站，大家平时有需要的话尽量用这些网盘工具网站，这些网盘网站相比百度网盘优点不要说太多了，没有众多限制，最重要的是可以直接在线上传下载，不用打开客户端软件。<em>链接已在文末给出</em>。</p>
+</blockquote>
+<span id="more"></span>
+<h1 id="1-奶牛快传"><a href="#1-奶牛快传" class="headerlink" title="1.奶牛快传"></a><a href="https://cowtransfer.com/" title="1.奶牛快传">1.奶牛快传</a></h1><blockquote>
+<p>非常有颜值的在线网盘网站，不用登录即可上传下载，但是有广告，but,它的广告却又不那么惹人厌，相反非常的文艺，精美，高端大气上档次！我已经在上面看了好几个广告！接下来不多说，评价时候到了。</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：2GB。</p>
+<p>3.文件存储空间大小：5GB。</p>
+<p>4.分享链接有效期：7天。</p>
+<p>5.支持平台：android,ios,小程序，网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/aeaa2708-9aaf-49d2-8ab6-e512e959d177.png"></p>
+<h1 id="2-蓝奏云"><a href="#2-蓝奏云" class="headerlink" title="2.蓝奏云"></a>2.<a href="https://www.lanzou.com/" title="蓝奏云">蓝奏云</a></h1><blockquote>
+<p>这是我常用的第三方网盘工具，只是需要登录才能上传下载，但它的优势还是很明显的，相比上面奶牛快传，它更满足我的刚需功能。</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：100MB。</p>
+<p>3.文件存储空间大小：<em><strong>不限制！</strong></em></p>
+<p>4。分享链接有限期：<em><strong>不限制！</strong></em></p>
+<p>5.支持平台：仅支持Android和网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/e77ea3f8-c3ad-46a7-acb3-871d570b50aa.png"></p>
+<h1 id="3-文叔叔"><a href="#3-文叔叔" class="headerlink" title="3.文叔叔"></a>3.<a href="https://www.wenshushu.cn/" title="文叔叔">文叔叔</a></h1><blockquote>
+<p>也是不用登录即可使用的在线网盘工具，但它有个最大的特色，就是生成分享链接的同时可以发送到对方<strong>电子邮件或手机号</strong>，这就很炫酷了。除此以外，上传文件的时候可以批量上传文件或文件夹，完全<strong>不用打包压缩</strong>，别提多方便了！</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：5GB。</p>
+<p>3.文件存储空间大小：<em><strong>20GB。</strong></em></p>
+<p>4.分享链接有效期：起初两天，到期后可自动续期，最长只能保留7天。会员更长。</p>
+<p>5.支持平台：android,ios,小程序。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/9f8d1cf6-5860-447d-8b58-88d6629d14b1.png"></p>
+<p><em>ps:</em> 以上对所有在线网盘的介绍适用于免费的情况，这些网盘工具都有付费会员等级，就不一一介绍了，对于网盘工具的选择，按个人需求选择就足够了，基本都没什么区别。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>网盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>实用网站2</title>
+    <url>/2021/06/05/Share/website2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这期向大家推荐几个压箱底的实用网站，这些网站工具可以更好地提升大家的数字生活效率和扩展知识面。</p>
+<h2 id="1-AI人工智能无损放大"><a href="#1-AI人工智能无损放大" class="headerlink" title="1.AI人工智能无损放大 "></a><a href="https://bigjpg.com/" title="1.AI人工智能无损放大 ">1.AI人工智能无损放大 </a></h2><p>这是一个特别的图片放大网站，与传统的图片放大软件比如<em>photozoom</em>或者<em>PS</em>不同，因为这些传统软件放大后的图片依然有明显的模糊感，边缘的重影以及噪点，这个网站放大后的图片就不会有明显的模糊感，而且本身很清晰的图片在这里放大后色彩会更明显更清晰，当然你也可以不用放大而仅降噪也可以提高清晰度。这个网站也提供了不限平台软件下载和小程序。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/147e34f0-f62b-481f-9179-a2819a6898a1.png"></p>
+<h2 id="2-船长解析-VIP在线解析"><a href="#2-船长解析-VIP在线解析" class="headerlink" title="2.船长解析-VIP在线解析"></a><a href="http://czjx8.com/" title="2.船长解析-VIP在线解析">2.船长解析-VIP在线解析</a></h2><p>这是一个免费的视频平台网站，悄悄告诉你，可观看各大平台<em>vip</em>和<em>付费视频</em>哦，而且视频画质也是很清晰呢，咱们要低调使用。具体用法是先在热门视频网站比如某讯打开要观看的影片，复制浏览器上方地址，最后粘贴在这个网站空白处并单击<strong>立即播放</strong>就可以，如果播放失败也没关系，一共有3个接口，更换接口就即可,也可支持手机观看。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/96d3f083-ce9c-4c8a-9ab7-163810b94894.png"></p>
+<h2 id="3-免费素材照片"><a href="#3-免费素材照片" class="headerlink" title="3.免费素材照片"></a><a href="https://www.pexels.com/zh-cn/" title="3.免费素材照片">3.免费素材照片</a></h2><p>这是免费的<strong>全球图片&amp;视频网站</strong>，在这里你可以找到各种类型的照片或视频，并且可免费商用，完全不用担心侵权的问题。网站图片质量很高，其中不缺乏有很多知名摄影师的拍摄作品，当然你也可以在上面上传你自己的作品。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/9da6c2cd-b7cc-46bb-b6b4-50afd5099898.png"></p>
+<span id="more"></span>
+
+<h2 id="4-医学微视"><a href="#4-医学微视" class="headerlink" title="4.医学微视"></a><a href="https://www.mvyxws.com/" title="4.医学微视">4.医学微视</a></h2><p>这是由中国医药卫生事业发展基金会和吴阶平医学基金会联合主办的医学微视频网站，里面包含各种科类疾病的微视频，视频时长不是很长，普遍5分钟左右，而且内容都是医学专家对某种疾病的讲解，内容也是很通俗易懂，可以说小白也可以在上面学习简单的医学知识，上面几乎涵盖了所有种类疾病的讲解，即使学不了医，在上面学学医学小知识也是挺不错呢。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/894cd4f4-169c-4f1d-88d4-e00200c05a64.png"></p>
+<h2 id="5-MyFreeMP3"><a href="#5-MyFreeMP3" class="headerlink" title="5.MyFreeMP3"></a><a href="http://tool.liumingye.cn/music/?page=homePage" title="5.MyFreeMP3">5.MyFreeMP3</a></h2><p>这是免费的音乐在线下载网站，可以下载VIP和付费音乐，同时也支持网页在线播放，而且还支持音乐专辑封面，歌词等下载。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/ab13936d-694f-4240-a0ee-0646fa1fadef.png"></p>
+<h2 id="6-鸠摩搜索"><a href="#6-鸠摩搜索" class="headerlink" title="6.鸠摩搜索"></a><a href="https://www.jiumodiary.com/" title="6.鸠摩搜索">6.鸠摩搜索</a></h2><p>电子书搜索网站，可支持<strong>PDF</strong>,<strong>TXT</strong>,<strong>MOBI</strong>,<strong>DOC</strong>等格式电子书下载。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/1c8eb327-9157-4be6-a7e6-db3db4e2dbf8.png"></p>
+<h2 id="7-二维码美化"><a href="#7-二维码美化" class="headerlink" title="7.二维码美化"></a><a href="https://www.meihuama.com/" title="7.二维码美化">7.二维码美化</a></h2><p>一个非主流二维码美化网站，可以美化自己微信，QQ，公众号等二维码。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/b370de18-bfc6-4a98-9a8a-79895044e616.png"></p>
+<h2 id="8-大数据查答案"><a href="#8-大数据查答案" class="headerlink" title="8.大数据查答案"></a><a href="https://www.shangxueba365.com/" title="8.大数据查答案">8.大数据查答案</a></h2><p>这是一个可以搜答案的网站，不限题型，对于做网课的大学生来说特别有用。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/3edd79a3-b5b2-414d-8619-721eaf418456.png"></p>
+<h2 id="9-oeasy"><a href="#9-oeasy" class="headerlink" title="9.oeasy"></a><a href="http://oeasy.org/" title="9.oeasy">9.oeasy</a></h2><p>这个网站就特别有用了，它是一个免费的视频教程网站，教程内容包括<strong>PS</strong>,<strong>手机摄影</strong>,<strong>excel</strong>等等，而且据作者说是为没钱学的老百姓免费做的教程，我在上面看过几个视频教程，感觉还可以，而且其在B站的视频也很火，粉丝们反响都不错。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/01f834dc-02dc-4085-b14b-c5406812b7ad.png"></p>
+<h2 id="10-在线PS"><a href="#10-在线PS" class="headerlink" title="10.在线PS"></a><a href="https://www.uupoop.com/" title="10.在线PS">10.在线PS</a></h2><p>一个网页版ps网站，可以说photo该有的功能这个网站多多少少也具备，比ps软件也方便得多，直接在线打开即可用。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/fc998f5b-2fea-46e5-be7b-a2d097b5f60e.png"></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>source</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>实用网站1</title>
+    <url>/2021/06/05/Share/website1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p><strong>歌曲推荐《借我》</strong><br>*”不是纵容的悲怆与哭喊，而是平静的呢喃与诉说。”*——网易云音乐热评</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2 id="1-苦瓜书盘"><a href="#1-苦瓜书盘" class="headerlink" title="1.苦瓜书盘"></a><a href="https://kgbook.com/" title="1.苦瓜书盘">1.苦瓜书盘</a></h2><p>电子书搜索网站，支持各种类型的书籍搜索,书籍质量还算高清。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/7a1ed033-370d-4f10-8ca7-d6ab46a8b5c7.png"></p>
+<blockquote>
+<h2 id="2-资源帝"><a href="#2-资源帝" class="headerlink" title="2.资源帝"></a><a href="http://shu.ziyuandi.cn/" title="2.资源帝">2.资源帝</a></h2><p>同样也是电子书搜索网站，支持多站点电子书搜索，相比上面电子书搜索网站来说，资源应该更全些，也更容易找到需要的电子书籍。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/8b549d94-19e7-4235-8f3a-d3f7b684c882.png"></p>
+<blockquote>
+<h2 id="3-超级简历"><a href="#3-超级简历" class="headerlink" title="3.超级简历"></a><a href="https://www.wondercv.com/" title="3.超级简历">3.超级简历</a></h2><p>简历生成网站，里面的简历模板也可免费使用，好的简历会让HR眼前一亮，不容易被刷下去，建议大家先收藏好这个网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/088ead01-2602-4496-8529-7cdfe0487641.png"></p>
+<span id="more"></span>
+
+<blockquote>
+<h2 id="4-网易见外工作台"><a href="#4-网易见外工作台" class="headerlink" title="4.网易见外工作台"></a><a href="https://jianwai.youdao.com/index/0" title="4.网易见外工作台">4.网易见外工作台</a></h2><p>网易出品，可以进行视频转写(<strong>生成与视频对应的字幕</strong>)，视频翻译，文档翻译，语音翻译等。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/5e4a9507-0046-4711-a3e1-4ae1bf17c649.png"></p>
+<blockquote>
+<h2 id="5-超级PPT市场"><a href="#5-超级PPT市场" class="headerlink" title="5.超级PPT市场"></a><a href="http://ppt.sotary.com/web/wxapp/index.html" title="5.超级PPT市场">5.超级PPT市场</a></h2><p>完全免费的PPT模板下载网站，不需要注册登录，可以利用搜索功能搜索需要的模板。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/e19e5370-0fcc-4f61-b81c-d1034bbcf05e.png"></p>
+<blockquote>
+<h2 id="6-蜜蜂剪辑"><a href="#6-蜜蜂剪辑" class="headerlink" title="6.蜜蜂剪辑"></a><a href="https://beecut.cn/online-video-editor" title="6.蜜蜂剪辑">6.蜜蜂剪辑</a></h2><p>支持多种功能的在线视频编辑，比如视频转GIF，视频截取等。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d258eb36-9fa8-4fc3-b61c-ac2e6dfa4f1f.png"></p>
+<blockquote>
+<h2 id="7-在线格式转换"><a href="#7-在线格式转换" class="headerlink" title="7.在线格式转换"></a><a href="https://www.alltoall.net/" title="7.在线格式转换">7.在线格式转换</a></h2><p>功能特别全特别强大的在线格式转换，支持PDF转换，也支持视频转换，音频转换，电子书转换等等，基本上可以说，不管什么形式的格式转换，这个网站都支持。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/0c556ecf-2d5e-4ee9-b312-6d7551d304da.png"></p>
+<blockquote>
+<h2 id="8-爱文库"><a href="#8-爱文库" class="headerlink" title="8.爱文库"></a><a href="http://www.258wk.com/" title="8.爱文库">8.爱文库</a></h2><p>直接下载百度文库<strong>VIP和收费文档</strong>，不需要任何下载券。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/679b6c91-e242-43f1-bd0e-6dc4463a1121.png"></p>
+<blockquote>
+<h2 id="9-Neets搜索站"><a href="#9-Neets搜索站" class="headerlink" title="9.Neets搜索站"></a><a href="http://neets.cc/" title="9.Neets搜索站">9.Neets搜索站</a></h2><p>在线看视频网站，支持美剧韩剧日剧等观看，当然也支持番剧，</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/3d9b1a3a-ebbb-4d69-bf71-e60a84143ab2.png"></p>
+<blockquote>
+<h2 id="10-易破解"><a href="#10-易破解" class="headerlink" title="10.易破解"></a><a href="https://www.ypojie.com/" title="10.易破解">10.易破解</a></h2><p>有时候使用一些需要注册才能使用的软件，也或者是需要开通会员或者付费才能使用的功能，可以在这里寻找破解版软件，放心，软件都是安全无害的。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d026e01e-7159-4649-af42-d169c2433b71.png"></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GitHub实用开源项目收藏</title>
+    <url>/2021/06/05/projects/githubrep/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<ul>
+<li>本页面整理收藏GitHub的开源仓库</li>
+<li>除了方便自身使用外也方便大家找到感兴趣的开源项目</li>
+<li>大家有什么值得推荐的开源项目随时欢迎在下方评论栏给出仓库链接</li>
+<li>为了大家更详细了解每个项目的用途，我都会截图或者复制项目README.md的项目说明部分。注:有些英文说明会先经谷歌翻译后再截图或者复制。</li>
+<li>收录标准不考虑star数量，但一定要遵纪守法</li>
+<li>当然有趣&amp;有一定学习意义&amp;有中文文档&amp;实用的开源项目优先</li>
+</ul>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="GitHub项目收藏"><a href="#GitHub项目收藏" class="headerlink" title="GitHub项目收藏"></a>GitHub项目收藏</h1><h2 id="GitHub普遍项目"><a href="#GitHub普遍项目" class="headerlink" title="GitHub普遍项目"></a>GitHub普遍项目</h2><ol>
+<li><a href="https://github.com/ChenYFan-Tester/____-help-me-download"><strong>Github 项目下载</strong></a></li>
+</ol>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901103856.png" alt="image-20200901103856095"></p>
+<ol start="2">
+<li><a href="https://github.com/Borber/Grow"><strong>Github项目下载</strong></a></li>
+</ol>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901104723.png" alt="image-20200901104723674"></p>
+<h3 id="3-Phosphor-Icons"><a href="#3-Phosphor-Icons" class="headerlink" title="3.Phosphor Icons"></a>3.<a href="https://github.com/phosphor-icons/phosphor-home">Phosphor Icons</a></h3><p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20201027144811.png" alt="image-20201027144803909"></p>
+<h2 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h2><ol>
+<li><p><a href="https://github.com/hexojs/hexo"><strong>Hexo</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901110520.png" alt="image-20200901110519981"><em>Hexo</em></p>
+</li>
+<li><p><a href="https://github.com/halo-dev/halo"><strong>Halo</strong></a></p>
+</li>
+</ol>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901105923.png" alt="image-20200901105922927"><em>Halo</em></p>
+<ol start="3">
+<li><a href="https://github.com/gohugoio/hugo"><strong>Hugo</strong></a></li>
+</ol>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901110434.png" alt="image-20200901110434242"><em>Hugo</em></p>
+<ol start="4">
+<li><a href="https://github.com/88250/solo"><strong>Solo</strong></a></li>
+</ol>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901111039.png" alt="image-20200901111039723"><em>Solo</em></p>
+<h2 id="学习文档"><a href="#学习文档" class="headerlink" title="学习文档"></a>学习文档</h2><ol>
+<li><p><a href="https://github.com/blynn/gitmagic"><strong>GitMagic</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200905141826.png" alt="image-20200905141819485"><em>GitMagic</em></p>
+</li>
+</ol>
+<h2 id="个性化Window-Terminal"><a href="#个性化Window-Terminal" class="headerlink" title="个性化Window Terminal"></a>个性化Window Terminal</h2><p>1.<a href="https://github.com/JanDeDobbeleer/oh-my-posh"><strong>on-my-posh</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929164702.png" alt="on-my-posh"><em>on-my-posh</em></p>
+<p>2.<a href="https://github.com/dahlbyk/posh-git"><strong>posh-git</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929164923.png" alt="posh-git"><em>posh-git</em></p>
+<p>3.<a href="https://github.com/PowerShell/PSReadLine"><strong>PSReadline</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929165025.png" alt="PS"><em>PSReadline</em></p>
+<p>4.<a href="https://github.com/mbadolato/iTerm2-Color-Schemes#visual-studio-code-color-schemes"><strong>iTerm2-Color-Schemes</strong></a></p>
+<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929165213.png" alt="[iTerm2-Color-Schemes](https://gitee.com/liubeep/blogimage/raw/master/img/20200929165703.png)"><em>iTerm2-Color-Schemes</em></p>
+]]></content>
+      <categories>
+        <category>Github Repository</category>
+      </categories>
+      <tags>
+        <tag>GitHub</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Git入门学习</title>
     <url>/2021/06/05/studynotes/Git/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><h2 id="git介绍"><a href="#git介绍" class="headerlink" title="git介绍"></a>git介绍</h2><ol>
@@ -1119,7 +1180,7 @@
 <h2 id="git远程仓库"><a href="#git远程仓库" class="headerlink" title="git远程仓库"></a>git远程仓库</h2><ol>
 <li><p>生成SSHKey</p>
 <ul>
-<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#x73;&#x65;&#x72;&#64;&#101;&#120;&#x61;&#x6d;&#112;&#108;&#101;&#46;&#x63;&#x6f;&#x6d;">&#117;&#x73;&#x65;&#x72;&#64;&#101;&#120;&#x61;&#x6d;&#112;&#108;&#101;&#46;&#x63;&#x6f;&#x6d;</a>“.</li>
+<li>ssh-keygen -t rsa -C  “<a href="mailto:&#x75;&#x73;&#101;&#x72;&#64;&#101;&#x78;&#x61;&#x6d;&#112;&#108;&#x65;&#46;&#x63;&#x6f;&#109;">&#x75;&#x73;&#101;&#x72;&#64;&#101;&#x78;&#x61;&#x6d;&#112;&#108;&#x65;&#46;&#x63;&#x6f;&#109;</a>“.</li>
 <li>id_rsa 私钥，id_ras.pub公钥.</li>
 </ul>
 </li>
@@ -1138,7 +1199,7 @@
 <ul>
 <li><p>两种关联方式：</p>
 <ul>
-<li>git remote add origin <a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#x69;&#116;&#104;&#x75;&#98;&#x2e;&#99;&#x6f;&#x6d;">&#103;&#105;&#x74;&#64;&#103;&#x69;&#116;&#104;&#x75;&#98;&#x2e;&#99;&#x6f;&#x6d;</a>:用户名/ 仓库名.git.</li>
+<li>git remote add origin <a href="mailto:&#x67;&#105;&#x74;&#64;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#111;&#109;">&#x67;&#105;&#x74;&#64;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#x2e;&#99;&#111;&#109;</a>:用户名/ 仓库名.git.</li>
 <li>git remote add origin <a href="https://github.com/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/用户名/仓库名.git</a></li>
 </ul>
 </li>
@@ -1164,7 +1225,7 @@
 <ul>
 <li><p>两种克隆方式：</p>
 <ul>
-<li>git clone <a href="mailto:&#x67;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#x68;&#x75;&#x62;&#46;&#x63;&#111;&#x6d;">&#x67;&#105;&#x74;&#x40;&#103;&#x69;&#x74;&#x68;&#x75;&#x62;&#46;&#x63;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
+<li>git clone <a href="mailto:&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#109;">&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#109;</a>:用户名/仓库名.git.</li>
 <li>git clone <a href="https://github/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github/用户名/仓库名.git</a>.</li>
 </ul>
 </li>
@@ -2280,166 +2341,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Java异常</title>
-    <url>/2021/06/05/studynotes/java-exception/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>本文是Java异常篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a></p>
-</blockquote>
-<h2 id="Java异常"><a href="#Java异常" class="headerlink" title="Java异常"></a>Java异常</h2><h3 id="1-异常类型"><a href="#1-异常类型" class="headerlink" title="1.异常类型"></a>1.异常类型</h3><ul>
-<li><p>异常体系的根为<code>Throwable</code>，它继承自<code>Object</code>。</p>
-</li>
-<li><p><code>Throwable</code>有两个体系<code>Error</code>和<code>Exception</code>。</p>
-</li>
-<li><p><code>Error</code>类</p>
-<ul>
-<li><code>OutOfMemoryError</code></li>
-<li><code>NoClassDefFounderError</code></li>
-<li><code>StackOverError</code></li>
-<li>等等</li>
-</ul>
-</li>
-<li><p><code>Exception</code>类</p>
-<ul>
-<li><code>RuntimeException</code><ul>
-<li><code>IndexOutOfBoundsException</code></li>
-<li><code>NullPointerException</code></li>
-<li>等等</li>
-</ul>
-</li>
-<li><code>非RuntimeException</code>(也叫<code>Checked Exception</code>异常)<ul>
-<li><code>IOException</code></li>
-<li><code>ReflectiveOperationException</code></li>
-<li><code>NumberFormatException</code></li>
-<li><code>FileNotFoundException</code></li>
-<li><code>SocketException</code></li>
-<li>等等</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><code>非RuntimeException</code>异常必须被捕获，<code>RuntimeExcept</code>异常不强制被捕获。</p>
-</li>
-<li><p>异常捕获使用<code>try&#123;&#125;···catch&#123;&#125;</code>语句。</p>
-</li>
-<li><p>其中<code>try</code>声明可能出现异常的方法，<code>catch</code>捕获异常Exception及其子类。</p>
-</li>
-<li><p><code>thorws</code>语句声明可能出现的异常，凡是用throws声明异常的方法，最终必须被捕获，如若不捕获，可在最高调用层<code>throws</code>异常，代价是发送异常的话程序会闪退。</p>
-</li>
-<li><p><code>printStackTrace()</code>方法可以打印异常栈。</p>
-<span id="more"></span>
-<h3 id="2-多catch语句与finally"><a href="#2-多catch语句与finally" class="headerlink" title="2.多catch语句与finally"></a>2.多catch语句与finally</h3></li>
-<li><p>catch语句可以捕获多个异常，如果这些异常有继承关系，则需要分开捕获，例如如下代码：</p>
-</li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">        process1();</span><br><span class="line">        process2();</span><br><span class="line">        process3();</span><br><span class="line">    &#125; <span class="keyword">catch</span> (IOException e) &#123;</span><br><span class="line">        System.out.println(e);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (NumberFormatException e) &#123;</span><br><span class="line">        System.out.println(e);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>注意子类要放在父类异常前面，否则如果匹配到父类异常，子类异常将不会被捕获到。</li>
-<li>如果无继承关系，则多个异常可以用<code>|</code>同时合并。</li>
-<li><code>finally</code>语句可以保证无论是否发生异常都会被执行。</li>
-<li>可以存在<code>try&#123;&#125;···finally&#123;&#125;</code>语句，前提是方法已经用<code>throws</code>语句声明异常。</li>
-</ul>
-<h3 id="3-抛出异常"><a href="#3-抛出异常" class="headerlink" title="3.抛出异常"></a>3.抛出异常</h3><ul>
-<li>异常的传播：当某个方法抛出了异常时，如果当前方法没有捕获异常，异常就会被抛到上层调用方法，直到遇到某个<code>try&#123;&#125;···catch&#123;&#125;</code>语句被捕获为止。</li>
-<li>如何抛出异常:创建某个异常实例，用<code>throws</code>语句抛出。</li>
-<li>异常类型转换，如果在<code>try</code>语句中抛出异常，又在<code>catch</code>语句抛出新的异常，就会把异常类型转换。</li>
-<li>获取原始异常的办法：<ul>
-<li>把<code>try</code>捕获的原始异常的实例传入<code>catch</code>语句中抛出的新类型异常的参数中。</li>
-<li>使用<code>getCause()</code>方法。</li>
-</ul>
-</li>
-<li>如果在try或者catch语句中抛出异常，JVM会先执行finally语句，然后抛出异常。</li>
-<li>异常屏蔽(Suppressed Exception)：如果在finally语句抛出异常，则catch语句的异常不会被抛出，由于JVM只能抛出一个异常。</li>
-<li>打印输出被屏蔽的异常<code>SuppressedException</code>的方法：创建一个<code>Exception </code>实例，保存被屏蔽的异常的信息，判断存在SuppressedException后，用<code>addSuppressed()</code>方法把刚才创建的<code>Exception</code>实例添加进来，最后抛出异常。</li>
-</ul>
-<h3 id="4-自定义异常类型-amp-NullPointerException"><a href="#4-自定义异常类型-amp-NullPointerException" class="headerlink" title="4.自定义异常类型&amp;NullPointerException"></a>4.自定义异常类型&amp;NullPointerException</h3><ul>
-<li><p>在一个大型项目中，通常的做法是自定义一个<code>BaseException</code>，并且建议继承自<code>RuntimeException</code>，最后由<code>BaseEduixception</code>派生出其他自定义异常类型。</p>
-</li>
-<li><p>对于<code>NullPointerException</code>异常，应当遵循早暴露早修复的原则。</p>
-</li>
-<li><p>为了防止出现<code>NullPointerException</code>异常，应有较好的编码习惯，比如用<code>&quot; &quot;</code>空字符串代替<code>null</code>。</p>
-</li>
-</ul>
-<h3 id="5-断言"><a href="#5-断言" class="headerlink" title="5.断言"></a>5.断言</h3><ul>
-<li>断言(Assertion)是一种调试程序的方式。</li>
-<li>作用处:断言通常用在不在可恢复程序中，因为断言失败会导致程序结束提出。</li>
-<li>断言的用法: 例如<code>assert  x&gt;=0</code>,如果x&lt;0，则断言失败，返回<code>AssertionError</code>；可以在断言的时候附带错误信息，例如<code>assert x&gt;=0 : &quot;x must &gt; 0&quot;</code>。</li>
-<li>开启方式: 断言默认是关闭的，可以在命令行开启<code>java -enableassertions Main.java</code>。</li>
-</ul>
-<h3 id="6-JDK-Logging"><a href="#6-JDK-Logging" class="headerlink" title="6.JDK Logging"></a>6.JDK Logging</h3><ul>
-<li><p><code>JDK Logging</code>可用于有针对性地调试代码。</p>
-</li>
-<li><p><code>JDK Logging</code>的使用：</p>
-</li>
-<li><p>位于<code>java.util.logging</code>包中。</p>
-</li>
-<li><p>有八种日志级别，默认级别为INFO，并且默认级别以下的日志不会被打印，但可设定默认级别。</p>
-<ul>
-<li>SEVERE<ul>
-<li>WARNING</li>
-<li>INFO</li>
-<li>CONFIG</li>
-<li>FINE</li>
-<li>FINER</li>
-<li>FINEST</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>示例代码</p>
-</li>
-</ul>
- <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> com.itranswarp.learnjava;</span><br><span class="line"><span class="keyword">import</span> java.util.logging.Logger;</span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Main</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        Logger logger = Logger.getGlobal();</span><br><span class="line">        logger.info(<span class="string">&quot;start process...&quot;</span>);</span><br><span class="line">        logger.warning(<span class="string">&quot;memory is running out...&quot;</span>);</span><br><span class="line">        logger.fine(<span class="string">&quot;ignored.&quot;</span>);</span><br><span class="line">        logger.severe(<span class="string">&quot;process will be terminated...&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<pre><code>  ### 7.Commons Logging
-</code></pre>
-<ul>
-<li><code>Commons Logging</code>是一种第三方日志库，它由<code>Apache</code>创建，可作为日志接口来调用其他日志系统。</li>
-<li>特点：可以挂载不同的日志系统，默认情况下先搜索<code>Log4j</code>，如果没找到，再使用<code>JDK Logging</code>。</li>
-<li>使用<ul>
-<li>首先可通过静态工厂方法<code>LogFactory.getLog()</code>方法(方法内的参数可以为<code>getclass()</code>或<code>当前类名.class</code>,Main)创建一个<code>Log</code>实例，再使用<code>Log</code>的实例方法打印日志。</li>
-<li>如果在静态方法中引用<code>Log</code>示例，则需要定义静态<code>Log</code>实例，如果在实例方法中引用实例，则定义一个实例变量。</li>
-<li>示例代码</li>
-</ul>
-</li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> org.apache.commons.logging.Log;</span><br><span class="line"><span class="keyword">import</span> org.apache.commons.logging.LogFactory;</span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Main</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        Log log = LogFactory.getLog(Main.class);</span><br><span class="line">        log.info(<span class="string">&quot;start...&quot;</span>);</span><br><span class="line">        log.warn(<span class="string">&quot;end.&quot;</span>);m</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-
-
-<ul>
-<li>六种日志级别，其中<code>INFO</code>为默认级别。<ul>
-<li>FATAL</li>
-<li>ERROR</li>
-<li>WARNING</li>
-<li>INFO</li>
-<li>DEBUG</li>
-<li>TRACE</li>
-</ul>
-</li>
-<li>注意：由于为第三方库，所以需要提前下载。</li>
-</ul>
-<h3 id="8-Log4j"><a href="#8-Log4j" class="headerlink" title="8.Log4j"></a>8.Log4j</h3><ul>
-<li><code>Log4j</code>是一种日志系统，就跟<code>JDK Logging</code>一样。</li>
-<li>Log4j的特点：可自动通过不同的Appender把同一条日志输出到不同的目的地。</li>
-<li>使用：可通过修改配置文件，最后通过<code>Common Logging</code>来实现调用。</li>
-</ul>
-<h3 id="9-SLF4J和Logback"><a href="#9-SLF4J和Logback" class="headerlink" title="9.SLF4J和Logback"></a>9.SLF4J和Logback</h3><ul>
-<li><code>SLF4J</code>相当于<code>Common Logging</code>。</li>
-<li><code>Logback</code>相当于<code>Log4j</code>。</li>
-<li>使用：<code>SLF4J</code>的接口实际上和<code>Commons Logging</code>几乎一模一样，不同之处就是<code>Log</code>变成了<code>Logger</code>，<code>LogFactory</code>变成了<code>LoggerFactory</code>。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>技术笔记</category>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java异常</tag>
-        <tag>Java日志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Java核心类</title>
     <url>/2021/06/05/studynotes/java-core-classes/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -2667,6 +2568,166 @@
       <tags>
         <tag>Java</tag>
         <tag>核心类</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java异常</title>
+    <url>/2021/06/05/studynotes/java-exception/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>本文是Java异常篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a></p>
+</blockquote>
+<h2 id="Java异常"><a href="#Java异常" class="headerlink" title="Java异常"></a>Java异常</h2><h3 id="1-异常类型"><a href="#1-异常类型" class="headerlink" title="1.异常类型"></a>1.异常类型</h3><ul>
+<li><p>异常体系的根为<code>Throwable</code>，它继承自<code>Object</code>。</p>
+</li>
+<li><p><code>Throwable</code>有两个体系<code>Error</code>和<code>Exception</code>。</p>
+</li>
+<li><p><code>Error</code>类</p>
+<ul>
+<li><code>OutOfMemoryError</code></li>
+<li><code>NoClassDefFounderError</code></li>
+<li><code>StackOverError</code></li>
+<li>等等</li>
+</ul>
+</li>
+<li><p><code>Exception</code>类</p>
+<ul>
+<li><code>RuntimeException</code><ul>
+<li><code>IndexOutOfBoundsException</code></li>
+<li><code>NullPointerException</code></li>
+<li>等等</li>
+</ul>
+</li>
+<li><code>非RuntimeException</code>(也叫<code>Checked Exception</code>异常)<ul>
+<li><code>IOException</code></li>
+<li><code>ReflectiveOperationException</code></li>
+<li><code>NumberFormatException</code></li>
+<li><code>FileNotFoundException</code></li>
+<li><code>SocketException</code></li>
+<li>等等</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><code>非RuntimeException</code>异常必须被捕获，<code>RuntimeExcept</code>异常不强制被捕获。</p>
+</li>
+<li><p>异常捕获使用<code>try&#123;&#125;···catch&#123;&#125;</code>语句。</p>
+</li>
+<li><p>其中<code>try</code>声明可能出现异常的方法，<code>catch</code>捕获异常Exception及其子类。</p>
+</li>
+<li><p><code>thorws</code>语句声明可能出现的异常，凡是用throws声明异常的方法，最终必须被捕获，如若不捕获，可在最高调用层<code>throws</code>异常，代价是发送异常的话程序会闪退。</p>
+</li>
+<li><p><code>printStackTrace()</code>方法可以打印异常栈。</p>
+<span id="more"></span>
+<h3 id="2-多catch语句与finally"><a href="#2-多catch语句与finally" class="headerlink" title="2.多catch语句与finally"></a>2.多catch语句与finally</h3></li>
+<li><p>catch语句可以捕获多个异常，如果这些异常有继承关系，则需要分开捕获，例如如下代码：</p>
+</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">        process1();</span><br><span class="line">        process2();</span><br><span class="line">        process3();</span><br><span class="line">    &#125; <span class="keyword">catch</span> (IOException e) &#123;</span><br><span class="line">        System.out.println(e);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (NumberFormatException e) &#123;</span><br><span class="line">        System.out.println(e);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>注意子类要放在父类异常前面，否则如果匹配到父类异常，子类异常将不会被捕获到。</li>
+<li>如果无继承关系，则多个异常可以用<code>|</code>同时合并。</li>
+<li><code>finally</code>语句可以保证无论是否发生异常都会被执行。</li>
+<li>可以存在<code>try&#123;&#125;···finally&#123;&#125;</code>语句，前提是方法已经用<code>throws</code>语句声明异常。</li>
+</ul>
+<h3 id="3-抛出异常"><a href="#3-抛出异常" class="headerlink" title="3.抛出异常"></a>3.抛出异常</h3><ul>
+<li>异常的传播：当某个方法抛出了异常时，如果当前方法没有捕获异常，异常就会被抛到上层调用方法，直到遇到某个<code>try&#123;&#125;···catch&#123;&#125;</code>语句被捕获为止。</li>
+<li>如何抛出异常:创建某个异常实例，用<code>throws</code>语句抛出。</li>
+<li>异常类型转换，如果在<code>try</code>语句中抛出异常，又在<code>catch</code>语句抛出新的异常，就会把异常类型转换。</li>
+<li>获取原始异常的办法：<ul>
+<li>把<code>try</code>捕获的原始异常的实例传入<code>catch</code>语句中抛出的新类型异常的参数中。</li>
+<li>使用<code>getCause()</code>方法。</li>
+</ul>
+</li>
+<li>如果在try或者catch语句中抛出异常，JVM会先执行finally语句，然后抛出异常。</li>
+<li>异常屏蔽(Suppressed Exception)：如果在finally语句抛出异常，则catch语句的异常不会被抛出，由于JVM只能抛出一个异常。</li>
+<li>打印输出被屏蔽的异常<code>SuppressedException</code>的方法：创建一个<code>Exception </code>实例，保存被屏蔽的异常的信息，判断存在SuppressedException后，用<code>addSuppressed()</code>方法把刚才创建的<code>Exception</code>实例添加进来，最后抛出异常。</li>
+</ul>
+<h3 id="4-自定义异常类型-amp-NullPointerException"><a href="#4-自定义异常类型-amp-NullPointerException" class="headerlink" title="4.自定义异常类型&amp;NullPointerException"></a>4.自定义异常类型&amp;NullPointerException</h3><ul>
+<li><p>在一个大型项目中，通常的做法是自定义一个<code>BaseException</code>，并且建议继承自<code>RuntimeException</code>，最后由<code>BaseEduixception</code>派生出其他自定义异常类型。</p>
+</li>
+<li><p>对于<code>NullPointerException</code>异常，应当遵循早暴露早修复的原则。</p>
+</li>
+<li><p>为了防止出现<code>NullPointerException</code>异常，应有较好的编码习惯，比如用<code>&quot; &quot;</code>空字符串代替<code>null</code>。</p>
+</li>
+</ul>
+<h3 id="5-断言"><a href="#5-断言" class="headerlink" title="5.断言"></a>5.断言</h3><ul>
+<li>断言(Assertion)是一种调试程序的方式。</li>
+<li>作用处:断言通常用在不在可恢复程序中，因为断言失败会导致程序结束提出。</li>
+<li>断言的用法: 例如<code>assert  x&gt;=0</code>,如果x&lt;0，则断言失败，返回<code>AssertionError</code>；可以在断言的时候附带错误信息，例如<code>assert x&gt;=0 : &quot;x must &gt; 0&quot;</code>。</li>
+<li>开启方式: 断言默认是关闭的，可以在命令行开启<code>java -enableassertions Main.java</code>。</li>
+</ul>
+<h3 id="6-JDK-Logging"><a href="#6-JDK-Logging" class="headerlink" title="6.JDK Logging"></a>6.JDK Logging</h3><ul>
+<li><p><code>JDK Logging</code>可用于有针对性地调试代码。</p>
+</li>
+<li><p><code>JDK Logging</code>的使用：</p>
+</li>
+<li><p>位于<code>java.util.logging</code>包中。</p>
+</li>
+<li><p>有八种日志级别，默认级别为INFO，并且默认级别以下的日志不会被打印，但可设定默认级别。</p>
+<ul>
+<li>SEVERE<ul>
+<li>WARNING</li>
+<li>INFO</li>
+<li>CONFIG</li>
+<li>FINE</li>
+<li>FINER</li>
+<li>FINEST</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>示例代码</p>
+</li>
+</ul>
+ <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> com.itranswarp.learnjava;</span><br><span class="line"><span class="keyword">import</span> java.util.logging.Logger;</span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Main</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        Logger logger = Logger.getGlobal();</span><br><span class="line">        logger.info(<span class="string">&quot;start process...&quot;</span>);</span><br><span class="line">        logger.warning(<span class="string">&quot;memory is running out...&quot;</span>);</span><br><span class="line">        logger.fine(<span class="string">&quot;ignored.&quot;</span>);</span><br><span class="line">        logger.severe(<span class="string">&quot;process will be terminated...&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<pre><code>  ### 7.Commons Logging
+</code></pre>
+<ul>
+<li><code>Commons Logging</code>是一种第三方日志库，它由<code>Apache</code>创建，可作为日志接口来调用其他日志系统。</li>
+<li>特点：可以挂载不同的日志系统，默认情况下先搜索<code>Log4j</code>，如果没找到，再使用<code>JDK Logging</code>。</li>
+<li>使用<ul>
+<li>首先可通过静态工厂方法<code>LogFactory.getLog()</code>方法(方法内的参数可以为<code>getclass()</code>或<code>当前类名.class</code>,Main)创建一个<code>Log</code>实例，再使用<code>Log</code>的实例方法打印日志。</li>
+<li>如果在静态方法中引用<code>Log</code>示例，则需要定义静态<code>Log</code>实例，如果在实例方法中引用实例，则定义一个实例变量。</li>
+<li>示例代码</li>
+</ul>
+</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> org.apache.commons.logging.Log;</span><br><span class="line"><span class="keyword">import</span> org.apache.commons.logging.LogFactory;</span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Main</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        Log log = LogFactory.getLog(Main.class);</span><br><span class="line">        log.info(<span class="string">&quot;start...&quot;</span>);</span><br><span class="line">        log.warn(<span class="string">&quot;end.&quot;</span>);m</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+<ul>
+<li>六种日志级别，其中<code>INFO</code>为默认级别。<ul>
+<li>FATAL</li>
+<li>ERROR</li>
+<li>WARNING</li>
+<li>INFO</li>
+<li>DEBUG</li>
+<li>TRACE</li>
+</ul>
+</li>
+<li>注意：由于为第三方库，所以需要提前下载。</li>
+</ul>
+<h3 id="8-Log4j"><a href="#8-Log4j" class="headerlink" title="8.Log4j"></a>8.Log4j</h3><ul>
+<li><code>Log4j</code>是一种日志系统，就跟<code>JDK Logging</code>一样。</li>
+<li>Log4j的特点：可自动通过不同的Appender把同一条日志输出到不同的目的地。</li>
+<li>使用：可通过修改配置文件，最后通过<code>Common Logging</code>来实现调用。</li>
+</ul>
+<h3 id="9-SLF4J和Logback"><a href="#9-SLF4J和Logback" class="headerlink" title="9.SLF4J和Logback"></a>9.SLF4J和Logback</h3><ul>
+<li><code>SLF4J</code>相当于<code>Common Logging</code>。</li>
+<li><code>Logback</code>相当于<code>Log4j</code>。</li>
+<li>使用：<code>SLF4J</code>的接口实际上和<code>Commons Logging</code>几乎一模一样，不同之处就是<code>Log</code>变成了<code>Logger</code>，<code>LogFactory</code>变成了<code>LoggerFactory</code>。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>技术笔记</category>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java异常</tag>
+        <tag>Java日志</tag>
       </tags>
   </entry>
   <entry>
@@ -3430,67 +3491,6 @@
       </categories>
       <tags>
         <tag>Git</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GitHub实用开源项目收藏</title>
-    <url>/2021/06/05/projects/githubrep/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<ul>
-<li>本页面整理收藏GitHub的开源仓库</li>
-<li>除了方便自身使用外也方便大家找到感兴趣的开源项目</li>
-<li>大家有什么值得推荐的开源项目随时欢迎在下方评论栏给出仓库链接</li>
-<li>为了大家更详细了解每个项目的用途，我都会截图或者复制项目README.md的项目说明部分。注:有些英文说明会先经谷歌翻译后再截图或者复制。</li>
-<li>收录标准不考虑star数量，但一定要遵纪守法</li>
-<li>当然有趣&amp;有一定学习意义&amp;有中文文档&amp;实用的开源项目优先</li>
-</ul>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="GitHub项目收藏"><a href="#GitHub项目收藏" class="headerlink" title="GitHub项目收藏"></a>GitHub项目收藏</h1><h2 id="GitHub普遍项目"><a href="#GitHub普遍项目" class="headerlink" title="GitHub普遍项目"></a>GitHub普遍项目</h2><ol>
-<li><a href="https://github.com/ChenYFan-Tester/____-help-me-download"><strong>Github 项目下载</strong></a></li>
-</ol>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901103856.png" alt="image-20200901103856095"></p>
-<ol start="2">
-<li><a href="https://github.com/Borber/Grow"><strong>Github项目下载</strong></a></li>
-</ol>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901104723.png" alt="image-20200901104723674"></p>
-<h3 id="3-Phosphor-Icons"><a href="#3-Phosphor-Icons" class="headerlink" title="3.Phosphor Icons"></a>3.<a href="https://github.com/phosphor-icons/phosphor-home">Phosphor Icons</a></h3><p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20201027144811.png" alt="image-20201027144803909"></p>
-<h2 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h2><ol>
-<li><p><a href="https://github.com/hexojs/hexo"><strong>Hexo</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901110520.png" alt="image-20200901110519981"><em>Hexo</em></p>
-</li>
-<li><p><a href="https://github.com/halo-dev/halo"><strong>Halo</strong></a></p>
-</li>
-</ol>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901105923.png" alt="image-20200901105922927"><em>Halo</em></p>
-<ol start="3">
-<li><a href="https://github.com/gohugoio/hugo"><strong>Hugo</strong></a></li>
-</ol>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901110434.png" alt="image-20200901110434242"><em>Hugo</em></p>
-<ol start="4">
-<li><a href="https://github.com/88250/solo"><strong>Solo</strong></a></li>
-</ol>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200901111039.png" alt="image-20200901111039723"><em>Solo</em></p>
-<h2 id="学习文档"><a href="#学习文档" class="headerlink" title="学习文档"></a>学习文档</h2><ol>
-<li><p><a href="https://github.com/blynn/gitmagic"><strong>GitMagic</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200905141826.png" alt="image-20200905141819485"><em>GitMagic</em></p>
-</li>
-</ol>
-<h2 id="个性化Window-Terminal"><a href="#个性化Window-Terminal" class="headerlink" title="个性化Window Terminal"></a>个性化Window Terminal</h2><p>1.<a href="https://github.com/JanDeDobbeleer/oh-my-posh"><strong>on-my-posh</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929164702.png" alt="on-my-posh"><em>on-my-posh</em></p>
-<p>2.<a href="https://github.com/dahlbyk/posh-git"><strong>posh-git</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929164923.png" alt="posh-git"><em>posh-git</em></p>
-<p>3.<a href="https://github.com/PowerShell/PSReadLine"><strong>PSReadline</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929165025.png" alt="PS"><em>PSReadline</em></p>
-<p>4.<a href="https://github.com/mbadolato/iTerm2-Color-Schemes#visual-studio-code-color-schemes"><strong>iTerm2-Color-Schemes</strong></a></p>
-<p><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200929165213.png" alt="[iTerm2-Color-Schemes](https://gitee.com/liubeep/blogimage/raw/master/img/20200929165703.png)"><em>iTerm2-Color-Schemes</em></p>
-]]></content>
-      <categories>
-        <category>Github Repository</category>
-      </categories>
-      <tags>
-        <tag>GitHub</tag>
       </tags>
   </entry>
 </search>
