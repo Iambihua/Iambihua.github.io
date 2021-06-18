@@ -1,0 +1,539 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Java核心类 | 哔哗's Blog</title><meta name="keywords" content="Java,核心类"><meta name="author" content="哔哗"><meta name="copyright" content="哔哗"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="Java进阶学习之核心类">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Java核心类">
+<meta property="og:url" content="https://www.lbihua.cn/2021/06/18/studynotes/java-core-classes/index.html">
+<meta property="og:site_name" content="哔哗&#39;s Blog">
+<meta property="og:description" content="Java进阶学习之核心类">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png">
+<meta property="article:published_time" content="2021-06-18T03:02:27.872Z">
+<meta property="article:modified_time" content="2021-06-18T03:02:27.872Z">
+<meta property="article:author" content="哔哗">
+<meta property="article:tag" content="Java">
+<meta property="article:tag" content="核心类">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png"><link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/avatar-removebg32x32.png"><link rel="canonical" href="https://www.lbihua.cn/2021/06/18/studynotes/java-core-classes/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta name="google_site_verification" content="UA-175787423-1"/><meta name="baidu_site_verification" content="code-RaC1Nt5o6F"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5716bdf9efd9da7d9fbb74231cbdbae8";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-175787423-1"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-175787423-1');
+</script><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: 哔哗","link":"链接: ","source":"来源: 哔哗's Blog","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'mediumZoom',
+  Snackbar: undefined,
+  source: {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js',
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+    },
+    fancybox: {
+      js: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isanchor: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'Java核心类',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2021-06-18 11:02:27'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    })(window)</script><link rel="stylesheet" href="//at.alicdn.com/t/font_2612886_shbwsouxykm.css"><!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-card-history/baiduhistory/css/main.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/hexo-electric-clock@1.0.6/clock.css"><!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/atom.xml" title="哔哗's Blog" type="application/atom+xml">
+</head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/avatar.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">34</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">31</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">11</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 主页</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/artitalk/"><i class="fa-fw fas fa-comment"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 影视</span></a></div><div class="menus_item"><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 读书</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">哔哗's Blog</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 主页</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/artitalk/"><i class="fa-fw fas fa-comment"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 影视</span></a></div><div class="menus_item"><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 读书</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Java核心类</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-06-18T03:02:27.872Z" title="更新于 2021-06-18 11:02:27">2021-06-18</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/">技术笔记</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/">Java</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">2.4k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>8分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Java核心类"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><blockquote>
+<p>本文是Java的面向对象篇，学习于<a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.liaoxuefeng.com/">廖雪峰的Java教程</a>.</p>
+</blockquote>
+<h2 id="Java核心类"><a href="#Java核心类" class="headerlink" title="Java核心类"></a>Java核心类</h2><h3 id="1-String"><a href="#1-String" class="headerlink" title="1.String"></a>1.String</h3><ul>
+<li><p>String字符串内部是通过一个<code>char[]</code>表示的。</p>
+</li>
+<li><p>String字符串不可变性的实现：通过内部的<code>private final char[]</code>实现。</p>
+</li>
+<li><p>字符串的比较</p>
+<ul>
+<li>用<code>equals()</code>方法来比较，而不用<code>==</code>。</li>
+<li>Java编译器在编译期间，会把拥有相同字符串的对象视为同一个对象并且放入常量池，所以用<code>==</code>比较字符串得出的结果会有巧合性。</li>
+<li>忽略大小写比较字符串用<code>equalsIgnoreCase()</code>方法。</li>
+</ul>
+</li>
+<li><p>判断是否包含子串用<code>contains()</code>方法，参数为<code>CharSequence</code>类，为String的子类。</p>
+</li>
+<li><p>搜索字串</p>
+<ul>
+<li><code>indexOf()</code>方法返回字串第一次出现在前半部分的索引。</li>
+<li><code>lastIndexOf()</code>方法返回子串第一次出现在后半部分的索引。</li>
+</ul>
+</li>
+<li><p>判断是否以子串开头或结尾</p>
+<ul>
+<li><code>startsWith()</code>判断是否以子串开头。</li>
+<li><code>endsWith()</code>判断是否以字串结尾。</li>
+</ul>
+</li>
+<li><p>提取字串</p>
+<ul>
+<li><code>substring(2)</code>从索引为2处开始提取字串。</li>
+<li><code>substring(2,4)</code>从索引为2处开始提取，到索引为4处结束，但不包括索引为4的值。</li>
+</ul>
+</li>
+<li><p>去除首尾空白字符</p>
+<ul>
+<li><code>trim()</code>方法，空白字符包括<code>\t</code>、<code>\r</code>、<code>\n</code>。</li>
+<li><code>strip()</code>方法，与<code>trim</code>方法的区别就是可以去除中文空格字符<code>\u3000</code>。</li>
+</ul>
+</li>
+<li><p>判断是否为空</p>
+<ul>
+<li><code>isBlank()</code>方法可以判断是否包含空白字符。</li>
+<li><code>isEmpty</code>方法可以判断是否字符串的长度是否为0，<em>空白字符也可作为一个字符串长度。</em></li>
+</ul>
+</li>
+<li><p>替换子串用<code>replace(s1,s2)</code>方法，其中第一个参数s1表示被替换的子串，第二个参数s2为替换的子串。</p>
+</li>
+<li><p><code>spilt()</code>方法可以分割字符串。</p>
+</li>
+<li><p>格式化字符串</p>
+<ul>
+<li><code>formatted()</code></li>
+<li><code>format()</code>静态方法</li>
+<li>示例代码<span id="more"></span>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Main</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        String s = <span class="string">&quot;Hi %s, your score is %d!&quot;</span>;</span><br><span class="line">        System.out.println(s.formatted(<span class="string">&quot;Alice&quot;</span>, <span class="number">80</span>));</span><br><span class="line">        System.out.println(String.format(<span class="string">&quot;Hi %s, your score is %.2f!&quot;</span>, <span class="string">&quot;Bob&quot;</span>, <span class="number">59.5</span>));</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li><p>类型转换</p>
+<ul>
+<li>基本数据类型或引用类型转String类型。<ul>
+<li>使用<code>String.valueOf()</code>静态方法。</li>
+<li>使用<code>toString()</code>静态方法。</li>
+</ul>
+</li>
+<li>String类型转其他类型：<ul>
+<li>转int:<code>Integer.parseInt()</code>或<code>Integer.valueOf()</code>方法。</li>
+<li>转bolean:<code>Bolean.parseBolean()</code>或<code>Boolean.valueOf()</code>方法。</li>
+<li>···</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>char[ ]和String的相互转换</p>
+<ul>
+<li>String转char[ ]：<code>char[] arr = s.toCharArray()</code>即<code>toCharArray()</code>方法。</li>
+<li>char[ ]转String：<code>String s =new String (arr)</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="2-StringBuilder"><a href="#2-StringBuilder" class="headerlink" title="2.StringBuilder"></a>2.StringBuilder</h3><ul>
+<li>在循环中使用 <code>+</code> 拼接字符串会生成许多临时对象，这些会造成内存浪费，同时会影响GC效率，<code>StringBuilder</code>可以有效解决这个问题。</li>
+<li><code>StringBuilder</code>是一种可变类，可以预分配缓冲区。</li>
+<li><code>StringBuilder</code>使用<code>append()</code>方法拼接子串。</li>
+<li><code>StringBuilder</code>使用<code>delete()</code>方法删除子串。</li>
+<li><code>StringBuffer</code>是<code>StringBuilder</code>的线程安全版本，实现了相同的接口。</li>
+<li>可以通过同步来保证线程操作，但同步会带来执行速度的下降。</li>
+</ul>
+<h3 id="3-StringJoiner"><a href="#3-StringJoiner" class="headerlink" title="3.StringJoiner"></a>3.StringJoiner</h3><ul>
+<li><code>Stringjoiner</code>类最常用于用分隔符拼接数组，使用<code>add()</code>方法拼接。</li>
+<li>用法：<code>var sj = new StringJoiner(&quot;s1&quot;)</code>，其中参数s1为分隔符。</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">String[] names = &#123;<span class="string">&quot;Bob&quot;</span>, <span class="string">&quot;Alice&quot;</span>, <span class="string">&quot;Grace&quot;</span>&#125;;</span><br><span class="line"><span class="keyword">var</span> sj = <span class="keyword">new</span> StringJoiner(<span class="string">&quot;, &quot;</span>);</span><br><span class="line"><span class="keyword">for</span> (String name : names) &#123;</span><br><span class="line">    sj.add(name);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<ul>
+<li><p>如果要指定开头和结尾，<code>var sj = new StringJoiner(&quot;s1&quot;,&quot;s2&quot;,&quot;s3&quot;)</code>，其中参数s1为分隔符，s2为开头，s3为结尾。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">String[] names = &#123;<span class="string">&quot;Bob&quot;</span>, <span class="string">&quot;Alice&quot;</span>, <span class="string">&quot;Grace&quot;</span>&#125;;</span><br><span class="line"><span class="keyword">var</span> sj = <span class="keyword">new</span> StringJoiner(<span class="string">&quot;, &quot;</span>, <span class="string">&quot;Hello &quot;</span>, <span class="string">&quot;!&quot;</span>);</span><br><span class="line"><span class="keyword">for</span> (String name : names) &#123;</span><br><span class="line">    sj.add(name);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p><code>String.join()</code>为String类的静态方法，内部使用了<code>StringJonier</code>类的方法来拼接子串。</p>
+</li>
+<li><p><code>String.join()</code>方法的使用:<code>s.join(&quot;s&quot;,arr)</code>，其中s为要拼接的子串，arr为字符串数组。</p>
+</li>
+</ul>
+<h3 id="4-包装类型"><a href="#4-包装类型" class="headerlink" title="4.包装类型"></a>4.包装类型</h3><ul>
+<li>基本数据类型变为引用类型，其实是使引用类型包含一个基本类型的字段。</li>
+<li>包装类：与某种基本类型对应的引用类型称为包装类(Wrapper Class)。</li>
+<li>需要注意两种引用类型<code>Integer</code>和<code>Character</code>，其他基本与基本类型的名称一致。</li>
+<li>推荐使用包装类型的静态方法<code>valueOf()</code>创建实例，而不通过构造方法创建，因为会有编译警告。</li>
+<li>自动装箱(Auto Boxing):将基本类型自动转换为引用类型。</li>
+<li>自动拆箱(Auto Unboxing):将引用类型自动转换为基本类型。</li>
+<li>自动装箱和自动拆箱只发生在编译阶段，优点是少写代码，缺点是影响执行效率。</li>
+<li>静态工厂方法：能创建新实例的静态方法，它有缓存优化机制。</li>
+<li>如果静态工厂方法<code>valueOf()</code>中的参数很小，会返回相同的实例，由于缓存优化。</li>
+<li>包装类型转化为基本类型<ul>
+<li>使用形如<code>intvalue()</code>的方法、</li>
+<li>使用形如<code>parseInt()</code>的方法。</li>
+</ul>
+</li>
+<li>包装类型的静态变量</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Boolean t = Boolean.TRUE;</span><br><span class="line">Boolean f = Boolean.FALSE;</span><br><span class="line"><span class="comment">// int可表示的最大/最小值:</span></span><br><span class="line"><span class="keyword">int</span> max = Integer.MAX_VALUE; <span class="comment">// 2147483647</span></span><br><span class="line"><span class="keyword">int</span> min = Integer.MIN_VALUE; <span class="comment">// -2147483648</span></span><br><span class="line"><span class="comment">// long类型占用的bit和byte数量:</span></span><br><span class="line"><span class="keyword">int</span> sizeOfLong = Long.SIZE; <span class="comment">// 64 (bits)</span></span><br><span class="line"><span class="keyword">int</span> bytesOfLong = Long.BYTES; <span class="comment">// 8 (bytes)</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="5-JavaBean"><a href="#5-JavaBean" class="headerlink" title="5.JavaBean"></a>5.JavaBean</h3><ul>
+<li><code>JavaBean</code>主要用来传递数据，即把一组数据组合成一个JavaBean便于传输。</li>
+<li>一组对应的读写方法称为属性。</li>
+<li>只有读方法的称为只读属性，只有写方法的称为只写属性。</li>
+</ul>
+<h3 id="6-Enum"><a href="#6-Enum" class="headerlink" title="6.Enum"></a>6.Enum</h3><ul>
+<li>用<code>enum</code>关键字定义的类称为枚举类，它被编译器编译为<code>final class Xxx extends Enum &#123; … &#125;</code>；</li>
+<li>注意：<ul>
+<li>枚举常量带有类型信息。</li>
+<li>不能用非枚举类型的值给枚举常量赋值。</li>
+<li>不同类型的枚举不能相互比较。</li>
+</ul>
+</li>
+<li>枚举的比较<ul>
+<li><code>== </code>运算符，枚举类是一种特殊的class，可以用<code>==</code>运算符比较，因为每一个枚举常量在JVM内都是一个唯一的实例。</li>
+<li><code>equals()</code>方法，可编译通过，但更推荐用<code>==</code>运算符，可以写更少的代码。</li>
+</ul>
+</li>
+<li>枚举类的特点<ul>
+<li>继承自<code>java.lang.Enum</code>，且枚举类无法被继承，因为枚举类被<code>fintal</code>关键字修饰。</li>
+<li>只能定义enum的实例，不能用new操作符创建实例。</li>
+<li>可以用于<code>switch</code>语句。</li>
+<li>每一个枚举常量在内部都是一个唯一的实例。</li>
+</ul>
+</li>
+<li><code>name()</code>返回枚举常量名。</li>
+<li><code>ordinal()</code>返回枚举常量按顺序定义的序号，以0开始计数。</li>
+<li>enum的构造方法应该声明为<code>private类型</code>。</li>
+<li>给枚举常量添加字段，字段强烈建议声明为<code>final</code>类型，并且在<code>pirvate</code>构造方法中初始化。</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">enum</span> <span class="title">Weekday</span> </span>&#123;</span><br><span class="line">    MON(<span class="number">1</span>, <span class="string">&quot;星期一&quot;</span>), TUE(<span class="number">2</span>, <span class="string">&quot;星期二&quot;</span>), WED(<span class="number">3</span>, <span class="string">&quot;星期三&quot;</span>), THU(<span class="number">4</span>, <span class="string">&quot;星期四&quot;</span>), FRI(<span class="number">5</span>, <span class="string">&quot;星期五&quot;</span>), SAT(<span class="number">6</span>, <span class="string">&quot;星期六&quot;</span>), SUN(<span class="number">0</span>, <span class="string">&quot;星期日&quot;</span>);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">final</span> <span class="keyword">int</span> dayValue;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">final</span> String chinese;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">private</span> <span class="title">Weekday</span><span class="params">(<span class="keyword">int</span> dayValue, String chinese)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.dayValue = dayValue;</span><br><span class="line">        <span class="keyword">this</span>.chinese = chinese;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="7-Record"><a href="#7-Record" class="headerlink" title="7.Record"></a>7.Record</h3><ul>
+<li>不变类的两个特点<ul>
+<li><code>class</code>用<code>final</code>关键字修饰。</li>
+<li>字段也用<code>final</code>关键字修饰。</li>
+</ul>
+</li>
+<li>用关键字<code>record</code>声明的类称为记录类。</li>
+<li>跟枚举类一样，它不直接继承自<code>Record</code>类，而由编译器实现继承，并且被编译器编译为<code>public final class Xxx extends Record &#123;···&#125;</code></li>
+<li>记录类的声明方式</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> record <span class="title">Xxx</span><span class="params">(type x,type y)</span></span>;</span><br></pre></td></tr></table></figure>
+
+<p>它被编译器编译后的代码为：</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">final</span> <span class="class"><span class="keyword">class</span> <span class="title">Point</span> <span class="keyword">extends</span> <span class="title">Record</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">final</span> type x;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">final</span> type y;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Point</span><span class="params">(type x, type y)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.x = x;</span><br><span class="line">        <span class="keyword">this</span>.y = y;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> type <span class="title">x</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">this</span>.x;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> type <span class="title">y</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">this</span>.y;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> String <span class="title">toString</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> String.format(<span class="string">&quot;Point[x=%s, y=%s]&quot;</span>, x, y);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">equals</span><span class="params">(Object o)</span> </span>&#123;</span><br><span class="line">        ...</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">hashCode</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        ...</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>可以在记录类的构造方法中编写逻辑检查语法。</li>
+<li>可以在记录类中用<code>of()</code>静态方法创建实例。</li>
+</ul>
+<h3 id="8-BigInteger"><a href="#8-BigInteger" class="headerlink" title="8.BigInteger"></a>8.BigInteger</h3><ul>
+<li>由CPU原生提供的long整型最大位数是64位，可直接通过CPU进行计算。</li>
+<li><code>java.math.BigInteger</code>表示任意大小的整数，内部以<code>int[ ]</code>数组表示。</li>
+<li>使用BigInteger做运算的时候，要用实例方法。</li>
+<li><code>BigInteger</code>转<code>long</code>时，如果超出<code>long</code>范围，用<code>longValneExact()</code>方法会报出<code>ArithmeticException</code>异常，用<code>longValne()</code>方法不会报出异常，但会丢失高位信息，即得出的结果不准确。</li>
+<li><code>BigInteger</code>类型也可转基本类型，因为<code>BigInteger</code>也继承自<code>Number</code>类。</li>
+</ul>
+<h3 id="9-BigDecimal"><a href="#9-BigDecimal" class="headerlink" title="9.BigDecimal"></a>9.BigDecimal</h3><ul>
+<li><code>BigDecimal</code>表示任意精度的浮点数。</li>
+<li>使用<code>scale()</code>方法可以返回小数位数，如果返回负数，表示这是整数，并且末尾有整数0。</li>
+<li>使用<code>stripTrailingZeros()</code>方法可以返回一个相等的，去除了末尾0的<code>BigDecimal</code>数。</li>
+<li>使用<code>setScale()</code>方法可以设置精度，如果设置精度小与原始精度，就要考虑四舍五入或者直接截断。</li>
+<li><code>RoundingMode.HALF_UP</code>常量表示四舍五入。</li>
+<li><code>RoundingMode.Down</code>常量表示直接截断。</li>
+<li>比较两个<code>BigDecimal</code>使用<code>compareTo()</code>方法。</li>
+<li><code>BigDecimal</code>实际上是由<code>BigInteger</code>和<code>sacle</code>表示的。</li>
+</ul>
+<h3 id="10-Math"><a href="#10-Math" class="headerlink" title="10.Math"></a>10.Math</h3><ul>
+<li>数学公式<ul>
+<li><code>Math.abs()</code>计算绝对值。</li>
+<li><code>Math.max()</code>计算最大值，<code>min()</code>计算最小值</li>
+<li><code>Math.pow(x,y)</code>计算$x^y$次方。</li>
+<li><code>Math.sqrt(x)</code>计算$\sqrt{x}$。</li>
+<li><code>Math.exp(x)</code>计算$e^x$。</li>
+<li><code>Math.log(x)</code>计算$\log_ex$。</li>
+<li><code>Math.log10(x)</code>计算$\ln x$。</li>
+<li><code>Math.sin(x)</code>计算$\sin x$。</li>
+<li><code>Math.cos(x)</code>计算$\cos x$。</li>
+<li><code>Math.tan(x)</code>计算$\tan x$。</li>
+<li><code>Math.asin(x)</code>计算$asin x$。</li>
+<li><code>Math.acos(x)</code>计算$acos x$。</li>
+<li><code>Math.PI</code>数学常量，表示$\Pi$</li>
+<li><code>Math.E</code>数学常量，表示e。</li>
+</ul>
+</li>
+<li><code>Math.random()</code>返回<code>[0,1</code>之间的随机数。</li>
+</ul>
+<h3 id="11-Random"><a href="#11-Random" class="headerlink" title="11.Random"></a>11.Random</h3><ul>
+<li><code>Random</code>类用来创建伪随机数，伪随机数是指给定一个种子，会产生相同的随机数序列。</li>
+<li><code>Math.random()</code>实际上内部调用了<code>Random</code>类。</li>
+<li><code>SecureRandom</code>类用来产生安全的随机数。</li>
+</ul>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined" rel="external nofollow noreferrer">哔哗</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.lbihua.cn/2021/06/18/studynotes/java-core-classes/">https://www.lbihua.cn/2021/06/18/studynotes/java-core-classes/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.lbihua.cn" target="_blank">哔哗's Blog</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/Java/">Java</a><a class="post-meta__tags" href="/tags/%E6%A0%B8%E5%BF%83%E7%B1%BB/">核心类</a></div><div class="post_share"></div></div><div class="post-reward"><div class="reward-button button--animated"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/wechat.png" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/wechat.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/alipay.png" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/alipay.png" alt="alipay"/></a><div class="post-qr-code-desc">alipay</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/2021/06/18/studynotes/java-annotation/"><img class="prev-cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">Java注解</div></div></a></div><div class="next-post pull-right"><a href="/2021/06/18/studynotes/java-exception/"><img class="next-cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">Java异常</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span> 相关推荐</span></div><div class="relatedPosts-list"><div><a href="/2021/06/18/studynotes/java-annotation/" title="Java注解"><img class="cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-06-18</div><div class="title">Java注解</div></div></a></div><div><a href="/2021/06/18/studynotes/java-introduction/" title="Java入门"><img class="cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-06-18</div><div class="title">Java入门</div></div></a></div><div><a href="/2021/06/18/studynotes/java-object-oriented/" title="Java面向对象基础"><img class="cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-06-18</div><div class="title">Java面向对象基础</div></div></a></div><div><a href="/2021/06/18/studynotes/java-reflection/" title="Java反射"><img class="cover" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614103306.png" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2021-06-18</div><div class="title">Java反射</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div class="vcomment" id="vcomment"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-info-avatar is-center"><img class="avatar-img" src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/avatar.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/><div class="author-info__name">哔哗</div><div class="author-info__description">你知道的越多,你不知道的就越多</div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">34</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">31</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">11</div></a></div></div><a class="button--animated" id="card-info-btn" target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/Iambihua/Iambihua.github.io"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Iambihua/Iambihua.github.io" rel="external nofollow noreferrer" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="https://weibo.com/u/6571685684/home?wvr=5" rel="external nofollow noreferrer" target="_blank" title="WeiBo"><i class="fab fa-weibo"></i></a><a class="social-icon" href="https://www.lbihua.cn/atom.xml" target="_blank" title="RSS"><i class="fas fa-rss-square"></i></a></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Java%E6%A0%B8%E5%BF%83%E7%B1%BB"><span class="toc-number">1.</span> <span class="toc-text">Java核心类</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1-String"><span class="toc-number">1.1.</span> <span class="toc-text">1.String</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-StringBuilder"><span class="toc-number">1.2.</span> <span class="toc-text">2.StringBuilder</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#3-StringJoiner"><span class="toc-number">1.3.</span> <span class="toc-text">3.StringJoiner</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#4-%E5%8C%85%E8%A3%85%E7%B1%BB%E5%9E%8B"><span class="toc-number">1.4.</span> <span class="toc-text">4.包装类型</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#5-JavaBean"><span class="toc-number">1.5.</span> <span class="toc-text">5.JavaBean</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#6-Enum"><span class="toc-number">1.6.</span> <span class="toc-text">6.Enum</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#7-Record"><span class="toc-number">1.7.</span> <span class="toc-text">7.Record</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#8-BigInteger"><span class="toc-number">1.8.</span> <span class="toc-text">8.BigInteger</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#9-BigDecimal"><span class="toc-number">1.9.</span> <span class="toc-text">9.BigDecimal</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#10-Math"><span class="toc-number">1.10.</span> <span class="toc-text">10.Math</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#11-Random"><span class="toc-number">1.11.</span> <span class="toc-text">11.Random</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%202/" title="Learning how to learn part2"><img src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614095703.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Learning how to learn part2"/></a><div class="content"><a class="title" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%202/" title="Learning how to learn part2">Learning how to learn part2</a><time datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%203/" title="Learning how to learn part3"><img src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614095703.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Learning how to learn part3"/></a><div class="content"><a class="title" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%203/" title="Learning how to learn part3">Learning how to learn part3</a><time datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%204/" title="Learning how to learn part4"><img src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614095703.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Learning how to learn part4"/></a><div class="content"><a class="title" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%204/" title="Learning how to learn part4">Learning how to learn part4</a><time datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20prat%201/" title="Learning how to learn part1"><img src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614095703.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Learning how to learn part1"/></a><div class="content"><a class="title" href="/2021/06/18/Coursere/Learning%20how%20to%20learn%20prat%201/" title="Learning how to learn part1">Learning how to learn part1</a><time datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/06/18/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/" title="《习惯的力量》"><img src="https://cdn.jsdelivr.net/gh/Iambihua/cdn/images/20210614100157.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="《习惯的力量》"/></a><div class="content"><a class="title" href="/2021/06/18/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/" title="《习惯的力量》">《习惯的力量》</a><time datetime="2021-06-18T03:02:27.872Z" title="发表于 2021-06-18 11:02:27">2021-06-18</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2018 - 2021 By 哔哗</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener external nofollow noreferrer" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text"><div><a target="_blank" rel="noopener external nofollow noreferrer" href="https://beian.miit.gov.cn/#/Integrated/index"><span>陇ICP备20002965号-1</span></a><br><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><span>由又拍云提供CDN加速服务</span></a></div></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',preloader.endLoading())</script><div class="js-pjax"><script>function loadValine () {
+  function initValine () {
+    const valine = new Valine(Object.assign({
+      el: '#vcomment',
+      appId: 'n5SOYjqlktD33S0dVjdm4gn8-gzGzoHsz',
+      appKey: 'sX08q4nK1pdqj7Kvsnhs0prh',
+      placeholder: 'just go go~',
+      avatar: 'robohash',
+      meta: 'nick,mail,link'.split(','),
+      pageSize: '10',
+      lang: 'zh-CN',
+      recordIP: false,
+      serverURLs: '',
+      emojiCDN: '',
+      emojiMaps: "",
+      enableQQ: true,
+      path: window.location.pathname,
+      master: '29973f7e35b33ee9243415124cc8571a'.split(','),
+      friends: '1a8ebefa1122d38333a2b6c5bf412374,079c9f5aa7a5dd9522d22b5155dbe6ca'.split(','),
+      tagMeta: '博主,小伙伴,访客'.split(','),
+      requiredFields: ["nick,mail"],
+      visitor: false
+    }, null))
+  }
+
+  if (typeof Valine === 'function') initValine() 
+  else getScript('https://cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js').then(initValine)
+}
+
+if ('Valine' === 'Valine' || !true) {
+  if (true) btf.loadComment(document.getElementById('vcomment'),loadValine)
+  else setTimeout(loadValine, 0)
+} else {
+  function loadOtherComment () {
+    loadValine()
+  }
+}</script></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Iambihua/cdn/css/butterfly.css"><script id="canvas_nest" defer="defer" color="0,0,255" opacity="0.8" zIndex="-1" count="99" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-nest.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
+  'title',
+  '#config-diff',
+  '#body-wrap',
+  '#rightside-config-hide',
+  '#rightside-config-show',
+  '.js-pjax'
+]
+
+if (false) {
+  pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"]):not([href="/artitalk/"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener toc scroll 
+  window.removeEventListener('scroll', window.tocScrollFn)
+
+  typeof preloader === 'object' && preloader.initLoading()
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'UA-175787423-1', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // Analytics
+  if (false) {
+    MtaH5.pgv()
+  }
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><!-- hexo injector body_end start --><script data-pjax>function history_calendar_injector_config(){
+                var parent_div_git = document.getElementsByClassName('sticky_layout')[0];
+                var item_html = '<div class="card-widget card-history"><div class="card-content"><div class="item-headline"><i class="fas fa-clock fa-spin"></i><span>那年今日</span></div><div id="history-baidu" style="height: 100px;overflow: hidden"><div class="history_swiper-container" id="history-container" style="width: 100%;height: 100%"><div class="swiper-wrapper" id="history_container_wrapper" style="height:20px"></div></div></div></div>';
+                console.log('已挂载history_calendar')
+                // parent_div_git.innerHTML=item_html+parent_div_git.innerHTML // 无报错，但不影响使用(支持pjax跳转)
+                parent_div_git.insertAdjacentHTML("afterbegin",item_html) // 有报错，但不影响使用(支持pjax跳转)
+            }if( document.getElementsByClassName('sticky_layout')[0] && (location.pathname ==='all'|| 'all' ==='all')){
+
+            history_calendar_injector_config()
+        } </script><script data-pjax  src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script><script data-pjax src="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-card-history/baiduhistory/js/main.js"></script><script data-pjax>function electric_clock_injector_config(){
+                var parent_div_git = document.getElementsByClassName('sticky_layout')[0];
+                var item_html = '<div class="card-widget card-clock"><div class="card-glass"><div class="card-background"><div class="card-content"><div id="hexo_electric_clock"><img id="card-clock-loading" src="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-clock/clock/images/weather/loading.gif" style="height: 120px; width: 100%;" data-ll-status="loading" class="entered loading"></div></div></div></div></div>';
+                console.log('已挂载electric_clock')
+                // parent_div_git.innerHTML=item_html+parent_div_git.innerHTML // 无报错，但不影响使用(支持pjax跳转)
+                parent_div_git.insertAdjacentHTML("afterbegin",item_html) // 有报错，但不影响使用(支持pjax跳转)
+            }if( document.getElementsByClassName('sticky_layout')[0] && (location.pathname ==='all'|| 'all' ==='all')){
+
+            electric_clock_injector_config()
+        } </script><script src="https://pv.sohu.com/cityjson?ie=utf-8"></script><script data-pjax  src="https://cdn.jsdelivr.net/gh/Zfour/hexo-electric-clock@1.0.6/clock.js"></script><!-- hexo injector body_end end --></body></html>
