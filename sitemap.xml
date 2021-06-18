@@ -2,27 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.lbihua.cn/manifest.json</loc>
-    
-    <lastmod>2021-06-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.lbihua.cn/link/index.html</loc>
-    
-    <lastmod>2021-06-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.lbihua.cn/tags/index.html</loc>
-    
-    <lastmod>2021-06-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.lbihua.cn/2021/06/18/Coursere/Learning%20how%20to%20learn%20part%202/</loc>
     
     <lastmod>2021-06-18</lastmod>
@@ -261,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://www.lbihua.cn/about/index.html</loc>
+    <loc>https://www.lbihua.cn/manifest.json</loc>
     
     <lastmod>2021-06-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.lbihua.cn/bangumis/index.html</loc>
+    <loc>https://www.lbihua.cn/about/index.html</loc>
     
     <lastmod>2021-06-18</lastmod>
     
@@ -285,6 +264,27 @@
     <loc>https://www.lbihua.cn/friends/index.html</loc>
     
     <lastmod>2021-06-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.lbihua.cn/tags/index.html</loc>
+    
+    <lastmod>2021-06-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.lbihua.cn/link/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.lbihua.cn/bangumis/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
     
   </url>
   
