@@ -224,7 +224,7 @@
   </entry>
   <entry>
     <title>《习惯的力量》</title>
-    <url>/2020/11/23/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
+    <url>/2020/05/23/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
     <content><![CDATA[<div class="douban-card-block">
 	<a class="douban-card" href="https://book.douban.com/subject/20507212">
 		<div class="douban-card-bgimg" style="background-image: url('https://images.weserv.nl/?url=https://img9.doubanio.com/view/subject/s/public/s26262254.jpg');"></div>
@@ -415,7 +415,7 @@
   </entry>
   <entry>
     <title>DeepL</title>
-    <url>/2021/06/19/Share/DeepL/</url>
+    <url>/2021/06/11/Share/DeepL/</url>
     <content><![CDATA[<h1 id="DeepL"><a href="#DeepL" class="headerlink" title="DeepL"></a>DeepL</h1><blockquote>
 <p>科技巨头谷歌（Google）、微软（Microsoft）和脸书（Facebook）都将机器学习应用到翻译领域，但一家名为DeepL的小公司却超越了他们，并且提高了该领域的标准。<br>其翻译速度可与规模庞大的竞争者相媲美，但比我们使用过的任何一个翻译工具都要准确和细致。<br>——<a href="https://techcrunch.com/2017/08/29/deepl-schools-other-online-translators-with-clever-machine-learning/" title="动点科技（TechCrunch）">动点科技（TechCrunch）</a>美国</p>
 </blockquote>
@@ -997,7 +997,7 @@
   </entry>
   <entry>
     <title>GitHub实用开源项目收藏</title>
-    <url>/2020/04/23/projects/githubrep/</url>
+    <url>/2020/06/05/projects/githubrep/</url>
     <content><![CDATA[<blockquote>
 <ul>
 <li>本页面整理收藏GitHub的开源仓库</li>
@@ -1180,7 +1180,7 @@
 <h2 id="git远程仓库"><a href="#git远程仓库" class="headerlink" title="git远程仓库"></a>git远程仓库</h2><ol>
 <li><p>生成SSHKey</p>
 <ul>
-<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#x73;&#101;&#x72;&#x40;&#101;&#120;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#109;">&#117;&#x73;&#101;&#x72;&#x40;&#101;&#120;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#109;</a>“.</li>
+<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#x73;&#101;&#114;&#x40;&#101;&#x78;&#x61;&#x6d;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#117;&#x73;&#101;&#114;&#x40;&#101;&#x78;&#x61;&#x6d;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;</a>“.</li>
 <li>id_rsa 私钥，id_ras.pub公钥.</li>
 </ul>
 </li>
@@ -1199,7 +1199,7 @@
 <ul>
 <li><p>两种关联方式：</p>
 <ul>
-<li>git remote add origin <a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;">&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;</a>:用户名/ 仓库名.git.</li>
+<li>git remote add origin <a href="mailto:&#x67;&#105;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#111;&#109;">&#x67;&#105;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#111;&#109;</a>:用户名/ 仓库名.git.</li>
 <li>git remote add origin <a href="https://github.com/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/用户名/仓库名.git</a></li>
 </ul>
 </li>
@@ -1225,7 +1225,7 @@
 <ul>
 <li><p>两种克隆方式：</p>
 <ul>
-<li>git clone <a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#99;&#111;&#x6d;">&#103;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#99;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
+<li>git clone <a href="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#105;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#109;">&#x67;&#x69;&#x74;&#64;&#x67;&#105;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#109;</a>:用户名/仓库名.git.</li>
 <li>git clone <a href="https://github/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github/用户名/仓库名.git</a>.</li>
 </ul>
 </li>
