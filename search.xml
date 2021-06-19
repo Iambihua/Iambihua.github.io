@@ -224,7 +224,7 @@
   </entry>
   <entry>
     <title>《习惯的力量》</title>
-    <url>/2021/06/19/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
+    <url>/2020/11/23/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
     <content><![CDATA[<div class="douban-card-block">
 	<a class="douban-card" href="https://book.douban.com/subject/20507212">
 		<div class="douban-card-bgimg" style="background-image: url('https://images.weserv.nl/?url=https://img9.doubanio.com/view/subject/s/public/s26262254.jpg');"></div>
@@ -356,7 +356,7 @@
   </entry>
   <entry>
     <title>Android软件1</title>
-    <url>/2021/06/19/Share/Android1/</url>
+    <url>/2020/06/23/Share/Android1/</url>
     <content><![CDATA[<p>在我的认知观里，一款优秀的软件应该满足以下特性，另外我也整理了以下几个我觉得生活中很实用的软件。</p>
 <blockquote>
 <ul>
@@ -456,7 +456,7 @@
   </entry>
   <entry>
     <title>搜索引擎</title>
-    <url>/2021/06/19/Share/SearchEngine/</url>
+    <url>/2020/06/04/Share/SearchEngine/</url>
     <content><![CDATA[<h1 id="1-多吉搜索"><a href="#1-多吉搜索" class="headerlink" title="1.多吉搜索"></a><a href="https://www.dogedoge.com/">1.多吉搜索</a></h1><blockquote>
 <p>不追踪不误导你的搜索引擎，光是不误导三个字，我都觉得它是针对某度，而且也没有广告宣传。这款搜索引擎我体验下来，觉得特别惊喜，搜索速度飞快，结果返回准确度高。我觉得平常使用的话，还是可以用它来替代某度搜索。<br><img src="https://gitee.com/liubeep/blogimage/raw/master/img/20200529160307.png" alt="Snipaste_2020-05-26_22-36-42"> </p>
 </blockquote>
@@ -488,7 +488,7 @@
   </entry>
   <entry>
     <title>搜索技巧</title>
-    <url>/2021/06/19/Share/SearchSkills/</url>
+    <url>/2021/05/13/Share/SearchSkills/</url>
     <content><![CDATA[<p><strong>歌曲推荐《白兰鸽巡游记》</strong></p>
 <p>“<em>年少时总是向往南方，直到青丝暮成雪的那天，才发现南方和我都是相逢一笑过客，同白兰鸽在一个安静的早晨飞回北方吧，那里冬天的寒风再怎样刺骨，可那是我的故乡啊</em>“——网易云音乐热评.</p>
 <h1 id="1-关键词搜索"><a href="#1-关键词搜索" class="headerlink" title="1.关键词搜索"></a>1.关键词搜索</h1><blockquote>
@@ -526,7 +526,7 @@
   </entry>
   <entry>
     <title>Typora</title>
-    <url>/2021/06/19/Share/Typora%20editor/</url>
+    <url>/2020/06/04/Share/Typora%20editor/</url>
     <content><![CDATA[<h1 id="Typora-1"><a href="#Typora-1" class="headerlink" title="Typora[1]"></a><strong>Typora</strong>[1]</h1><h2 id="1-Markdown-amp-富文本"><a href="#1-Markdown-amp-富文本" class="headerlink" title="1.Markdown&amp;富文本"></a><strong>1.Markdown&amp;富文本</strong></h2><p>大家平常用的最多的编辑器类型应该是富文本吧，<em>word</em>算是富文本编辑器的一种，下图是它的操作界面类型。 <img src="https://imgkr.cn-bj.ufileos.com/932811f9-bb28-406d-bb7c-5b90a4f1b99b.png" alt="img"></p>
 <p>那Markdown编辑器跟它有什么区别，也可见下图。 <img src="https://imgkr.cn-bj.ufileos.com/21b9a3f6-a608-49ff-ba9e-eb67a1112457.png" alt="img"></p>
 <p>可以看到两者操作界面非常不同，Markdown多了两种操作界面，左边是编辑区，是可以用<strong>markdown标记语法</strong>编写内容的区域，而右边是预览区域，是左边编辑区用Markdown标记语法编写后的内容展示区，也是最终展示给用户的文本样式。那什么是markdown标记语法？大家可以先观察一下上图左边编辑区的文本内容，是不是不明白 <em>#</em> 号的作用？其实它是一级标题的意思，是将它后面的文本内容设为一级标题，如果有两个##号呢？那就是二级标题的意思。具体我也不用多说，如果你们感兴趣的话我在这里推荐实用Markdown教程<strong>草鸟教程Markdown</strong>[3]，我起初就是在这里入门的，而且教程内容不多也简单易学，基本上<em>学习+实践</em>40分钟左右就基本全学完了。下面开始迎接我们的主角Typora。</p>
@@ -553,8 +553,154 @@
       </tags>
   </entry>
   <entry>
+    <title>思维导图</title>
+    <url>/2020/06/04/Share/mindmapping/</url>
+    <content><![CDATA[<blockquote>
+<p>歌曲推荐：《不露声色》</p>
+<p>“中伤不是你的强项，黑夜看不见你的坚强，流放变成我的苍凉，鼓声牵引着谁的心脏。”——网页云音乐热评</p>
+</blockquote>
+<h1 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h1><p>思维导图应该是大家都熟知的东西，但我想真正能经常使用的，应该没几个吧，其实它的好处真的还挺多，大家可能嫌它做起来麻烦而放弃使用，但相信我只要熟练使用后你会发现它有多方便强大。</p>
+<h3 id="1-优点："><a href="#1-优点：" class="headerlink" title="1.优点："></a>1.优点：</h3><blockquote>
+<ul>
+<li><p>可视性：以图形的形式呈现，更直观形象，易于记忆。</p>
+</li>
+<li><p>系统性:以主题为中心，向周围扩展更多分支主题，每个分支主题也可继续扩展子主题，<strong>便于管理知识并能形成系统性知识框架</strong>。</p>
+</li>
+<li><p>自由性:形式自由，编辑时没有太多限制和要求。</p>
+</li>
+<li><p>简便性：便于复习，增加删除也相对灵活点。</p>
+</li>
+</ul>
+</blockquote>
+<p>它的原理是：用图表的形式表现大脑的发散性思维，主观上是大脑发散性思维的外部视觉体现。</p>
+<span id="more"></span>
+<h3 id="2-它有很多用途比如："><a href="#2-它有很多用途比如：" class="headerlink" title="2.它有很多用途比如："></a>2.它有很多用途比如：</h3><ul>
+<li>课程知识点总结。</li>
+<li>记录抄写</li>
+<li>决策策划</li>
+<li>…</li>
+</ul>
+<p>下面是一个思维导图例子：<br><img src="https://imgkr.cn-bj.ufileos.com/2a6a005c-60bd-446d-9eb2-1eae39b57255.png"></p>
+<h1 id="2-xmind"><a href="#2-xmind" class="headerlink" title="2.xmind"></a>2.xmind</h1><p>对于思维导图软件的选择，个人推荐<strong>xmind</strong>,很亲民强大，这里说的强大，在我看来就是导入导出功能，这方面是我的刚需。它支持的导入导出格式如下：<br><img src="https://imgkr.cn-bj.ufileos.com/83f21bf8-39f5-42c6-920c-80f83e13d7f8.png" alt="导出"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/a800f8fa-65b6-452b-909e-850a2336854a.png" alt="导入"><br>另外它也有很多种主题风格可换，下图只是它众多主题风格中的少数几个：</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/1440576d-803c-40d3-9a19-7190bd728d7f.png"><br>当然，它并不是免费的，有些功能是需要开通会员服务才可以免费使用，尽管开源的思维导图软件也不少，但是有些并不能满足我的刚需，而且功能也不是很完全，所以我更愿意使用xmind,但这并不意味着我就要花钱买它的会员服务。如果大家有需要，我在下面给出window版<a href="https://bihua.lanzous.com/b00tmlbed" title="全功能版xmind">全功能版xmind</a>，密码<strong>czj6</strong>，<a href="https://bihua.lanzous.com/iO9Dqdq3hla" title="Android版xmind">Android版xmind</a>破除会员功能限制，如有需要可下载并按照使用说明安装即可。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>三款网盘工具</title>
+    <url>/2020/06/04/Share/netdisk/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌曲推荐《岁月神偷》</strong></p>
+<p>“<em>唐朝的离婚书是这样写的：愿娘子相离之后， 重梳婵鬓美扫峨眉 ，巧呈窈窕之姿 ，选聘高官之主 ，解怨释结更莫相憎 ，一别两宽各生欢喜</em>“——网易云音乐热评.</p>
+</blockquote>
+<hr>
+<hr>
+<blockquote>
+<p>推荐几款网盘工具网站，大家平时有需要的话尽量用这些网盘工具网站，这些网盘网站相比百度网盘优点不要说太多了，没有众多限制，最重要的是可以直接在线上传下载，不用打开客户端软件。<em>链接已在文末给出</em>。</p>
+</blockquote>
+<span id="more"></span>
+<h1 id="1-奶牛快传"><a href="#1-奶牛快传" class="headerlink" title="1.奶牛快传"></a><a href="https://cowtransfer.com/" title="1.奶牛快传">1.奶牛快传</a></h1><blockquote>
+<p>非常有颜值的在线网盘网站，不用登录即可上传下载，但是有广告，but,它的广告却又不那么惹人厌，相反非常的文艺，精美，高端大气上档次！我已经在上面看了好几个广告！接下来不多说，评价时候到了。</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：2GB。</p>
+<p>3.文件存储空间大小：5GB。</p>
+<p>4.分享链接有效期：7天。</p>
+<p>5.支持平台：android,ios,小程序，网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/aeaa2708-9aaf-49d2-8ab6-e512e959d177.png"></p>
+<h1 id="2-蓝奏云"><a href="#2-蓝奏云" class="headerlink" title="2.蓝奏云"></a>2.<a href="https://www.lanzou.com/" title="蓝奏云">蓝奏云</a></h1><blockquote>
+<p>这是我常用的第三方网盘工具，只是需要登录才能上传下载，但它的优势还是很明显的，相比上面奶牛快传，它更满足我的刚需功能。</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：100MB。</p>
+<p>3.文件存储空间大小：<em><strong>不限制！</strong></em></p>
+<p>4。分享链接有限期：<em><strong>不限制！</strong></em></p>
+<p>5.支持平台：仅支持Android和网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/e77ea3f8-c3ad-46a7-acb3-871d570b50aa.png"></p>
+<h1 id="3-文叔叔"><a href="#3-文叔叔" class="headerlink" title="3.文叔叔"></a>3.<a href="https://www.wenshushu.cn/" title="文叔叔">文叔叔</a></h1><blockquote>
+<p>也是不用登录即可使用的在线网盘工具，但它有个最大的特色，就是生成分享链接的同时可以发送到对方<strong>电子邮件或手机号</strong>，这就很炫酷了。除此以外，上传文件的时候可以批量上传文件或文件夹，完全<strong>不用打包压缩</strong>，别提多方便了！</p>
+<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
+<p>2.单次上传上限：5GB。</p>
+<p>3.文件存储空间大小：<em><strong>20GB。</strong></em></p>
+<p>4.分享链接有效期：起初两天，到期后可自动续期，最长只能保留7天。会员更长。</p>
+<p>5.支持平台：android,ios,小程序。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/9f8d1cf6-5860-447d-8b58-88d6629d14b1.png"></p>
+<p><em>ps:</em> 以上对所有在线网盘的介绍适用于免费的情况，这些网盘工具都有付费会员等级，就不一一介绍了，对于网盘工具的选择，按个人需求选择就足够了，基本都没什么区别。</p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>网盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>实用网站1</title>
+    <url>/2020/06/04/Share/website1/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌曲推荐《借我》</strong><br>*”不是纵容的悲怆与哭喊，而是平静的呢喃与诉说。”*——网易云音乐热评</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2 id="1-苦瓜书盘"><a href="#1-苦瓜书盘" class="headerlink" title="1.苦瓜书盘"></a><a href="https://kgbook.com/" title="1.苦瓜书盘">1.苦瓜书盘</a></h2><p>电子书搜索网站，支持各种类型的书籍搜索,书籍质量还算高清。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/7a1ed033-370d-4f10-8ca7-d6ab46a8b5c7.png"></p>
+<blockquote>
+<h2 id="2-资源帝"><a href="#2-资源帝" class="headerlink" title="2.资源帝"></a><a href="http://shu.ziyuandi.cn/" title="2.资源帝">2.资源帝</a></h2><p>同样也是电子书搜索网站，支持多站点电子书搜索，相比上面电子书搜索网站来说，资源应该更全些，也更容易找到需要的电子书籍。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/8b549d94-19e7-4235-8f3a-d3f7b684c882.png"></p>
+<blockquote>
+<h2 id="3-超级简历"><a href="#3-超级简历" class="headerlink" title="3.超级简历"></a><a href="https://www.wondercv.com/" title="3.超级简历">3.超级简历</a></h2><p>简历生成网站，里面的简历模板也可免费使用，好的简历会让HR眼前一亮，不容易被刷下去，建议大家先收藏好这个网站。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/088ead01-2602-4496-8529-7cdfe0487641.png"></p>
+<span id="more"></span>
+
+<blockquote>
+<h2 id="4-网易见外工作台"><a href="#4-网易见外工作台" class="headerlink" title="4.网易见外工作台"></a><a href="https://jianwai.youdao.com/index/0" title="4.网易见外工作台">4.网易见外工作台</a></h2><p>网易出品，可以进行视频转写(<strong>生成与视频对应的字幕</strong>)，视频翻译，文档翻译，语音翻译等。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/5e4a9507-0046-4711-a3e1-4ae1bf17c649.png"></p>
+<blockquote>
+<h2 id="5-超级PPT市场"><a href="#5-超级PPT市场" class="headerlink" title="5.超级PPT市场"></a><a href="http://ppt.sotary.com/web/wxapp/index.html" title="5.超级PPT市场">5.超级PPT市场</a></h2><p>完全免费的PPT模板下载网站，不需要注册登录，可以利用搜索功能搜索需要的模板。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/e19e5370-0fcc-4f61-b81c-d1034bbcf05e.png"></p>
+<blockquote>
+<h2 id="6-蜜蜂剪辑"><a href="#6-蜜蜂剪辑" class="headerlink" title="6.蜜蜂剪辑"></a><a href="https://beecut.cn/online-video-editor" title="6.蜜蜂剪辑">6.蜜蜂剪辑</a></h2><p>支持多种功能的在线视频编辑，比如视频转GIF，视频截取等。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d258eb36-9fa8-4fc3-b61c-ac2e6dfa4f1f.png"></p>
+<blockquote>
+<h2 id="7-在线格式转换"><a href="#7-在线格式转换" class="headerlink" title="7.在线格式转换"></a><a href="https://www.alltoall.net/" title="7.在线格式转换">7.在线格式转换</a></h2><p>功能特别全特别强大的在线格式转换，支持PDF转换，也支持视频转换，音频转换，电子书转换等等，基本上可以说，不管什么形式的格式转换，这个网站都支持。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/0c556ecf-2d5e-4ee9-b312-6d7551d304da.png"></p>
+<blockquote>
+<h2 id="8-爱文库"><a href="#8-爱文库" class="headerlink" title="8.爱文库"></a><a href="http://www.258wk.com/" title="8.爱文库">8.爱文库</a></h2><p>直接下载百度文库<strong>VIP和收费文档</strong>，不需要任何下载券。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/679b6c91-e242-43f1-bd0e-6dc4463a1121.png"></p>
+<blockquote>
+<h2 id="9-Neets搜索站"><a href="#9-Neets搜索站" class="headerlink" title="9.Neets搜索站"></a><a href="http://neets.cc/" title="9.Neets搜索站">9.Neets搜索站</a></h2><p>在线看视频网站，支持美剧韩剧日剧等观看，当然也支持番剧，</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/3d9b1a3a-ebbb-4d69-bf71-e60a84143ab2.png"></p>
+<blockquote>
+<h2 id="10-易破解"><a href="#10-易破解" class="headerlink" title="10.易破解"></a><a href="https://www.ypojie.com/" title="10.易破解">10.易破解</a></h2><p>有时候使用一些需要注册才能使用的软件，也或者是需要开通会员或者付费才能使用的功能，可以在这里寻找破解版软件，放心，软件都是安全无害的。</p>
+</blockquote>
+<p><img src="https://imgkr.cn-bj.ufileos.com/d026e01e-7159-4649-af42-d169c2433b71.png"></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>实用网站2</title>
-    <url>/2021/06/19/Share/website2/</url>
+    <url>/2020/06/04/Share/website2/</url>
     <content><![CDATA[<p>这期向大家推荐几个压箱底的实用网站，这些网站工具可以更好地提升大家的数字生活效率和扩展知识面。</p>
 <h2 id="1-AI人工智能无损放大"><a href="#1-AI人工智能无损放大" class="headerlink" title="1.AI人工智能无损放大 "></a><a href="https://bigjpg.com/" title="1.AI人工智能无损放大 ">1.AI人工智能无损放大 </a></h2><p>这是一个特别的图片放大网站，与传统的图片放大软件比如<em>photozoom</em>或者<em>PS</em>不同，因为这些传统软件放大后的图片依然有明显的模糊感，边缘的重影以及噪点，这个网站放大后的图片就不会有明显的模糊感，而且本身很清晰的图片在这里放大后色彩会更明显更清晰，当然你也可以不用放大而仅降噪也可以提高清晰度。这个网站也提供了不限平台软件下载和小程序。</p>
 <p><img src="https://imgkr.cn-bj.ufileos.com/147e34f0-f62b-481f-9179-a2819a6898a1.png"></p>
@@ -748,7 +894,7 @@
   </entry>
   <entry>
     <title>关于知识学习和公众号的思考</title>
-    <url>/2021/06/19/Thinking/how-to-study/</url>
+    <url>/2020/06/12/Thinking/how-to-study/</url>
     <content><![CDATA[<h2 id="如何学习知识"><a href="#如何学习知识" class="headerlink" title="如何学习知识"></a>如何学习知识</h2><ul>
 <li><p>系统性</p>
 <p>学习应该是系统性的，而非碎片化的，只有系统性地学习知识才能强化记忆加深理解。</p>
@@ -851,7 +997,7 @@
   </entry>
   <entry>
     <title>GitHub实用开源项目收藏</title>
-    <url>/2021/06/19/projects/githubrep/</url>
+    <url>/2020/04/23/projects/githubrep/</url>
     <content><![CDATA[<blockquote>
 <ul>
 <li>本页面整理收藏GitHub的开源仓库</li>
@@ -912,7 +1058,7 @@
   </entry>
   <entry>
     <title>Git入门学习</title>
-    <url>/2021/06/19/studynotes/Git/</url>
+    <url>/2020/06/04/studynotes/Git/</url>
     <content><![CDATA[<h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><h2 id="git介绍"><a href="#git介绍" class="headerlink" title="git介绍"></a>git介绍</h2><ol>
 <li><p>由Linus用C语言编写.</p>
 </li>
@@ -1034,7 +1180,7 @@
 <h2 id="git远程仓库"><a href="#git远程仓库" class="headerlink" title="git远程仓库"></a>git远程仓库</h2><ol>
 <li><p>生成SSHKey</p>
 <ul>
-<li>ssh-keygen -t rsa -C  “<a href="mailto:&#x75;&#115;&#101;&#114;&#64;&#101;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;">&#x75;&#115;&#101;&#114;&#64;&#101;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</a>“.</li>
+<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#x73;&#101;&#x72;&#x40;&#101;&#120;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#109;">&#117;&#x73;&#101;&#x72;&#x40;&#101;&#120;&#x61;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#109;</a>“.</li>
 <li>id_rsa 私钥，id_ras.pub公钥.</li>
 </ul>
 </li>
@@ -1053,7 +1199,7 @@
 <ul>
 <li><p>两种关联方式：</p>
 <ul>
-<li>git remote add origin <a href="mailto:&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#x74;&#104;&#117;&#x62;&#x2e;&#99;&#x6f;&#x6d;">&#x67;&#x69;&#x74;&#x40;&#103;&#x69;&#x74;&#104;&#117;&#x62;&#x2e;&#99;&#x6f;&#x6d;</a>:用户名/ 仓库名.git.</li>
+<li>git remote add origin <a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;">&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;</a>:用户名/ 仓库名.git.</li>
 <li>git remote add origin <a href="https://github.com/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/用户名/仓库名.git</a></li>
 </ul>
 </li>
@@ -1079,7 +1225,7 @@
 <ul>
 <li><p>两种克隆方式：</p>
 <ul>
-<li>git clone <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#105;&#x74;&#104;&#x75;&#x62;&#x2e;&#x63;&#111;&#x6d;">&#x67;&#105;&#116;&#64;&#103;&#105;&#x74;&#104;&#x75;&#x62;&#x2e;&#x63;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
+<li>git clone <a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#99;&#111;&#x6d;">&#103;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#99;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
 <li>git clone <a href="https://github/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github/用户名/仓库名.git</a>.</li>
 </ul>
 </li>
@@ -1289,7 +1435,7 @@
   </entry>
   <entry>
     <title>HTML</title>
-    <url>/2021/06/19/studynotes/HTML/</url>
+    <url>/2020/06/04/studynotes/HTML/</url>
     <content><![CDATA[<h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><p>1.一种描述网页的文本标记语言.<br>2.通过HTML标签来表述网页.</p>
 <h2 id="一-HTML元素"><a href="#一-HTML元素" class="headerlink" title="一.HTML元素"></a>一.HTML元素</h2><p>1.HTML元素是开始标签到束标签之间的文本内容.<br>2.空元素在开始标签中结束。（在开始标签后尖括号加斜杠/).</p>
 <h2 id="二-HTML文档"><a href="#二-HTML文档" class="headerlink" title="二.HTML文档"></a>二.HTML文档</h2><p>1.HTML文档=网页=HTML标签+纯文本.<br>2.以. htm 或 .html 为后缀名.<br>3.<DOCTYPE>声明HTML版本.</p>
@@ -1682,7 +1828,7 @@
   </entry>
   <entry>
     <title>Hexo版本升级指南</title>
-    <url>/2021/06/19/studynotes/Hexo-upgrade/</url>
+    <url>/2020/06/12/studynotes/Hexo-upgrade/</url>
     <content><![CDATA[<h1 id="Hexo版本升级指南"><a href="#Hexo版本升级指南" class="headerlink" title="Hexo版本升级指南"></a>Hexo版本升级指南</h1><h3 id="1-更新升级hexo"><a href="#1-更新升级hexo" class="headerlink" title="1.更新升级hexo"></a>1.更新升级hexo</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure>
 
 <h3 id="2-查看可更新npm依赖包并升级"><a href="#2-查看可更新npm依赖包并升级" class="headerlink" title="2.查看可更新npm依赖包并升级"></a>2.查看可更新npm依赖包并升级</h3><h4 id="安装npm-check包"><a href="#安装npm-check包" class="headerlink" title="安装npm-check包"></a>安装npm-check包</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install npm-check -g</span><br></pre></td></tr></table></figure>
@@ -1707,7 +1853,7 @@
   </entry>
   <entry>
     <title>Markdown</title>
-    <url>/2021/06/19/studynotes/Markdown%E8%AF%AD%E6%B3%95/</url>
+    <url>/2020/05/04/studynotes/Markdown%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<h1 id="Markdown介绍"><a href="#Markdown介绍" class="headerlink" title="Markdown介绍"></a>Markdown介绍</h1><p>什么是Markdown?它是一种轻量级的文本标记语言，使用它可以更方便地编辑文档。</p>
 <p>很多网站都利用它来撰写文档或用于在论坛发消息等等。</p>
 <p>说到这大家可能就像在听天书一样，因为搞不懂专业用语。  </p>
@@ -1816,7 +1962,7 @@
   </entry>
   <entry>
     <title>Git基础</title>
-    <url>/2021/06/19/studynotes/basic/</url>
+    <url>/2020/06/05/studynotes/basic/</url>
     <content><![CDATA[<h1 id="Git进阶学习"><a href="#Git进阶学习" class="headerlink" title="Git进阶学习"></a>Git进阶学习</h1><blockquote>
 <p>本文是Git的进阶学习篇，来源于<a href="https://git-scm.com/book/zh/v2">Git官方网站</a>.<br>入门篇可点击<a href="https://www.lbihua.cn/StudyNotes/Git.html">Git入门学习篇</a>阅读.<br>进阶学习之起步篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Start.html">起步</a>.<br>进阶学习之分支篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Branch.html">分支</a>.</p>
 </blockquote>
@@ -1999,7 +2145,7 @@
   </entry>
   <entry>
     <title>Git分支</title>
-    <url>/2021/06/19/studynotes/branch/</url>
+    <url>/2020/06/06/studynotes/branch/</url>
     <content><![CDATA[<h1 id="Git进阶学习"><a href="#Git进阶学习" class="headerlink" title="Git进阶学习"></a>Git进阶学习</h1><blockquote>
 <p>本文是Git的进阶学习篇，来源于<a href="https://git-scm.com/book/zh/v2">Git官方网站</a>.<br>入门篇可点击<a href="https://www.lbihua.cn/2020/07/11/Git/">Git入门学习篇</a>阅读.<br>进阶学习之基础篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Basic.html">基础</a>.<br>进阶学习之起步篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Start.html">起步</a>.</p>
 </blockquote>
@@ -2091,7 +2237,7 @@
   </entry>
   <entry>
     <title>Java注解</title>
-    <url>/2021/06/19/studynotes/java-annotation/</url>
+    <url>/2020/06/10/studynotes/java-annotation/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java注解篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a></p>
 </blockquote>
@@ -2196,7 +2342,7 @@
   </entry>
   <entry>
     <title>Java核心类</title>
-    <url>/2021/06/19/studynotes/java-core-classes/</url>
+    <url>/2020/06/11/studynotes/java-core-classes/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java的面向对象篇，学习于<a href="https://www.liaoxuefeng.com/">廖雪峰的Java教程</a>.</p>
 </blockquote>
@@ -2426,7 +2572,7 @@
   </entry>
   <entry>
     <title>Java异常</title>
-    <url>/2021/06/19/studynotes/java-exception/</url>
+    <url>/2020/06/12/studynotes/java-exception/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java异常篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a></p>
 </blockquote>
@@ -2586,7 +2732,7 @@
   </entry>
   <entry>
     <title>Java入门</title>
-    <url>/2021/06/19/studynotes/java-introduction/</url>
+    <url>/2020/06/13/studynotes/java-introduction/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java的入门学习篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a>。</p>
 </blockquote>
@@ -2836,7 +2982,7 @@
   </entry>
   <entry>
     <title>Java面向对象基础</title>
-    <url>/2021/06/19/studynotes/java-object-oriented/</url>
+    <url>/2020/06/14/studynotes/java-object-oriented/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java的面向对象篇，学习于<a href="https://www.liaoxuefeng.com/">廖雪峰的Java教程</a>.</p>
 </blockquote>
@@ -3049,7 +3195,7 @@
   </entry>
   <entry>
     <title>Java反射</title>
-    <url>/2021/06/19/studynotes/java-reflection/</url>
+    <url>/2020/06/15/studynotes/java-reflection/</url>
     <content><![CDATA[<blockquote>
 <p>本文是Java反射篇，学习于<a href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的Java教程</a></p>
 </blockquote>
@@ -3176,7 +3322,7 @@
   </entry>
   <entry>
     <title>npm常用命令</title>
-    <url>/2021/06/19/studynotes/npm-command/</url>
+    <url>/2020/08/04/studynotes/npm-command/</url>
     <content><![CDATA[<h1 id="npm常见命令"><a href="#npm常见命令" class="headerlink" title="npm常见命令"></a>npm常见命令</h1><h2 id="一-npm-amp-yarn介绍"><a href="#一-npm-amp-yarn介绍" class="headerlink" title="一.npm&amp;yarn介绍"></a>一.npm&amp;yarn介绍</h2><p>npm是一个基于Node.js的包管理工具。<br>yarn是Facebook、Google、Exponent 和 Tilde 联合推出了一个新的 包管理工具,与npm相比有些优势。<br>npm在安装Node.js时会被一并安装，yarn则需要额外安装。</p>
 <h2 id="二-npm-amp-cnpm的关系"><a href="#二-npm-amp-cnpm的关系" class="headerlink" title="二.npm&amp;cnpm的关系"></a>二.npm&amp;cnpm的关系</h2><h3 id="1-介绍"><a href="#1-介绍" class="headerlink" title="1.介绍"></a>1.介绍</h3><p>由于npm服务器在国外，所以在国内安装速度不是很理想，于是淘宝团队开发了一个npmjs.org的镜像，可以有效解决下载过于缓慢的问题。这是淘宝团队对它的介绍。</p>
 <blockquote>
@@ -3277,7 +3423,7 @@
   </entry>
   <entry>
     <title>Git起步</title>
-    <url>/2021/06/19/studynotes/start/</url>
+    <url>/2020/06/04/studynotes/start/</url>
     <content><![CDATA[<h1 id="Git进阶学习"><a href="#Git进阶学习" class="headerlink" title="Git进阶学习"></a>Git进阶学习</h1><blockquote>
 <p>本文是Git的进阶学习篇，来源于<a href="https://git-scm.com/book/zh/v2">Git官方网站</a>.<br>入门篇可点击<a href="https://www.lbihua.cn/StudyNotes/Git.html">Git入门学习篇</a>阅读.<br>进阶学习之基础篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Basic.html">基础</a>.<br>进阶学习之分支篇可点击<a href="https://www.lbihua.cn/AdvancedGit/Branch.html">分支</a>.</p>
 </blockquote>
@@ -3345,152 +3491,6 @@
       </categories>
       <tags>
         <tag>Git</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>实用网站1</title>
-    <url>/2021/06/19/Share/website1/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>歌曲推荐《借我》</strong><br>*”不是纵容的悲怆与哭喊，而是平静的呢喃与诉说。”*——网易云音乐热评</p>
-</blockquote>
-<hr>
-<blockquote>
-<h2 id="1-苦瓜书盘"><a href="#1-苦瓜书盘" class="headerlink" title="1.苦瓜书盘"></a><a href="https://kgbook.com/" title="1.苦瓜书盘">1.苦瓜书盘</a></h2><p>电子书搜索网站，支持各种类型的书籍搜索,书籍质量还算高清。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/7a1ed033-370d-4f10-8ca7-d6ab46a8b5c7.png"></p>
-<blockquote>
-<h2 id="2-资源帝"><a href="#2-资源帝" class="headerlink" title="2.资源帝"></a><a href="http://shu.ziyuandi.cn/" title="2.资源帝">2.资源帝</a></h2><p>同样也是电子书搜索网站，支持多站点电子书搜索，相比上面电子书搜索网站来说，资源应该更全些，也更容易找到需要的电子书籍。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/8b549d94-19e7-4235-8f3a-d3f7b684c882.png"></p>
-<blockquote>
-<h2 id="3-超级简历"><a href="#3-超级简历" class="headerlink" title="3.超级简历"></a><a href="https://www.wondercv.com/" title="3.超级简历">3.超级简历</a></h2><p>简历生成网站，里面的简历模板也可免费使用，好的简历会让HR眼前一亮，不容易被刷下去，建议大家先收藏好这个网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/088ead01-2602-4496-8529-7cdfe0487641.png"></p>
-<span id="more"></span>
-
-<blockquote>
-<h2 id="4-网易见外工作台"><a href="#4-网易见外工作台" class="headerlink" title="4.网易见外工作台"></a><a href="https://jianwai.youdao.com/index/0" title="4.网易见外工作台">4.网易见外工作台</a></h2><p>网易出品，可以进行视频转写(<strong>生成与视频对应的字幕</strong>)，视频翻译，文档翻译，语音翻译等。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/5e4a9507-0046-4711-a3e1-4ae1bf17c649.png"></p>
-<blockquote>
-<h2 id="5-超级PPT市场"><a href="#5-超级PPT市场" class="headerlink" title="5.超级PPT市场"></a><a href="http://ppt.sotary.com/web/wxapp/index.html" title="5.超级PPT市场">5.超级PPT市场</a></h2><p>完全免费的PPT模板下载网站，不需要注册登录，可以利用搜索功能搜索需要的模板。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/e19e5370-0fcc-4f61-b81c-d1034bbcf05e.png"></p>
-<blockquote>
-<h2 id="6-蜜蜂剪辑"><a href="#6-蜜蜂剪辑" class="headerlink" title="6.蜜蜂剪辑"></a><a href="https://beecut.cn/online-video-editor" title="6.蜜蜂剪辑">6.蜜蜂剪辑</a></h2><p>支持多种功能的在线视频编辑，比如视频转GIF，视频截取等。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/d258eb36-9fa8-4fc3-b61c-ac2e6dfa4f1f.png"></p>
-<blockquote>
-<h2 id="7-在线格式转换"><a href="#7-在线格式转换" class="headerlink" title="7.在线格式转换"></a><a href="https://www.alltoall.net/" title="7.在线格式转换">7.在线格式转换</a></h2><p>功能特别全特别强大的在线格式转换，支持PDF转换，也支持视频转换，音频转换，电子书转换等等，基本上可以说，不管什么形式的格式转换，这个网站都支持。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/0c556ecf-2d5e-4ee9-b312-6d7551d304da.png"></p>
-<blockquote>
-<h2 id="8-爱文库"><a href="#8-爱文库" class="headerlink" title="8.爱文库"></a><a href="http://www.258wk.com/" title="8.爱文库">8.爱文库</a></h2><p>直接下载百度文库<strong>VIP和收费文档</strong>，不需要任何下载券。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/679b6c91-e242-43f1-bd0e-6dc4463a1121.png"></p>
-<blockquote>
-<h2 id="9-Neets搜索站"><a href="#9-Neets搜索站" class="headerlink" title="9.Neets搜索站"></a><a href="http://neets.cc/" title="9.Neets搜索站">9.Neets搜索站</a></h2><p>在线看视频网站，支持美剧韩剧日剧等观看，当然也支持番剧，</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/3d9b1a3a-ebbb-4d69-bf71-e60a84143ab2.png"></p>
-<blockquote>
-<h2 id="10-易破解"><a href="#10-易破解" class="headerlink" title="10.易破解"></a><a href="https://www.ypojie.com/" title="10.易破解">10.易破解</a></h2><p>有时候使用一些需要注册才能使用的软件，也或者是需要开通会员或者付费才能使用的功能，可以在这里寻找破解版软件，放心，软件都是安全无害的。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/d026e01e-7159-4649-af42-d169c2433b71.png"></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>sources</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三款网盘工具</title>
-    <url>/2021/06/19/Share/netdisk/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>歌曲推荐《岁月神偷》</strong></p>
-<p>“<em>唐朝的离婚书是这样写的：愿娘子相离之后， 重梳婵鬓美扫峨眉 ，巧呈窈窕之姿 ，选聘高官之主 ，解怨释结更莫相憎 ，一别两宽各生欢喜</em>“——网易云音乐热评.</p>
-</blockquote>
-<hr>
-<hr>
-<blockquote>
-<p>推荐几款网盘工具网站，大家平时有需要的话尽量用这些网盘工具网站，这些网盘网站相比百度网盘优点不要说太多了，没有众多限制，最重要的是可以直接在线上传下载，不用打开客户端软件。<em>链接已在文末给出</em>。</p>
-</blockquote>
-<span id="more"></span>
-<h1 id="1-奶牛快传"><a href="#1-奶牛快传" class="headerlink" title="1.奶牛快传"></a><a href="https://cowtransfer.com/" title="1.奶牛快传">1.奶牛快传</a></h1><blockquote>
-<p>非常有颜值的在线网盘网站，不用登录即可上传下载，但是有广告，but,它的广告却又不那么惹人厌，相反非常的文艺，精美，高端大气上档次！我已经在上面看了好几个广告！接下来不多说，评价时候到了。</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：2GB。</p>
-<p>3.文件存储空间大小：5GB。</p>
-<p>4.分享链接有效期：7天。</p>
-<p>5.支持平台：android,ios,小程序，网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/aeaa2708-9aaf-49d2-8ab6-e512e959d177.png"></p>
-<h1 id="2-蓝奏云"><a href="#2-蓝奏云" class="headerlink" title="2.蓝奏云"></a>2.<a href="https://www.lanzou.com/" title="蓝奏云">蓝奏云</a></h1><blockquote>
-<p>这是我常用的第三方网盘工具，只是需要登录才能上传下载，但它的优势还是很明显的，相比上面奶牛快传，它更满足我的刚需功能。</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：100MB。</p>
-<p>3.文件存储空间大小：<em><strong>不限制！</strong></em></p>
-<p>4。分享链接有限期：<em><strong>不限制！</strong></em></p>
-<p>5.支持平台：仅支持Android和网站。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/e77ea3f8-c3ad-46a7-acb3-871d570b50aa.png"></p>
-<h1 id="3-文叔叔"><a href="#3-文叔叔" class="headerlink" title="3.文叔叔"></a>3.<a href="https://www.wenshushu.cn/" title="文叔叔">文叔叔</a></h1><blockquote>
-<p>也是不用登录即可使用的在线网盘工具，但它有个最大的特色，就是生成分享链接的同时可以发送到对方<strong>电子邮件或手机号</strong>，这就很炫酷了。除此以外，上传文件的时候可以批量上传文件或文件夹，完全<strong>不用打包压缩</strong>，别提多方便了！</p>
-<p>1.上传下载速度：<em><strong>不限速！</strong></em></p>
-<p>2.单次上传上限：5GB。</p>
-<p>3.文件存储空间大小：<em><strong>20GB。</strong></em></p>
-<p>4.分享链接有效期：起初两天，到期后可自动续期，最长只能保留7天。会员更长。</p>
-<p>5.支持平台：android,ios,小程序。</p>
-</blockquote>
-<p><img src="https://imgkr.cn-bj.ufileos.com/9f8d1cf6-5860-447d-8b58-88d6629d14b1.png"></p>
-<p><em>ps:</em> 以上对所有在线网盘的介绍适用于免费的情况，这些网盘工具都有付费会员等级，就不一一介绍了，对于网盘工具的选择，按个人需求选择就足够了，基本都没什么区别。</p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>网盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思维导图</title>
-    <url>/2021/06/19/Share/mindmapping/</url>
-    <content><![CDATA[<blockquote>
-<p>歌曲推荐：《不露声色》</p>
-<p>“中伤不是你的强项，黑夜看不见你的坚强，流放变成我的苍凉，鼓声牵引着谁的心脏。”——网页云音乐热评</p>
-</blockquote>
-<h1 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h1><p>思维导图应该是大家都熟知的东西，但我想真正能经常使用的，应该没几个吧，其实它的好处真的还挺多，大家可能嫌它做起来麻烦而放弃使用，但相信我只要熟练使用后你会发现它有多方便强大。</p>
-<h3 id="1-优点："><a href="#1-优点：" class="headerlink" title="1.优点："></a>1.优点：</h3><blockquote>
-<ul>
-<li><p>可视性：以图形的形式呈现，更直观形象，易于记忆。</p>
-</li>
-<li><p>系统性:以主题为中心，向周围扩展更多分支主题，每个分支主题也可继续扩展子主题，<strong>便于管理知识并能形成系统性知识框架</strong>。</p>
-</li>
-<li><p>自由性:形式自由，编辑时没有太多限制和要求。</p>
-</li>
-<li><p>简便性：便于复习，增加删除也相对灵活点。</p>
-</li>
-</ul>
-</blockquote>
-<p>它的原理是：用图表的形式表现大脑的发散性思维，主观上是大脑发散性思维的外部视觉体现。</p>
-<span id="more"></span>
-<h3 id="2-它有很多用途比如："><a href="#2-它有很多用途比如：" class="headerlink" title="2.它有很多用途比如："></a>2.它有很多用途比如：</h3><ul>
-<li>课程知识点总结。</li>
-<li>记录抄写</li>
-<li>决策策划</li>
-<li>…</li>
-</ul>
-<p>下面是一个思维导图例子：<br><img src="https://imgkr.cn-bj.ufileos.com/2a6a005c-60bd-446d-9eb2-1eae39b57255.png"></p>
-<h1 id="2-xmind"><a href="#2-xmind" class="headerlink" title="2.xmind"></a>2.xmind</h1><p>对于思维导图软件的选择，个人推荐<strong>xmind</strong>,很亲民强大，这里说的强大，在我看来就是导入导出功能，这方面是我的刚需。它支持的导入导出格式如下：<br><img src="https://imgkr.cn-bj.ufileos.com/83f21bf8-39f5-42c6-920c-80f83e13d7f8.png" alt="导出"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/a800f8fa-65b6-452b-909e-850a2336854a.png" alt="导入"><br>另外它也有很多种主题风格可换，下图只是它众多主题风格中的少数几个：</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/1440576d-803c-40d3-9a19-7190bd728d7f.png"><br>当然，它并不是免费的，有些功能是需要开通会员服务才可以免费使用，尽管开源的思维导图软件也不少，但是有些并不能满足我的刚需，而且功能也不是很完全，所以我更愿意使用xmind,但这并不意味着我就要花钱买它的会员服务。如果大家有需要，我在下面给出window版<a href="https://bihua.lanzous.com/b00tmlbed" title="全功能版xmind">全功能版xmind</a>，密码<strong>czj6</strong>，<a href="https://bihua.lanzous.com/iO9Dqdq3hla" title="Android版xmind">Android版xmind</a>破除会员功能限制，如有需要可下载并按照使用说明安装即可。</p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>sources</tag>
       </tags>
   </entry>
 </search>

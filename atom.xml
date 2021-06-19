@@ -6,7 +6,7 @@
   <link href="https://www.lbihua.cn/atom.xml" rel="self"/>
   
   <link href="https://www.lbihua.cn/"/>
-  <updated>2021-05-23T03:43:33.000Z</updated>
+  <updated>2021-06-11T01:32:23.000Z</updated>
   <id>https://www.lbihua.cn/</id>
   
   <author>
@@ -17,48 +17,10 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《习惯的力量》</title>
-    <link href="https://www.lbihua.cn/2021/06/19/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
-    <id>https://www.lbihua.cn/2021/06/19/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-05-23T03:43:33.000Z</updated>
-    
-    
-    <summary type="html">习惯是如何形成的？</summary>
-    
-    
-    
-    <category term="书籍" scheme="https://www.lbihua.cn/categories/%E4%B9%A6%E7%B1%8D/"/>
-    
-    
-    <category term="书籍" scheme="https://www.lbihua.cn/tags/%E4%B9%A6%E7%B1%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android软件1</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/Android1/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/Android1/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">实用高效才是王道~</summary>
-    
-    
-    
-    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android" scheme="https://www.lbihua.cn/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
     <title>DeepL</title>
     <link href="https://www.lbihua.cn/2021/06/19/Share/DeepL/"/>
     <id>https://www.lbihua.cn/2021/06/19/Share/DeepL/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
+    <published>2021-06-19T14:10:55.291Z</published>
     <updated>2021-06-11T01:32:23.000Z</updated>
     
     
@@ -74,30 +36,81 @@
   </entry>
   
   <entry>
-    <title>搜索引擎</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/SearchEngine/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/SearchEngine/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <title>语义化版本2.0.0介绍</title>
+    <link href="https://www.lbihua.cn/2021/06/19/studynotes/semver2.0.0/"/>
+    <id>https://www.lbihua.cn/2021/06/19/studynotes/semver2.0.0/</id>
+    <published>2021-06-19T04:43:23.000Z</published>
+    <updated>2021-06-19T05:43:23.000Z</updated>
     
     
-    <summary type="html">几个实用的搜索引擎~</summary>
+    <summary type="html">&lt;h1 id=&quot;语义化版本2-0-0介绍&quot;&gt;&lt;a href=&quot;#语义化版本2-0-0介绍&quot; class=&quot;headerlink&quot; title=&quot;语义化版本2.0.0介绍&quot;&gt;&lt;/a&gt;语义化版本2.0.0介绍&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;语义化版本是为了解决软件开发过程中依赖关系混乱或者依赖锁死的情况。&lt;/p&gt;
+&lt;p&gt;它的标准格式如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;x.y.z&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其中x表示主版本号，y表示次版本号，z表示修订号。&lt;/p&gt;
+&lt;p&gt;对这几种版本号的解释如下：&lt;/p&gt;
+&lt;p&gt;X 主版本号，表示做了&lt;strong&gt;不向下兼容的修改&lt;/strong&gt;时递增。&lt;/p&gt;
+&lt;p&gt;Y 次版本号，表示做了&lt;strong&gt;向下兼容的新增及修改&lt;/strong&gt;时递增。&lt;/p&gt;
+&lt;p&gt;Z 修订号，表示做了&lt;strong&gt;向下兼容的问题修复&lt;/strong&gt;时递增。&lt;/p&gt;</summary>
     
     
     
-    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="扩展阅读" scheme="https://www.lbihua.cn/categories/%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB/"/>
     
     
-    <category term="Search" scheme="https://www.lbihua.cn/tags/Search/"/>
+    <category term="版本号" scheme="https://www.lbihua.cn/tags/%E7%89%88%E6%9C%AC%E5%8F%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如果问题无法解决，那就换个问法继续解决</title>
+    <link href="https://www.lbihua.cn/2021/06/02/Thinking/NIC_dirver/"/>
+    <id>https://www.lbihua.cn/2021/06/02/Thinking/NIC_dirver/</id>
+    <published>2021-06-02T04:32:33.000Z</published>
+    <updated>2021-06-15T08:33:43.000Z</updated>
+    
+    
+    <summary type="html">记一次修复网卡驱动过程中的思考</summary>
+    
+    
+    
+    <category term="思考" scheme="https://www.lbihua.cn/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="网卡驱动" scheme="https://www.lbihua.cn/tags/%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8/"/>
+    
+    <category term="注册表" scheme="https://www.lbihua.cn/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于大学生活的一点思考总结</title>
+    <link href="https://www.lbihua.cn/2021/05/13/Thinking/About_college/"/>
+    <id>https://www.lbihua.cn/2021/05/13/Thinking/About_college/</id>
+    <published>2021-05-13T04:32:33.000Z</published>
+    <updated>2021-06-14T04:33:32.000Z</updated>
+    
+    
+    <summary type="html">长文预警，请慢些阅读！</summary>
+    
+    
+    
+    <category term="思考" scheme="https://www.lbihua.cn/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="大学" scheme="https://www.lbihua.cn/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+    <category term="思考" scheme="https://www.lbihua.cn/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
   <entry>
     <title>搜索技巧</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/SearchSkills/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/SearchSkills/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-04T04:32:32.000Z</updated>
+    <link href="https://www.lbihua.cn/2021/05/13/Share/SearchSkills/"/>
+    <id>https://www.lbihua.cn/2021/05/13/Share/SearchSkills/</id>
+    <published>2021-05-13T01:43:44.000Z</published>
+    <updated>2021-05-13T01:43:44.000Z</updated>
     
     
     <summary type="html">培养搜索的能力~</summary>
@@ -112,49 +125,229 @@
   </entry>
   
   <entry>
-    <title>Typora</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/Typora%20editor/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/Typora%20editor/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <title>确定自己努力的方向</title>
+    <link href="https://www.lbihua.cn/2021/04/13/Thinking/learning-direction/"/>
+    <id>https://www.lbihua.cn/2021/04/13/Thinking/learning-direction/</id>
+    <published>2021-04-13T04:32:33.000Z</published>
+    <updated>2021-04-11T06:34:12.000Z</updated>
     
     
-    <summary type="html">目前为止我觉得是最好用的的markdown编辑器</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前几天跟一位老朋友聊了下专业上的事，以及以后的就业选择。&lt;br&gt;她已经打算报考教资，但是以后并不打算当老师，报考教资也无非在毕业时多点人生选择。&lt;br&gt;她更愿意去互联网企业体验，所以想努力一把，然而苦于没有明确的学习方向。&lt;br&gt;由于时间限制，我们当时并没有聊太多。&lt;br&gt;但是我觉得我可以趁空写一篇博文，一来总结自己的思考经验，二来也希望对她有一定的借鉴帮助吧。&lt;br&gt;当然此文除了为那位朋友写，也是为昨晚痛哭流涕开始努力的室友写！😜&lt;br&gt;注意内容仅为个人建议，而且内容适用于计算机专业学生，实际还是以大家自身真实情况为准。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
-    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="思考" scheme="https://www.lbihua.cn/categories/%E6%80%9D%E8%80%83/"/>
     
     
-    <category term="工具" scheme="https://www.lbihua.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="大学" scheme="https://www.lbihua.cn/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+    <category term="学习方向" scheme="https://www.lbihua.cn/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%90%91/"/>
     
   </entry>
   
   <entry>
-    <title>实用网站2</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/website2/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/website2/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <title>《习惯的力量》</title>
+    <link href="https://www.lbihua.cn/2020/11/23/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
+    <id>https://www.lbihua.cn/2020/11/23/ReadingNotes/%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F/</id>
+    <published>2020-11-23T05:43:34.000Z</published>
+    <updated>2021-05-23T03:43:33.000Z</updated>
     
     
-    <summary type="html">十个小网站你肯定会用到其中几个~</summary>
+    <summary type="html">习惯是如何形成的？</summary>
+    
+    
+    
+    <category term="书籍" scheme="https://www.lbihua.cn/categories/%E4%B9%A6%E7%B1%8D/"/>
+    
+    
+    <category term="书籍" scheme="https://www.lbihua.cn/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm常用命令</title>
+    <link href="https://www.lbihua.cn/2020/08/04/studynotes/npm-command/"/>
+    <id>https://www.lbihua.cn/2020/08/04/studynotes/npm-command/</id>
+    <published>2020-08-04T04:43:23.000Z</published>
+    <updated>2020-08-04T04:43:23.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;npm常见命令&quot;&gt;&lt;a href=&quot;#npm常见命令&quot; class=&quot;headerlink&quot; title=&quot;npm常见命令&quot;&gt;&lt;/a&gt;npm常见命令&lt;/h1&gt;&lt;h2 id=&quot;一-npm-amp-yarn介绍&quot;&gt;&lt;a href=&quot;#一-npm-amp-yarn介绍&quot; class=&quot;headerlink&quot; title=&quot;一.npm&amp;amp;yarn介绍&quot;&gt;&lt;/a&gt;一.npm&amp;amp;yarn介绍&lt;/h2&gt;&lt;p&gt;npm是一个基于Node.js的包管理工具。&lt;br&gt;yarn是Facebook、Google、Exponent 和 Tilde 联合推出了一个新的 包管理工具,与npm相比有些优势。&lt;br&gt;npm在安装Node.js时会被一并安装，yarn则需要额外安装。&lt;/p&gt;
+&lt;h2 id=&quot;二-npm-amp-cnpm的关系&quot;&gt;&lt;a href=&quot;#二-npm-amp-cnpm的关系&quot; class=&quot;headerlink&quot; title=&quot;二.npm&amp;amp;cnpm的关系&quot;&gt;&lt;/a&gt;二.npm&amp;amp;cnpm的关系&lt;/h2&gt;&lt;h3 id=&quot;1-介绍&quot;&gt;&lt;a href=&quot;#1-介绍&quot; class=&quot;headerlink&quot; title=&quot;1.介绍&quot;&gt;&lt;/a&gt;1.介绍&lt;/h3&gt;&lt;p&gt;由于npm服务器在国外，所以在国内安装速度不是很理想，于是淘宝团队开发了一个npmjs.org的镜像，可以有效解决下载过于缓慢的问题。这是淘宝团队对它的介绍。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“这是一个完整 npmjs.org 镜像，你可以用此代替官方版本(只读)，同步频率目前为 10分钟 一次以保证尽量与官方服务同步。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="npm" scheme="https://www.lbihua.cn/tags/npm/"/>
+    
+    <category term="yarn" scheme="https://www.lbihua.cn/tags/yarn/"/>
+    
+    <category term="cnpm" scheme="https://www.lbihua.cn/tags/cnpm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android软件1</title>
+    <link href="https://www.lbihua.cn/2020/06/23/Share/Android1/"/>
+    <id>https://www.lbihua.cn/2020/06/23/Share/Android1/</id>
+    <published>2020-06-23T05:43:43.000Z</published>
+    <updated>2020-06-23T05:43:43.000Z</updated>
+    
+    
+    <summary type="html">实用高效才是王道~</summary>
     
     
     
     <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="source" scheme="https://www.lbihua.cn/tags/source/"/>
+    <category term="Android" scheme="https://www.lbihua.cn/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java反射</title>
+    <link href="https://www.lbihua.cn/2020/06/15/studynotes/java-reflection/"/>
+    <id>https://www.lbihua.cn/2020/06/15/studynotes/java-reflection/</id>
+    <published>2020-06-15T04:43:23.000Z</published>
+    <updated>2020-06-15T04:43:23.000Z</updated>
+    
+    
+    <summary type="html">Java进阶学习之反射</summary>
+    
+    
+    
+    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
+    
+    <category term="Java反射" scheme="https://www.lbihua.cn/tags/Java%E5%8F%8D%E5%B0%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learning how to learn part1</title>
+    <link href="https://www.lbihua.cn/2020/06/15/Coursere/Learning%20how%20to%20learn%20prat%201/"/>
+    <id>https://www.lbihua.cn/2020/06/15/Coursere/Learning%20how%20to%20learn%20prat%201/</id>
+    <published>2020-06-15T04:32:33.000Z</published>
+    <updated>2020-06-15T04:32:33.000Z</updated>
+    
+    
+    <summary type="html">Coursera课程-Learning how to learn 章节1 总结~</summary>
+    
+    
+    
+    <category term="Coursera课程" scheme="https://www.lbihua.cn/categories/Coursera%E8%AF%BE%E7%A8%8B/"/>
+    
+    
+    <category term="Coursera" scheme="https://www.lbihua.cn/tags/Coursera/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象基础</title>
+    <link href="https://www.lbihua.cn/2020/06/14/studynotes/java-object-oriented/"/>
+    <id>https://www.lbihua.cn/2020/06/14/studynotes/java-object-oriented/</id>
+    <published>2020-06-14T04:43:23.000Z</published>
+    <updated>2020-06-14T04:43:23.000Z</updated>
+    
+    
+    <summary type="html">Java进阶学习之面向对象篇</summary>
+    
+    
+    
+    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
+    
+    <category term="面向对象" scheme="https://www.lbihua.cn/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learning how to learn part4</title>
+    <link href="https://www.lbihua.cn/2020/06/14/Coursere/Learning%20how%20to%20learn%20part%204/"/>
+    <id>https://www.lbihua.cn/2020/06/14/Coursere/Learning%20how%20to%20learn%20part%204/</id>
+    <published>2020-06-14T04:32:33.000Z</published>
+    <updated>2020-06-14T04:32:33.000Z</updated>
+    
+    
+    <summary type="html">Coursera课程-Learning how to learn 章节4 总结~</summary>
+    
+    
+    
+    <category term="Coursera课程" scheme="https://www.lbihua.cn/categories/Coursera%E8%AF%BE%E7%A8%8B/"/>
+    
+    
+    <category term="Coursera" scheme="https://www.lbihua.cn/tags/Coursera/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learning how to learn part3</title>
+    <link href="https://www.lbihua.cn/2020/06/13/Coursere/Learning%20how%20to%20learn%20part%203/"/>
+    <id>https://www.lbihua.cn/2020/06/13/Coursere/Learning%20how%20to%20learn%20part%203/</id>
+    <published>2020-06-13T12:46:25.000Z</published>
+    <updated>2020-06-13T12:46:25.000Z</updated>
+    
+    
+    <summary type="html">Coursera课程-Learning how to learn 章节3 总结~</summary>
+    
+    
+    
+    <category term="Coursera课程" scheme="https://www.lbihua.cn/categories/Coursera%E8%AF%BE%E7%A8%8B/"/>
+    
+    
+    <category term="Coursera" scheme="https://www.lbihua.cn/tags/Coursera/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java入门</title>
+    <link href="https://www.lbihua.cn/2020/06/13/studynotes/java-introduction/"/>
+    <id>https://www.lbihua.cn/2020/06/13/studynotes/java-introduction/</id>
+    <published>2020-06-13T04:43:23.000Z</published>
+    <updated>2020-06-13T04:43:23.000Z</updated>
+    
+    
+    <summary type="html">Java进阶学习之入门篇~</summary>
+    
+    
+    
+    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
+    
+    <category term="JDK" scheme="https://www.lbihua.cn/tags/JDK/"/>
+    
+    <category term="Java基础" scheme="https://www.lbihua.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>关于知识学习和公众号的思考</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Thinking/how-to-study/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Thinking/how-to-study/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <link href="https://www.lbihua.cn/2020/06/12/Thinking/how-to-study/"/>
+    <id>https://www.lbihua.cn/2020/06/12/Thinking/how-to-study/</id>
+    <published>2020-06-12T07:43:34.000Z</published>
+    <updated>2020-06-12T07:43:34.000Z</updated>
     
     
     <summary type="html">如何更有效率学习</summary>
@@ -169,84 +362,11 @@
   </entry>
   
   <entry>
-    <title>GitHub实用开源项目收藏</title>
-    <link href="https://www.lbihua.cn/2021/06/19/projects/githubrep/"/>
-    <id>https://www.lbihua.cn/2021/06/19/projects/githubrep/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;本页面整理收藏GitHub的开源仓库&lt;/li&gt;
-&lt;li&gt;除了方便自身使用外也方便大家找到感兴趣的开源项目&lt;/li&gt;
-&lt;li&gt;大家有什么值得推荐的开源项目随时欢迎在下方评论栏给出仓库链接&lt;/li&gt;
-&lt;li&gt;为了大家更详细了解每个项目的用途，我都会截图或者复制项目README.md的项目说明部分。注:有些英文说明会先经谷歌翻译后再截图或者复制。&lt;/li&gt;
-&lt;li&gt;收录标准不考虑star数量，但一定要遵纪守法&lt;/li&gt;
-&lt;li&gt;当然有趣&amp;amp;有一定学习意义&amp;amp;有中文文档&amp;amp;实用的开源项目优先&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Github Repository" scheme="https://www.lbihua.cn/categories/Github-Repository/"/>
-    
-    
-    <category term="GitHub" scheme="https://www.lbihua.cn/tags/GitHub/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git入门学习</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/Git/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/Git/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">个人Git入门学习笔记</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Git" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/"/>
-    
-    <category term="Git入门学习" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/Git%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Git" scheme="https://www.lbihua.cn/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HTML</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/HTML/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/HTML/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;HTML&quot;&gt;&lt;a href=&quot;#HTML&quot; class=&quot;headerlink&quot; title=&quot;HTML&quot;&gt;&lt;/a&gt;HTML&lt;/h1&gt;&lt;p&gt;1.一种描述网页的文本标记语言.&lt;br&gt;2.通过HTML标签来表述网页.&lt;/p&gt;
-&lt;h2 id=&quot;一-HTML元素&quot;&gt;&lt;a href=&quot;#一-HTML元素&quot; class=&quot;headerlink&quot; title=&quot;一.HTML元素&quot;&gt;&lt;/a&gt;一.HTML元素&lt;/h2&gt;&lt;p&gt;1.HTML元素是开始标签到束标签之间的文本内容.&lt;br&gt;2.空元素在开始标签中结束。（在开始标签后尖括号加斜杠/).&lt;/p&gt;
-&lt;h2 id=&quot;二-HTML文档&quot;&gt;&lt;a href=&quot;#二-HTML文档&quot; class=&quot;headerlink&quot; title=&quot;二.HTML文档&quot;&gt;&lt;/a&gt;二.HTML文档&lt;/h2&gt;&lt;p&gt;1.HTML文档=网页=HTML标签+纯文本.&lt;br&gt;2.以. htm 或 .html 为后缀名.&lt;br&gt;3.&lt;DOCTYPE&gt;声明HTML版本.&lt;/p&gt;
-&lt;h2 id=&quot;三-基本HTML标签以及对应的属性&quot;&gt;&lt;a href=&quot;#三-基本HTML标签以及对应的属性&quot; class=&quot;headerlink&quot; title=&quot;三.基本HTML标签以及对应的属性&quot;&gt;&lt;/a&gt;三.基本HTML标签以及对应的属性&lt;/h2&gt;&lt;p&gt;1.用来描述网页.&lt;br&gt;2.以尖括号成对出现.&lt;br&gt;3.属性值由双引号括起来，如果属性值本身有双引号，就用单引号.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="HTML" scheme="https://www.lbihua.cn/tags/HTML/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo版本升级指南</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/Hexo-upgrade/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/Hexo-upgrade/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <link href="https://www.lbihua.cn/2020/06/12/studynotes/Hexo-upgrade/"/>
+    <id>https://www.lbihua.cn/2020/06/12/studynotes/Hexo-upgrade/</id>
+    <published>2020-06-12T04:43:23.000Z</published>
+    <updated>2020-06-12T04:43:23.000Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;Hexo版本升级指南&quot;&gt;&lt;a href=&quot;#Hexo版本升级指南&quot; class=&quot;headerlink&quot; title=&quot;Hexo版本升级指南&quot;&gt;&lt;/a&gt;Hexo版本升级指南&lt;/h1&gt;&lt;h3 id=&quot;1-更新升级hexo&quot;&gt;&lt;a href=&quot;#1-更新升级hexo&quot; class=&quot;headerlink&quot; title=&quot;1.更新升级hexo&quot;&gt;&lt;/a&gt;1.更新升级hexo&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-cli -g&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -274,122 +394,11 @@
   </entry>
   
   <entry>
-    <title>Markdown</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/Markdown%E8%AF%AD%E6%B3%95/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/Markdown%E8%AF%AD%E6%B3%95/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">Markdown语法介绍</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="Markdown" scheme="https://www.lbihua.cn/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git基础</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/basic/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/basic/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">Git进阶学习之基础篇</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Git" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/"/>
-    
-    <category term="Git进阶" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/Git%E8%BF%9B%E9%98%B6/"/>
-    
-    
-    <category term="Git" scheme="https://www.lbihua.cn/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git分支</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/branch/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/branch/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">Git进阶学习之分支篇</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Git" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/"/>
-    
-    <category term="Git进阶" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/Git%E8%BF%9B%E9%98%B6/"/>
-    
-    
-    <category term="Git" scheme="https://www.lbihua.cn/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java注解</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/java-annotation/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/java-annotation/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">Java进阶学习之注解</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
-    
-    
-    <category term="Java注解" scheme="https://www.lbihua.cn/tags/Java%E6%B3%A8%E8%A7%A3/"/>
-    
-    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java核心类</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/java-core-classes/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/java-core-classes/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
-    
-    
-    <summary type="html">Java进阶学习之核心类</summary>
-    
-    
-    
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
-    
-    
-    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
-    
-    <category term="核心类" scheme="https://www.lbihua.cn/tags/%E6%A0%B8%E5%BF%83%E7%B1%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Java异常</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/java-exception/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/java-exception/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <link href="https://www.lbihua.cn/2020/06/12/studynotes/java-exception/"/>
+    <id>https://www.lbihua.cn/2020/06/12/studynotes/java-exception/</id>
+    <published>2020-06-12T04:43:23.000Z</published>
+    <updated>2020-06-12T04:43:23.000Z</updated>
     
     
     <summary type="html">Java进阶学习之异常</summary>
@@ -408,39 +417,33 @@
   </entry>
   
   <entry>
-    <title>Java入门</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/java-introduction/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/java-introduction/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <title>Learning how to learn part2</title>
+    <link href="https://www.lbihua.cn/2020/06/12/Coursere/Learning%20how%20to%20learn%20part%202/"/>
+    <id>https://www.lbihua.cn/2020/06/12/Coursere/Learning%20how%20to%20learn%20part%202/</id>
+    <published>2020-06-12T04:32:33.000Z</published>
+    <updated>2020-06-12T04:32:33.000Z</updated>
     
     
-    <summary type="html">Java进阶学习之入门篇~</summary>
+    <summary type="html">Coursera课程-Learning how to learn 章节2 总结~</summary>
     
     
     
-    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Java" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Java/"/>
+    <category term="Coursera课程" scheme="https://www.lbihua.cn/categories/Coursera%E8%AF%BE%E7%A8%8B/"/>
     
     
-    <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
-    
-    <category term="JDK" scheme="https://www.lbihua.cn/tags/JDK/"/>
-    
-    <category term="Java基础" scheme="https://www.lbihua.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Coursera" scheme="https://www.lbihua.cn/tags/Coursera/"/>
     
   </entry>
   
   <entry>
-    <title>Java面向对象基础</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/java-object-oriented/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/java-object-oriented/</id>
-    <published>2021-06-19T13:34:36.161Z</published>
-    <updated>2021-06-19T13:34:36.161Z</updated>
+    <title>Java核心类</title>
+    <link href="https://www.lbihua.cn/2020/06/11/studynotes/java-core-classes/"/>
+    <id>https://www.lbihua.cn/2020/06/11/studynotes/java-core-classes/</id>
+    <published>2020-06-11T04:43:23.000Z</published>
+    <updated>2020-06-11T04:43:23.000Z</updated>
     
     
-    <summary type="html">Java进阶学习之面向对象篇</summary>
+    <summary type="html">Java进阶学习之核心类</summary>
     
     
     
@@ -451,7 +454,7 @@
     
     <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
     
-    <category term="面向对象" scheme="https://www.lbihua.cn/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    <category term="核心类" scheme="https://www.lbihua.cn/tags/%E6%A0%B8%E5%BF%83%E7%B1%BB/"/>
     
   </entry>
   
