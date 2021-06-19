@@ -46,10 +46,10 @@
   
   <entry>
     <title>DeepL</title>
-    <link href="https://www.lbihua.cn/2021/06/11/Share/DeepL/"/>
-    <id>https://www.lbihua.cn/2021/06/11/Share/DeepL/</id>
-    <published>2021-06-11T01:33:43.000Z</published>
-    <updated>2021-06-11T01:33:43.000Z</updated>
+    <link href="https://www.lbihua.cn/2021/06/19/Share/DeepL/"/>
+    <id>https://www.lbihua.cn/2021/06/19/Share/DeepL/</id>
+    <published>2021-06-19T01:33:43.000Z</published>
+    <updated>2021-06-19T01:33:43.000Z</updated>
     
     
     <summary type="html">DeepL才是最强大的翻译器！</summary>
@@ -126,9 +126,9 @@
   
   <entry>
     <title>确定自己努力的方向</title>
-    <link href="https://www.lbihua.cn/2021/04/13/Thinking/learning-direction/"/>
-    <id>https://www.lbihua.cn/2021/04/13/Thinking/learning-direction/</id>
-    <published>2021-04-13T04:32:33.000Z</published>
+    <link href="https://www.lbihua.cn/2021/04/10/Thinking/learning-direction/"/>
+    <id>https://www.lbihua.cn/2021/04/10/Thinking/learning-direction/</id>
+    <published>2021-04-10T04:32:33.000Z</published>
     <updated>2021-04-11T06:34:12.000Z</updated>
     
     
@@ -173,25 +173,6 @@
     <category term="yarn" scheme="https://www.lbihua.cn/tags/yarn/"/>
     
     <category term="cnpm" scheme="https://www.lbihua.cn/tags/cnpm/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android软件1</title>
-    <link href="https://www.lbihua.cn/2020/06/23/Share/Android1/"/>
-    <id>https://www.lbihua.cn/2020/06/23/Share/Android1/</id>
-    <published>2020-06-23T05:43:43.000Z</published>
-    <updated>2020-06-23T05:43:43.000Z</updated>
-    
-    
-    <summary type="html">实用高效才是王道~</summary>
-    
-    
-    
-    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android" scheme="https://www.lbihua.cn/tags/Android/"/>
     
   </entry>
   
@@ -459,6 +440,29 @@
     <category term="Java注解" scheme="https://www.lbihua.cn/tags/Java%E6%B3%A8%E8%A7%A3/"/>
     
     <category term="Java" scheme="https://www.lbihua.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git分支</title>
+    <link href="https://www.lbihua.cn/2020/06/06/studynotes/branch/"/>
+    <id>https://www.lbihua.cn/2020/06/06/studynotes/branch/</id>
+    <published>2020-06-06T04:43:23.000Z</published>
+    <updated>2020-06-06T04:43:23.000Z</updated>
+    
+    
+    <summary type="html">Git进阶学习之分支篇</summary>
+    
+    
+    
+    <category term="技术笔记" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Git" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/"/>
+    
+    <category term="Git进阶" scheme="https://www.lbihua.cn/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/Git/Git%E8%BF%9B%E9%98%B6/"/>
+    
+    
+    <category term="Git" scheme="https://www.lbihua.cn/tags/Git/"/>
     
   </entry>
   
