@@ -6,7 +6,7 @@
   <link href="https://www.lbihua.cn/atom.xml" rel="self"/>
   
   <link href="https://www.lbihua.cn/"/>
-  <updated>2021-06-19T04:43:23.000Z</updated>
+  <updated>2021-06-19T01:33:43.000Z</updated>
   <id>https://www.lbihua.cn/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>DeepL</title>
+    <link href="https://www.lbihua.cn/2021/06/19/Share/DeepL/"/>
+    <id>https://www.lbihua.cn/2021/06/19/Share/DeepL/</id>
+    <published>2021-06-19T01:33:43.000Z</published>
+    <updated>2021-06-19T01:33:43.000Z</updated>
+    
+    
+    <summary type="html">DeepL才是最强大的翻译器！</summary>
+    
+    
+    
+    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="工具" scheme="https://www.lbihua.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>语义化版本2.0.0介绍</title>
-    <link href="https://www.lbihua.cn/2021/06/19/studynotes/semver2.0.0/"/>
-    <id>https://www.lbihua.cn/2021/06/19/studynotes/semver2.0.0/</id>
-    <published>2021-06-19T04:43:23.000Z</published>
-    <updated>2021-06-19T04:43:23.000Z</updated>
+    <link href="https://www.lbihua.cn/2021/06/15/studynotes/semver2.0.0/"/>
+    <id>https://www.lbihua.cn/2021/06/15/studynotes/semver2.0.0/</id>
+    <published>2021-06-15T04:43:23.000Z</published>
+    <updated>2021-06-15T04:43:23.000Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;语义化版本2-0-0介绍&quot;&gt;&lt;a href=&quot;#语义化版本2-0-0介绍&quot; class=&quot;headerlink&quot; title=&quot;语义化版本2.0.0介绍&quot;&gt;&lt;/a&gt;语义化版本2.0.0介绍&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;语义化版本是为了解决软件开发过程中依赖关系混乱或者依赖锁死的情况。&lt;/p&gt;
@@ -41,25 +60,6 @@
     
     
     <category term="版本号" scheme="https://www.lbihua.cn/tags/%E7%89%88%E6%9C%AC%E5%8F%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DeepL</title>
-    <link href="https://www.lbihua.cn/2021/06/19/Share/DeepL/"/>
-    <id>https://www.lbihua.cn/2021/06/19/Share/DeepL/</id>
-    <published>2021-06-19T01:33:43.000Z</published>
-    <updated>2021-06-19T01:33:43.000Z</updated>
-    
-    
-    <summary type="html">DeepL才是最强大的翻译器！</summary>
-    
-    
-    
-    <category term="分享" scheme="https://www.lbihua.cn/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="工具" scheme="https://www.lbihua.cn/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
