@@ -487,34 +487,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Typora</title>
-    <url>/2020/06/04/Share/Typora%20editor/</url>
-    <content><![CDATA[<h1 id="Typora-1"><a href="#Typora-1" class="headerlink" title="Typora[1]"></a><strong>Typora</strong>[1]</h1><h2 id="1-Markdown-amp-富文本"><a href="#1-Markdown-amp-富文本" class="headerlink" title="1.Markdown&amp;富文本"></a><strong>1.Markdown&amp;富文本</strong></h2><p>大家平常用的最多的编辑器类型应该是富文本吧，<em>word</em>算是富文本编辑器的一种，下图是它的操作界面类型。 <img src="https://imgkr.cn-bj.ufileos.com/932811f9-bb28-406d-bb7c-5b90a4f1b99b.png" alt="img"></p>
-<p>那Markdown编辑器跟它有什么区别，也可见下图。 <img src="https://imgkr.cn-bj.ufileos.com/21b9a3f6-a608-49ff-ba9e-eb67a1112457.png" alt="img"></p>
-<p>可以看到两者操作界面非常不同，Markdown多了两种操作界面，左边是编辑区，是可以用<strong>markdown标记语法</strong>编写内容的区域，而右边是预览区域，是左边编辑区用Markdown标记语法编写后的内容展示区，也是最终展示给用户的文本样式。那什么是markdown标记语法？大家可以先观察一下上图左边编辑区的文本内容，是不是不明白 <em>#</em> 号的作用？其实它是一级标题的意思，是将它后面的文本内容设为一级标题，如果有两个##号呢？那就是二级标题的意思。具体我也不用多说，如果你们感兴趣的话我在这里推荐实用Markdown教程<strong>草鸟教程Markdown</strong>[3]，我起初就是在这里入门的，而且教程内容不多也简单易学，基本上<em>学习+实践</em>40分钟左右就基本全学完了。下面开始迎接我们的主角Typora。</p>
-<span id="more"></span>
-
-<h2 id="2-现代即时渲染Markdown编辑区"><a href="#2-现代即时渲染Markdown编辑区" class="headerlink" title="2.现代即时渲染Markdown编辑区"></a><strong>2.现代即时渲染Markdown编辑区</strong></h2><p>之所以说它现代，是因为它跟传统的Markdown编辑区有很大的不同，因为它的操作界面取消了预览区，现在预览区和编辑区已经二合一了，<strong>编辑区即预览区，预览区即编辑区。</strong> 详见下图。 <img src="https://imgkr.cn-bj.ufileos.com/2f68a0ad-3e86-44db-8898-116b6191bdd1.png" alt="img"></p>
-<p>上图为什么没有Markdown标记语法痕迹？因为它在你编写完一句话时就已经自动隐藏了，但单击某一行内容还是可以显示Markdown标记语法。可以得知你在用Typora编写内容时，你可以用markdown标记语法，也可以不用markdown标记语法，如果你已经使用了markdown标记语法编写，则它在操作界面是会自动隐藏标记语法的，这时候显示的正是即时渲染后的文本内容，即“预览区的内容”。这应该是目前其他Markdown编辑器没有的功能，这是它的一大先进特点。</p>
-<h2 id="3-主题风格"><a href="#3-主题风格" class="headerlink" title="3.主题风格"></a><strong>3.主题风格</strong></h2><p>Typora支持各种类型的主题风格替换，满足你的视觉体验，每种主题界面，除了背景颜色可能会有不同外，字体样式也会有所差异。最开心的是，它不只支持夜间主题风格，满足了夜间办公的需求，也支持绿色主题风格，满足了在光线不太昏暗的情况下写作要求，尽可能地保护眼睛让眼睛不受过度疲劳。下面是它的各种主题风格，滑动可查看更多。当然如果你想要更多主题，你可以在这个<strong>主题网站</strong>[4]下载更多。</p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/cf3d4aec-e255-48a5-bc6c-c21745016653.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/52b5fd10-bc9e-4cde-87ef-1880902cbea5.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/2a65cc94-aa41-4fcf-b231-6abeef4ac590.png" alt="img"></p>
-<p><img src="https://imgkr.cn-bj.ufileos.com/7c48475d-6d09-4137-b1d0-3cf60979a113.png" alt="img"></p>
-<p>&lt;&lt;&lt; 左右滑动见更多 &gt;&gt;&gt;</p>
-<h2 id="4-导入导出"><a href="#4-导入导出" class="headerlink" title="4.导入导出"></a><strong>4.导入导出</strong></h2><p>Typora支持多种格式导入与导出功能。导入可支持.docx,.tex, .ltx, .rst, .rest, .org, .wiki, .dokuwiki, .textile, .opml, .epub等格式文本，导出可支持.pdf,.word,.HTML,.OPML等文本格式，其中可导出为.doc文本格式说明以后编写doc文档，完全可不用<em>wps</em>或<em>word</em>等办公工具，一个轻量级又好用的Typora就完全够用了。但是导出word格式等需要安装事先pandoc软件，这个大家不用担心，我在这里给出了<strong>Pandoc安装包链接</strong>[5]，大家需要的可以在下面复制链接在网站打开即可立马下载，很快的哦！</p>
-<h2 id="5-图片插入和源代码模式"><a href="#5-图片插入和源代码模式" class="headerlink" title="5.图片插入和源代码模式"></a><strong>5.图片插入和源代码模式</strong></h2><p>Typora 的图片插入功能是非常人性化的。因为传统原生Markdown编辑器不太注重图片插入的功能，但在 Typora 中直接使用 <em>右键 - 复制</em>或<em>Ctrl + V</em>将网络图片、剪贴板图片复制到内容中，也可以拖动本地图片到文档中，Typora 还会自动帮你插入符合 Markdown 语法的图片语句，并给它加上标题。源代码模式可以在编辑界面查看文本的markdown文本语法格式。 <img src="https://imgkr.cn-bj.ufileos.com/a96ebaf0-9234-46d4-8715-e38bf982143e.png" alt="img"></p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>其实Typora还有其他非常实用的功能，因时间有限我就暂时介绍这么多了。Typora相对来说是一款非常轻量级的Markdown编辑器，它干净，颜值又高，没有太多华而不实的功能，体现了<strong>优秀的产品首先应该是简单</strong>的思想，最重要的是使用它真的写得很舒服！</p>
-<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><p>[1] Typora: <em><a href="https://typora.io/">https://typora.io/</a></em> [2] Typora安装包链接: <em><a href="https://bihua.lanzous.com/icg3xmb">https://bihua.lanzous.com/icg3xmb</a></em> [3] 草鸟教程Markdown: <em><a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></em> [4] 主题网站: <em><a href="http://theme.typora.io/">http://theme.typora.io/</a></em> [5] Pandoc安装包: <em><a href="https://bihua.lanzous.com/icd3ppi">https://bihua.lanzous.com/icd3ppi</a></em></p>
-]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>搜索技巧</title>
     <url>/2021/05/13/Share/SearchSkills/</url>
     <content><![CDATA[<p><strong>歌曲推荐《白兰鸽巡游记》</strong></p>
@@ -550,6 +522,34 @@
       </categories>
       <tags>
         <tag>sources</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Typora</title>
+    <url>/2020/06/04/Share/Typora%20editor/</url>
+    <content><![CDATA[<h1 id="Typora-1"><a href="#Typora-1" class="headerlink" title="Typora[1]"></a><strong>Typora</strong>[1]</h1><h2 id="1-Markdown-amp-富文本"><a href="#1-Markdown-amp-富文本" class="headerlink" title="1.Markdown&amp;富文本"></a><strong>1.Markdown&amp;富文本</strong></h2><p>大家平常用的最多的编辑器类型应该是富文本吧，<em>word</em>算是富文本编辑器的一种，下图是它的操作界面类型。 <img src="https://imgkr.cn-bj.ufileos.com/932811f9-bb28-406d-bb7c-5b90a4f1b99b.png" alt="img"></p>
+<p>那Markdown编辑器跟它有什么区别，也可见下图。 <img src="https://imgkr.cn-bj.ufileos.com/21b9a3f6-a608-49ff-ba9e-eb67a1112457.png" alt="img"></p>
+<p>可以看到两者操作界面非常不同，Markdown多了两种操作界面，左边是编辑区，是可以用<strong>markdown标记语法</strong>编写内容的区域，而右边是预览区域，是左边编辑区用Markdown标记语法编写后的内容展示区，也是最终展示给用户的文本样式。那什么是markdown标记语法？大家可以先观察一下上图左边编辑区的文本内容，是不是不明白 <em>#</em> 号的作用？其实它是一级标题的意思，是将它后面的文本内容设为一级标题，如果有两个##号呢？那就是二级标题的意思。具体我也不用多说，如果你们感兴趣的话我在这里推荐实用Markdown教程<strong>草鸟教程Markdown</strong>[3]，我起初就是在这里入门的，而且教程内容不多也简单易学，基本上<em>学习+实践</em>40分钟左右就基本全学完了。下面开始迎接我们的主角Typora。</p>
+<span id="more"></span>
+
+<h2 id="2-现代即时渲染Markdown编辑区"><a href="#2-现代即时渲染Markdown编辑区" class="headerlink" title="2.现代即时渲染Markdown编辑区"></a><strong>2.现代即时渲染Markdown编辑区</strong></h2><p>之所以说它现代，是因为它跟传统的Markdown编辑区有很大的不同，因为它的操作界面取消了预览区，现在预览区和编辑区已经二合一了，<strong>编辑区即预览区，预览区即编辑区。</strong> 详见下图。 <img src="https://imgkr.cn-bj.ufileos.com/2f68a0ad-3e86-44db-8898-116b6191bdd1.png" alt="img"></p>
+<p>上图为什么没有Markdown标记语法痕迹？因为它在你编写完一句话时就已经自动隐藏了，但单击某一行内容还是可以显示Markdown标记语法。可以得知你在用Typora编写内容时，你可以用markdown标记语法，也可以不用markdown标记语法，如果你已经使用了markdown标记语法编写，则它在操作界面是会自动隐藏标记语法的，这时候显示的正是即时渲染后的文本内容，即“预览区的内容”。这应该是目前其他Markdown编辑器没有的功能，这是它的一大先进特点。</p>
+<h2 id="3-主题风格"><a href="#3-主题风格" class="headerlink" title="3.主题风格"></a><strong>3.主题风格</strong></h2><p>Typora支持各种类型的主题风格替换，满足你的视觉体验，每种主题界面，除了背景颜色可能会有不同外，字体样式也会有所差异。最开心的是，它不只支持夜间主题风格，满足了夜间办公的需求，也支持绿色主题风格，满足了在光线不太昏暗的情况下写作要求，尽可能地保护眼睛让眼睛不受过度疲劳。下面是它的各种主题风格，滑动可查看更多。当然如果你想要更多主题，你可以在这个<strong>主题网站</strong>[4]下载更多。</p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/cf3d4aec-e255-48a5-bc6c-c21745016653.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/52b5fd10-bc9e-4cde-87ef-1880902cbea5.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/2a65cc94-aa41-4fcf-b231-6abeef4ac590.png" alt="img"></p>
+<p><img src="https://imgkr.cn-bj.ufileos.com/7c48475d-6d09-4137-b1d0-3cf60979a113.png" alt="img"></p>
+<p>&lt;&lt;&lt; 左右滑动见更多 &gt;&gt;&gt;</p>
+<h2 id="4-导入导出"><a href="#4-导入导出" class="headerlink" title="4.导入导出"></a><strong>4.导入导出</strong></h2><p>Typora支持多种格式导入与导出功能。导入可支持.docx,.tex, .ltx, .rst, .rest, .org, .wiki, .dokuwiki, .textile, .opml, .epub等格式文本，导出可支持.pdf,.word,.HTML,.OPML等文本格式，其中可导出为.doc文本格式说明以后编写doc文档，完全可不用<em>wps</em>或<em>word</em>等办公工具，一个轻量级又好用的Typora就完全够用了。但是导出word格式等需要安装事先pandoc软件，这个大家不用担心，我在这里给出了<strong>Pandoc安装包链接</strong>[5]，大家需要的可以在下面复制链接在网站打开即可立马下载，很快的哦！</p>
+<h2 id="5-图片插入和源代码模式"><a href="#5-图片插入和源代码模式" class="headerlink" title="5.图片插入和源代码模式"></a><strong>5.图片插入和源代码模式</strong></h2><p>Typora 的图片插入功能是非常人性化的。因为传统原生Markdown编辑器不太注重图片插入的功能，但在 Typora 中直接使用 <em>右键 - 复制</em>或<em>Ctrl + V</em>将网络图片、剪贴板图片复制到内容中，也可以拖动本地图片到文档中，Typora 还会自动帮你插入符合 Markdown 语法的图片语句，并给它加上标题。源代码模式可以在编辑界面查看文本的markdown文本语法格式。 <img src="https://imgkr.cn-bj.ufileos.com/a96ebaf0-9234-46d4-8715-e38bf982143e.png" alt="img"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>其实Typora还有其他非常实用的功能，因时间有限我就暂时介绍这么多了。Typora相对来说是一款非常轻量级的Markdown编辑器，它干净，颜值又高，没有太多华而不实的功能，体现了<strong>优秀的产品首先应该是简单</strong>的思想，最重要的是使用它真的写得很舒服！</p>
+<h3 id="References"><a href="#References" class="headerlink" title="References"></a>References</h3><p>[1] Typora: <em><a href="https://typora.io/">https://typora.io/</a></em> [2] Typora安装包链接: <em><a href="https://bihua.lanzous.com/icg3xmb">https://bihua.lanzous.com/icg3xmb</a></em> [3] 草鸟教程Markdown: <em><a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></em> [4] 主题网站: <em><a href="http://theme.typora.io/">http://theme.typora.io/</a></em> [5] Pandoc安装包: <em><a href="https://bihua.lanzous.com/icd3ppi">https://bihua.lanzous.com/icd3ppi</a></em></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -1180,7 +1180,7 @@
 <h2 id="git远程仓库"><a href="#git远程仓库" class="headerlink" title="git远程仓库"></a>git远程仓库</h2><ol>
 <li><p>生成SSHKey</p>
 <ul>
-<li>ssh-keygen -t rsa -C  “<a href="mailto:&#x75;&#115;&#x65;&#114;&#x40;&#x65;&#x78;&#97;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#x75;&#115;&#x65;&#114;&#x40;&#x65;&#x78;&#97;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;</a>“.</li>
+<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#115;&#101;&#x72;&#x40;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#x6f;&#x6d;">&#117;&#115;&#101;&#x72;&#x40;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</a>“.</li>
 <li>id_rsa 私钥，id_ras.pub公钥.</li>
 </ul>
 </li>
@@ -1199,7 +1199,7 @@
 <ul>
 <li><p>两种关联方式：</p>
 <ul>
-<li>git remote add origin <a href="mailto:&#103;&#105;&#116;&#x40;&#103;&#105;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#105;&#116;&#x40;&#103;&#105;&#x74;&#x68;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a>:用户名/ 仓库名.git.</li>
+<li>git remote add origin <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#105;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#x6d;">&#x67;&#105;&#116;&#64;&#103;&#105;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#x6d;</a>:用户名/ 仓库名.git.</li>
 <li>git remote add origin <a href="https://github.com/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/用户名/仓库名.git</a></li>
 </ul>
 </li>
@@ -1225,7 +1225,7 @@
 <ul>
 <li><p>两种克隆方式：</p>
 <ul>
-<li>git clone <a href="mailto:&#x67;&#105;&#x74;&#64;&#103;&#x69;&#116;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;">&#x67;&#105;&#x74;&#64;&#103;&#x69;&#116;&#x68;&#117;&#98;&#46;&#x63;&#x6f;&#109;</a>:用户名/仓库名.git.</li>
+<li>git clone <a href="mailto:&#103;&#x69;&#x74;&#64;&#103;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#99;&#111;&#109;">&#103;&#x69;&#x74;&#64;&#103;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#99;&#111;&#109;</a>:用户名/仓库名.git.</li>
 <li>git clone <a href="https://github/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github/用户名/仓库名.git</a>.</li>
 </ul>
 </li>
