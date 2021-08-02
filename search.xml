@@ -1180,7 +1180,7 @@
 <h2 id="git远程仓库"><a href="#git远程仓库" class="headerlink" title="git远程仓库"></a>git远程仓库</h2><ol>
 <li><p>生成SSHKey</p>
 <ul>
-<li>ssh-keygen -t rsa -C  “<a href="mailto:&#117;&#x73;&#101;&#114;&#64;&#x65;&#x78;&#x61;&#109;&#x70;&#x6c;&#101;&#46;&#99;&#x6f;&#x6d;">&#117;&#x73;&#101;&#114;&#64;&#x65;&#x78;&#x61;&#109;&#x70;&#x6c;&#101;&#46;&#99;&#x6f;&#x6d;</a>“.</li>
+<li>ssh-keygen -t rsa -C  “<a href="mailto:&#x75;&#x73;&#x65;&#x72;&#x40;&#101;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#46;&#x63;&#111;&#x6d;">&#x75;&#x73;&#x65;&#x72;&#x40;&#101;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#46;&#x63;&#111;&#x6d;</a>“.</li>
 <li>id_rsa 私钥，id_ras.pub公钥.</li>
 </ul>
 </li>
@@ -1199,7 +1199,7 @@
 <ul>
 <li><p>两种关联方式：</p>
 <ul>
-<li>git remote add origin <a href="mailto:&#103;&#105;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#105;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;</a>:用户名/ 仓库名.git.</li>
+<li>git remote add origin <a href="mailto:&#103;&#x69;&#116;&#64;&#103;&#105;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#x69;&#116;&#64;&#103;&#105;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;</a>:用户名/ 仓库名.git.</li>
 <li>git remote add origin <a href="https://github.com/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github.com/用户名/仓库名.git</a></li>
 </ul>
 </li>
@@ -1225,7 +1225,7 @@
 <ul>
 <li><p>两种克隆方式：</p>
 <ul>
-<li>git clone <a href="mailto:&#103;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#x6d;">&#103;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#x75;&#98;&#46;&#x63;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
+<li>git clone <a href="mailto:&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#104;&#x75;&#98;&#46;&#99;&#111;&#x6d;">&#103;&#x69;&#116;&#64;&#103;&#x69;&#116;&#104;&#x75;&#98;&#46;&#99;&#111;&#x6d;</a>:用户名/仓库名.git.</li>
 <li>git clone <a href="https://github/%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D.git">https://github/用户名/仓库名.git</a>.</li>
 </ul>
 </li>
@@ -2731,219 +2731,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Java面向对象基础</title>
-    <url>/2020/06/14/studynotes/java-object-oriented/</url>
-    <content><![CDATA[<blockquote>
-<p>本文是Java的面向对象篇，学习于<a href="https://www.liaoxuefeng.com/">廖雪峰的Java教程</a>.</p>
-</blockquote>
-<h2 id="面向对象基础"><a href="#面向对象基础" class="headerlink" title="面向对象基础"></a>面向对象基础</h2><h3 id="1-方法"><a href="#1-方法" class="headerlink" title="1.方法"></a>1.方法</h3><ul>
-<li><code>private</code>方法和<code>private</code>字段不能外部类访问。</li>
-<li><code>private</code>方法和<code>private</code>字段是用来方便自身类使用的，为了保证类的封装性。</li>
-<li><strong>this</strong> 变量指当前实例。</li>
-<li>局部变量的优先级高于字段，可变参数也是局部变量。</li>
-<li>可变参数的定义：<code>类型... 变量名</code>，相当于数组。</li>
-</ul>
-<h3 id="2-构造方法"><a href="#2-构造方法" class="headerlink" title="2.构造方法"></a>2.构造方法</h3><ul>
-<li>构造方法名与类名相同，构造方法无返回值，必须用<code>new</code>操作符调用。</li>
-<li>未自定义构造方法时，系统会默认创建一个无参数构造方法。</li>
-<li>如果已经自定义构造方法，系统将不再默认创建构造方法。</li>
-<li>引用类型的字段默认是<code>null</code>，数值类型的字段是默认值，<code>int</code>类型默认值是<code>0</code>，布尔类型默认值是<code>false</code>。</li>
-<li>字段的最终赋值结果由构造方法中的赋值语句决定。</li>
-<li>一个类中可以有多构造方法，只是参数列表不同。</li>
-</ul>
-<h3 id="3-重载方法"><a href="#3-重载方法" class="headerlink" title="3.重载方法"></a>3.重载方法</h3><ul>
-<li><p>方法名相同但参数列表不同的方法叫(overload)重载方法，返回类型<strong>通常</strong>是相同的。</p>
-</li>
-<li><p>重载方法的目的是实现相似的功能但得出不同的结果。</p>
-</li>
-<li><p>方法签名: 方法名和参数列表。</p>
-<span id="more"></span>
-<h3 id="4-继承"><a href="#4-继承" class="headerlink" title="4.继承"></a>4.继承</h3></li>
-<li><p>继承是面向对象编程中的一种强大机制，它明显的功能就是实现代码复用。</p>
-</li>
-<li><p>可以用<code>extends</code> 关键字来实现继承。</p>
-</li>
-<li><p>一个类只能继承自一个父类，但一个类可以同时被多个类继承。</p>
-</li>
-<li><p>未用关键字<code>extends</code>声明继承关系的类，默认 <code>extends Object</code>.</p>
-</li>
-<li><p>用<code>protected</code>声明的字段和方法可以被继承树内的子类访问。</p>
-</li>
-<li><p><code>super</code>表示父类(超类)</p>
-</li>
-<li><p>在任何类的构造方法中，第一行必须是父类的构造方法。</p>
-</li>
-<li><p>如无明显地调用父类的构造方法，编译器会生成默认无参数的调用父类的构造方法。</p>
-</li>
-<li><p>如果明显地调用了父类的构造方法，编译器将不再生成默认构造方法。</p>
-</li>
-</ul>
-<h3 id="4-向上转型-amp-向下转型"><a href="#4-向上转型-amp-向下转型" class="headerlink" title="4.向上转型&amp;向下转型"></a>4.向上转型&amp;向下转型</h3><ul>
-<li>向上转型:将一个子类类型转变为父类类型。</li>
-<li>向下转些:将一个父类类型转变为子类类型。</li>
-<li>向下转型可能会失败，失败时会报<code>ClassCastException</code>错误。</li>
-<li><code>instanceof</code>可以判断一个变量的类型是否是指定类型或者指定类型的子类。</li>
-<li>继承是<strong>is</strong>关系，组合是<strong>has</strong>关系，组合是指某个类有另一个类的实例，但这两个类没有继承关系。</li>
-</ul>
-<h3 id="5-覆写方法"><a href="#5-覆写方法" class="headerlink" title="5.覆写方法"></a>5.覆写方法</h3><ul>
-<li><p>方法签名相同的方法，叫覆写方法(override)。</p>
-</li>
-<li><p>重载方法和覆写方法的区别</p>
-</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th align="left">比较</th>
-<th align="center">重载</th>
-<th align="center">覆写</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">方法名</td>
-<td align="center">相同</td>
-<td align="center">相同</td>
-</tr>
-<tr>
-<td align="left">参数列表</td>
-<td align="center">不同</td>
-<td align="center">相同</td>
-</tr>
-<tr>
-<td align="left">返回类型</td>
-<td align="center">一般相同</td>
-<td align="center">相同</td>
-</tr>
-</tbody></table>
-<ul>
-<li>覆写方法前加上@Override可以让编译器帮助检查是否进行了正确的方法覆写。</li>
-</ul>
-<h3 id="6-多态"><a href="#6-多态" class="headerlink" title="6.多态"></a>6.多态</h3><ul>
-<li>多态: 某个方法的调用，是由实现调用方法的实例的实际类型决定的。</li>
-<li>多态的功能:允许添加更多类型的子类实现相似的功能，在实现代码的高复用性的同时，也不需要修改基于父类的代码。</li>
-<li>可以通过<code>super</code>关键字调用父类的方法。</li>
-</ul>
-<h3 id="7-final"><a href="#7-final" class="headerlink" title="7.final"></a>7.final</h3><ul>
-<li>被<code>final</code>修饰的类不能被继承。</li>
-<li>被<code>final</code>修饰的方法不能被覆写。</li>
-<li>被<code>final</code>修饰的字段不能被重新赋值，但可在构造方法中初始化。</li>
-<li>被<code>final</code>修饰的局部变量不能被重新赋值。</li>
-</ul>
-<h3 id="8-抽象类"><a href="#8-抽象类" class="headerlink" title="8.抽象类"></a>8.抽象类</h3><ul>
-<li>抽象方法：只给出了方法的定义，但方法内没有实现如何语句，不能被执行，目的是让子类去实现它。</li>
-<li>如果定义了抽象方法，相关类必须声明为抽象类，否则会导致编译失败。</li>
-<li>抽象方法和抽象类都用关键字<code>abstract</code>修饰。</li>
-<li>抽象类无法被实例化，并且子类必须实现父类定义的抽象方法，所以抽象类相当于定义了”规范”。</li>
-<li>面向抽象编程：这种尽量引用高层类型，避免引用实际子类型的方式，称之为面向抽象编程。</li>
-</ul>
-<h3 id="9-接口"><a href="#9-接口" class="headerlink" title="9.接口"></a>9.接口</h3><ul>
-<li>如果一个抽象类没有字段，并且所有方法都是抽象方法，那么这个类可改写为接口。</li>
-<li>接口类用关键字<code>interface</code>声明，并且用关键字<code>implements</code>实现继承。</li>
-<li>接口支持多继承，即一个类可以实现多个接口。</li>
-<li>接口定义的方法默认是<code>public abstract</code>类型,所以在定义接口方法时可忽略不写。</li>
-<li>一个接口可以继承自另一个接口，使用关键字<code>extends</code>实现继承。</li>
-<li>在子类中增加default方法实现单独功能，可以不用修改父类方法，实现代码的灵活性。</li>
-</ul>
-<h3 id="10-接口vs抽象类"><a href="#10-接口vs抽象类" class="headerlink" title="10.接口vs抽象类"></a>10.接口vs抽象类</h3><table>
-<thead>
-<tr>
-<th align="left">比较</th>
-<th align="center">接口</th>
-<th align="center">抽象类</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">继承</td>
-<td align="center">多继承</td>
-<td align="center">单继承</td>
-</tr>
-<tr>
-<td align="left">字段</td>
-<td align="center">无实例字段，但可有静态(static final)字段</td>
-<td align="center">有实例字段</td>
-</tr>
-<tr>
-<td align="left">抽象方法</td>
-<td align="center">可定义抽象方法</td>
-<td align="center">可定义抽象方法</td>
-</tr>
-<tr>
-<td align="left">非抽象方法</td>
-<td align="center">不能定义非抽象方法，但可有final方法</td>
-<td align="center">可定义非抽象方法</td>
-</tr>
-</tbody></table>
-<h3 id="11-静态字段-amp-静态方法"><a href="#11-静态字段-amp-静态方法" class="headerlink" title="11.静态字段&amp;静态方法"></a>11.静态字段&amp;静态方法</h3><ul>
-<li>静态字段<ul>
-<li>用<code>static</code>关键字修饰的字段为静态字段。</li>
-<li>静态字段有共享空间，实例字段有单独的空间，换种话说，静态字段属于类，而实例字段属于实例对象。</li>
-<li>普通通过<code>类名.字段</code>的方式访问静态字段。</li>
-</ul>
-</li>
-<li>静态方法<ul>
-<li>用<code>static</code>修饰的方法为静态方法。</li>
-<li>静态方法内部不能访问实例字段，只能访问静态字段，因为静态方法只属于类而不属于实例。</li>
-<li>接口可以有静态字段，并且静态字段必须用final修饰，编译器会自动加上这些修饰符。</li>
-<li>普遍通过<code>类名.方法</code>的方式调用静态方法。</li>
-</ul>
-</li>
-</ul>
-<h3 id="12-包"><a href="#12-包" class="headerlink" title="12.包"></a>12.包</h3><ul>
-<li>设置包(package)机制是为了解决同名类冲突的问题。</li>
-<li>真实完整的类名为<code>包名.类名</code>。</li>
-<li>Java文件和Class文件的存放目录层次与包名结构一致。</li>
-<li>Java文件放在<code>src</code>目录下，class文件放在<code>bin</code>目录下。</li>
-<li>包作用域:未被<code>public</code>,<code>private</code>,<code>protected</code>修饰的字段和方法为包的作用域。</li>
-<li>在一个类中使用另一个包中的类<ul>
-<li>通过写出完整类名。</li>
-<li>通过<code>import</code>语句导入其他包中的类。</li>
-<li>通过<code>import static </code>语句导入其他类的静态字段和静态方法。</li>
-</ul>
-</li>
-<li>如果有两个类名称相同，那么只能<code>import</code>其中一个类，另一个写完整类名。</li>
-<li>包名命名推荐使用倒置的域名来保证唯一性。</li>
-</ul>
-<h3 id="13-classpath-amp-jar"><a href="#13-classpath-amp-jar" class="headerlink" title="13.classpath&amp;jar"></a>13.classpath&amp;jar</h3><ul>
-<li>classpath<ul>
-<li><code>classpath</code>是一种环境变量，用来指示<code>jvm</code>搜索<code>.class</code>文件。</li>
-<li>classpath的设定<ul>
-<li>在系统环境变量中设置</li>
-<li>在启动JVM时设置。<ul>
-<li><code>java -cp /&lt;环境变量&gt; /&lt;文件&gt;</code></li>
-</ul>
-</li>
-<li><code>rt.jar</code>是Java核心库的压缩包。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>jar包<ul>
-<li>jar包是一种zip格式的压缩文件。</li>
-<li>/META-INF/MANIFEST.MF是jar包中特殊的文件，可以指定main-class及其它信息。</li>
-</ul>
-</li>
-</ul>
-<h3 id="14-模块"><a href="#14-模块" class="headerlink" title="14.模块"></a>14.模块</h3><ul>
-<li><p>模块是为了管理依赖，模块以<code>.jmod</code>作为扩展名。</p>
-</li>
-<li><p><code>java.base</code>是”根模块”，所有模块直接或间接依赖<code>java.base</code>模块。</p>
-</li>
-<li><p><code>module-info.java</code>是模块的描述文件。</p>
-  <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">module</span> hello.world &#123;</span><br><span class="line">	<span class="keyword">requires</span> java.base; <span class="comment">// 可不写，任何模块都会自动引入java.base</span></span><br><span class="line">	<span class="keyword">requires</span> java.xml;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
-<li><p>以上，其中<code>module</code>是关键字，<code>hello.world</code>是模块的名称，<code>requires</code>表示引用其他模块。</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>技术笔记</category>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-        <tag>面向对象</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Java入门</title>
     <url>/2020/06/13/studynotes/java-introduction/</url>
     <content><![CDATA[<blockquote>
@@ -3191,6 +2978,219 @@
         <tag>Java</tag>
         <tag>JDK</tag>
         <tag>Java基础</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java面向对象基础</title>
+    <url>/2020/06/14/studynotes/java-object-oriented/</url>
+    <content><![CDATA[<blockquote>
+<p>本文是Java的面向对象篇，学习于<a href="https://www.liaoxuefeng.com/">廖雪峰的Java教程</a>.</p>
+</blockquote>
+<h2 id="面向对象基础"><a href="#面向对象基础" class="headerlink" title="面向对象基础"></a>面向对象基础</h2><h3 id="1-方法"><a href="#1-方法" class="headerlink" title="1.方法"></a>1.方法</h3><ul>
+<li><code>private</code>方法和<code>private</code>字段不能外部类访问。</li>
+<li><code>private</code>方法和<code>private</code>字段是用来方便自身类使用的，为了保证类的封装性。</li>
+<li><strong>this</strong> 变量指当前实例。</li>
+<li>局部变量的优先级高于字段，可变参数也是局部变量。</li>
+<li>可变参数的定义：<code>类型... 变量名</code>，相当于数组。</li>
+</ul>
+<h3 id="2-构造方法"><a href="#2-构造方法" class="headerlink" title="2.构造方法"></a>2.构造方法</h3><ul>
+<li>构造方法名与类名相同，构造方法无返回值，必须用<code>new</code>操作符调用。</li>
+<li>未自定义构造方法时，系统会默认创建一个无参数构造方法。</li>
+<li>如果已经自定义构造方法，系统将不再默认创建构造方法。</li>
+<li>引用类型的字段默认是<code>null</code>，数值类型的字段是默认值，<code>int</code>类型默认值是<code>0</code>，布尔类型默认值是<code>false</code>。</li>
+<li>字段的最终赋值结果由构造方法中的赋值语句决定。</li>
+<li>一个类中可以有多构造方法，只是参数列表不同。</li>
+</ul>
+<h3 id="3-重载方法"><a href="#3-重载方法" class="headerlink" title="3.重载方法"></a>3.重载方法</h3><ul>
+<li><p>方法名相同但参数列表不同的方法叫(overload)重载方法，返回类型<strong>通常</strong>是相同的。</p>
+</li>
+<li><p>重载方法的目的是实现相似的功能但得出不同的结果。</p>
+</li>
+<li><p>方法签名: 方法名和参数列表。</p>
+<span id="more"></span>
+<h3 id="4-继承"><a href="#4-继承" class="headerlink" title="4.继承"></a>4.继承</h3></li>
+<li><p>继承是面向对象编程中的一种强大机制，它明显的功能就是实现代码复用。</p>
+</li>
+<li><p>可以用<code>extends</code> 关键字来实现继承。</p>
+</li>
+<li><p>一个类只能继承自一个父类，但一个类可以同时被多个类继承。</p>
+</li>
+<li><p>未用关键字<code>extends</code>声明继承关系的类，默认 <code>extends Object</code>.</p>
+</li>
+<li><p>用<code>protected</code>声明的字段和方法可以被继承树内的子类访问。</p>
+</li>
+<li><p><code>super</code>表示父类(超类)</p>
+</li>
+<li><p>在任何类的构造方法中，第一行必须是父类的构造方法。</p>
+</li>
+<li><p>如无明显地调用父类的构造方法，编译器会生成默认无参数的调用父类的构造方法。</p>
+</li>
+<li><p>如果明显地调用了父类的构造方法，编译器将不再生成默认构造方法。</p>
+</li>
+</ul>
+<h3 id="4-向上转型-amp-向下转型"><a href="#4-向上转型-amp-向下转型" class="headerlink" title="4.向上转型&amp;向下转型"></a>4.向上转型&amp;向下转型</h3><ul>
+<li>向上转型:将一个子类类型转变为父类类型。</li>
+<li>向下转些:将一个父类类型转变为子类类型。</li>
+<li>向下转型可能会失败，失败时会报<code>ClassCastException</code>错误。</li>
+<li><code>instanceof</code>可以判断一个变量的类型是否是指定类型或者指定类型的子类。</li>
+<li>继承是<strong>is</strong>关系，组合是<strong>has</strong>关系，组合是指某个类有另一个类的实例，但这两个类没有继承关系。</li>
+</ul>
+<h3 id="5-覆写方法"><a href="#5-覆写方法" class="headerlink" title="5.覆写方法"></a>5.覆写方法</h3><ul>
+<li><p>方法签名相同的方法，叫覆写方法(override)。</p>
+</li>
+<li><p>重载方法和覆写方法的区别</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="left">比较</th>
+<th align="center">重载</th>
+<th align="center">覆写</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">方法名</td>
+<td align="center">相同</td>
+<td align="center">相同</td>
+</tr>
+<tr>
+<td align="left">参数列表</td>
+<td align="center">不同</td>
+<td align="center">相同</td>
+</tr>
+<tr>
+<td align="left">返回类型</td>
+<td align="center">一般相同</td>
+<td align="center">相同</td>
+</tr>
+</tbody></table>
+<ul>
+<li>覆写方法前加上@Override可以让编译器帮助检查是否进行了正确的方法覆写。</li>
+</ul>
+<h3 id="6-多态"><a href="#6-多态" class="headerlink" title="6.多态"></a>6.多态</h3><ul>
+<li>多态: 某个方法的调用，是由实现调用方法的实例的实际类型决定的。</li>
+<li>多态的功能:允许添加更多类型的子类实现相似的功能，在实现代码的高复用性的同时，也不需要修改基于父类的代码。</li>
+<li>可以通过<code>super</code>关键字调用父类的方法。</li>
+</ul>
+<h3 id="7-final"><a href="#7-final" class="headerlink" title="7.final"></a>7.final</h3><ul>
+<li>被<code>final</code>修饰的类不能被继承。</li>
+<li>被<code>final</code>修饰的方法不能被覆写。</li>
+<li>被<code>final</code>修饰的字段不能被重新赋值，但可在构造方法中初始化。</li>
+<li>被<code>final</code>修饰的局部变量不能被重新赋值。</li>
+</ul>
+<h3 id="8-抽象类"><a href="#8-抽象类" class="headerlink" title="8.抽象类"></a>8.抽象类</h3><ul>
+<li>抽象方法：只给出了方法的定义，但方法内没有实现如何语句，不能被执行，目的是让子类去实现它。</li>
+<li>如果定义了抽象方法，相关类必须声明为抽象类，否则会导致编译失败。</li>
+<li>抽象方法和抽象类都用关键字<code>abstract</code>修饰。</li>
+<li>抽象类无法被实例化，并且子类必须实现父类定义的抽象方法，所以抽象类相当于定义了”规范”。</li>
+<li>面向抽象编程：这种尽量引用高层类型，避免引用实际子类型的方式，称之为面向抽象编程。</li>
+</ul>
+<h3 id="9-接口"><a href="#9-接口" class="headerlink" title="9.接口"></a>9.接口</h3><ul>
+<li>如果一个抽象类没有字段，并且所有方法都是抽象方法，那么这个类可改写为接口。</li>
+<li>接口类用关键字<code>interface</code>声明，并且用关键字<code>implements</code>实现继承。</li>
+<li>接口支持多继承，即一个类可以实现多个接口。</li>
+<li>接口定义的方法默认是<code>public abstract</code>类型,所以在定义接口方法时可忽略不写。</li>
+<li>一个接口可以继承自另一个接口，使用关键字<code>extends</code>实现继承。</li>
+<li>在子类中增加default方法实现单独功能，可以不用修改父类方法，实现代码的灵活性。</li>
+</ul>
+<h3 id="10-接口vs抽象类"><a href="#10-接口vs抽象类" class="headerlink" title="10.接口vs抽象类"></a>10.接口vs抽象类</h3><table>
+<thead>
+<tr>
+<th align="left">比较</th>
+<th align="center">接口</th>
+<th align="center">抽象类</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">继承</td>
+<td align="center">多继承</td>
+<td align="center">单继承</td>
+</tr>
+<tr>
+<td align="left">字段</td>
+<td align="center">无实例字段，但可有静态(static final)字段</td>
+<td align="center">有实例字段</td>
+</tr>
+<tr>
+<td align="left">抽象方法</td>
+<td align="center">可定义抽象方法</td>
+<td align="center">可定义抽象方法</td>
+</tr>
+<tr>
+<td align="left">非抽象方法</td>
+<td align="center">不能定义非抽象方法，但可有final方法</td>
+<td align="center">可定义非抽象方法</td>
+</tr>
+</tbody></table>
+<h3 id="11-静态字段-amp-静态方法"><a href="#11-静态字段-amp-静态方法" class="headerlink" title="11.静态字段&amp;静态方法"></a>11.静态字段&amp;静态方法</h3><ul>
+<li>静态字段<ul>
+<li>用<code>static</code>关键字修饰的字段为静态字段。</li>
+<li>静态字段有共享空间，实例字段有单独的空间，换种话说，静态字段属于类，而实例字段属于实例对象。</li>
+<li>普通通过<code>类名.字段</code>的方式访问静态字段。</li>
+</ul>
+</li>
+<li>静态方法<ul>
+<li>用<code>static</code>修饰的方法为静态方法。</li>
+<li>静态方法内部不能访问实例字段，只能访问静态字段，因为静态方法只属于类而不属于实例。</li>
+<li>接口可以有静态字段，并且静态字段必须用final修饰，编译器会自动加上这些修饰符。</li>
+<li>普遍通过<code>类名.方法</code>的方式调用静态方法。</li>
+</ul>
+</li>
+</ul>
+<h3 id="12-包"><a href="#12-包" class="headerlink" title="12.包"></a>12.包</h3><ul>
+<li>设置包(package)机制是为了解决同名类冲突的问题。</li>
+<li>真实完整的类名为<code>包名.类名</code>。</li>
+<li>Java文件和Class文件的存放目录层次与包名结构一致。</li>
+<li>Java文件放在<code>src</code>目录下，class文件放在<code>bin</code>目录下。</li>
+<li>包作用域:未被<code>public</code>,<code>private</code>,<code>protected</code>修饰的字段和方法为包的作用域。</li>
+<li>在一个类中使用另一个包中的类<ul>
+<li>通过写出完整类名。</li>
+<li>通过<code>import</code>语句导入其他包中的类。</li>
+<li>通过<code>import static </code>语句导入其他类的静态字段和静态方法。</li>
+</ul>
+</li>
+<li>如果有两个类名称相同，那么只能<code>import</code>其中一个类，另一个写完整类名。</li>
+<li>包名命名推荐使用倒置的域名来保证唯一性。</li>
+</ul>
+<h3 id="13-classpath-amp-jar"><a href="#13-classpath-amp-jar" class="headerlink" title="13.classpath&amp;jar"></a>13.classpath&amp;jar</h3><ul>
+<li>classpath<ul>
+<li><code>classpath</code>是一种环境变量，用来指示<code>jvm</code>搜索<code>.class</code>文件。</li>
+<li>classpath的设定<ul>
+<li>在系统环境变量中设置</li>
+<li>在启动JVM时设置。<ul>
+<li><code>java -cp /&lt;环境变量&gt; /&lt;文件&gt;</code></li>
+</ul>
+</li>
+<li><code>rt.jar</code>是Java核心库的压缩包。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>jar包<ul>
+<li>jar包是一种zip格式的压缩文件。</li>
+<li>/META-INF/MANIFEST.MF是jar包中特殊的文件，可以指定main-class及其它信息。</li>
+</ul>
+</li>
+</ul>
+<h3 id="14-模块"><a href="#14-模块" class="headerlink" title="14.模块"></a>14.模块</h3><ul>
+<li><p>模块是为了管理依赖，模块以<code>.jmod</code>作为扩展名。</p>
+</li>
+<li><p><code>java.base</code>是”根模块”，所有模块直接或间接依赖<code>java.base</code>模块。</p>
+</li>
+<li><p><code>module-info.java</code>是模块的描述文件。</p>
+  <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">module</span> hello.world &#123;</span><br><span class="line">	<span class="keyword">requires</span> java.base; <span class="comment">// 可不写，任何模块都会自动引入java.base</span></span><br><span class="line">	<span class="keyword">requires</span> java.xml;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p>以上，其中<code>module</code>是关键字，<code>hello.world</code>是模块的名称，<code>requires</code>表示引用其他模块。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>技术笔记</category>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>面向对象</tag>
       </tags>
   </entry>
   <entry>
